@@ -8,3 +8,6 @@ permalink: /resume/
 ### Marketing Professional
 
 ### Honigman LL, Digital Marketing Coordinator
+Chicago, IL (2017 - Present)
+- Task 1
+- Task 2
