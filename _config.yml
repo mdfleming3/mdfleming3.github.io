@@ -2,8 +2,7 @@ title: www.markdfleming.com
 author:
   name: Mark Fleming
   email: mdfleming3@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
-Mark Fleming is a marketing and business development professional living in Chicago. He is currently pursuring his MBA from the University of Illinois at Urbana-Champaign.
+description: Mark Fleming is a marketing and business development professional living in Chicago. He is currently pursuring his MBA from the University of Illinois at Urbana-Champaign.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
