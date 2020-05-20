@@ -11,9 +11,6 @@ show_excerpts: true # set to true to show excerpts on the homepage
 minima:
   date_format: "%b %-d, %Y"
 
-# Specify the name of a file to show as a masthead graphic at the top of each page, instead of the title, here:
-masthead: /logo.png
-
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
