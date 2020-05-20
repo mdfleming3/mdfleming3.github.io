@@ -9,7 +9,6 @@
           <a href="{{ 'feed.xml' | relative_url }}">
             <svg class="svg-icon orange">
               <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-                        {%- include social.html -%}
             </svg>                     
           </a>
         </p>
@@ -29,6 +28,8 @@
         <p>{{ site.description | escape }}</p>
       </div>
     </div>
+                            {%- include social.html -%}
+                            <p> © <script>document.write( new Date().getFullYear() );</script> Mark Fleming
   </div>
 
 </footer>
