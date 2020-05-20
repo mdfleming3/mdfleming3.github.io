@@ -50,7 +50,7 @@ minima:
 #header_pages:
 - blog.html
 - about.md
-- resume.md
+- Resume.md
 
 # Build settings
 theme: minima
