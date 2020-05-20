@@ -4,8 +4,14 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    <a href="{{ "/" | relative_url }}"><img src="logo.png" alt="logo" style="width:42pxborder:0"></a>
+    
+        <a class="site-title" href="{{ full_base_url }}/">
+      {% if site.logo %}
+        <img src="{{ full_base_url }}/{{ site.logo }}" class="site-logo" width="auto" height="56">
+      {% else %}
+        {{ site.title | escape }}
+      {% endif %}
+    </a>
 
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
