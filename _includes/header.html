@@ -5,6 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;border:0"></a>
 
     {%- if titles_size > 0 -%}
       <nav class="site-nav">
