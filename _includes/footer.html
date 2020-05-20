@@ -9,8 +9,8 @@
           <a href="{{ 'feed.xml' | relative_url }}">
             <svg class="svg-icon orange">
               <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+                        {%- include social.html -%}
             </svg>                     
-            {%- include social.html -%}
           </a>
         </p>
       {%- if site.author %}
@@ -21,6 +21,7 @@
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif %}
+          
         </ul>
       {%- endif %}
       </div>
