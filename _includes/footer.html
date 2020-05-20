@@ -20,7 +20,6 @@
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif %}
-          {%- include social.html -%}
         </ul>
       {%- endif %}
       </div>
@@ -28,6 +27,7 @@
         <p>{{ site.description | escape }}</p>
       </div>
     </div>
+              {%- include social.html -%}
   </div>
 
 </footer>
