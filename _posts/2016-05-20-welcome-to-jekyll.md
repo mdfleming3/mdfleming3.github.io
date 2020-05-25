@@ -2,7 +2,7 @@
 layout: post
 ---
 
-<img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
+<img src="https://mariacollege.edu/wp-content/uploads/2018/03/mountaintop-1024x577.jpg" alt="image" >
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
