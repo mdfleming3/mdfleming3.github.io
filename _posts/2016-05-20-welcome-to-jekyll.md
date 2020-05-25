@@ -2,7 +2,7 @@
 layout: post
 ---
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fplace%2FMount-Everest&psig=AOvVaw09U9l47WCVAqa71IsOC1Id&ust=1590533167376000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC2iPaL0OkCFQAAAAAdAAAAABAD" alt="Mt Everest" width="500">
+<img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp" width="32" height="32">
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
