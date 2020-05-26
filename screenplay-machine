@@ -1,0 +1,2424 @@
+---
+layout: page
+---
+
+<style type="text/css" media="screen">
+  .container {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+  
+  .antagonist {
+ color:#D32F2F;
+}
+.ant-internal-goal {
+ color:#f4c738;
+}
+.ant-internal-risk {
+ color:#d8a2a2;
+}
+
+#container {
+ border: 0px;
+}
+.coping {
+ color:#673AB7;
+}
+div {
+    padding: 10%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font: 16px Arial;
+	margin: auto;
+}
+.ending-emotion {
+ color: #009688;
+}
+.external-goal {
+ color: #4CAF50;
+}
+.external-risk {
+ color: #FF5722;
+}
+.input {
+ color: #963d00;
+}
+input[type=text], select {
+    width: 40%;
+    min-width: 150px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font: 16px Arial;
+}
+input[type=button] {
+    width: 12.5%;
+    min-width: 60px;
+    background-color:#30adc5;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+ font: 16px Arial;
+    }
+.protagonist {
+ color:#3F51B5;
+}
+.pro-internal-goal {
+ color:#03A9F4;
+}
+.pro-internal-risk {
+ color:b055a1;
+}
+#quest1 {
+    padding: 20px;
+    width:100%;
+
+}
+#quest2{
+ display: none; 
+ padding: 20px;
+    width:100%;
+}
+#quest3{
+ display: none;
+     padding: 20px;
+    width:100%;
+}
+#quest4{
+ display: none; 
+    padding: 20px;
+    width:100%;
+}
+#quest5{
+ display: none; 
+    padding: 20px;
+    width:100%;
+}
+#quest6{
+ display: none;
+ padding: 20px;
+    width:100%;
+}
+#quest7{
+ display: none;
+ padding: 20px;
+    width:100%;
+}
+#quest8{
+ display: none;
+ padding: 20px;
+    width:100%;
+}
+#quest9{
+ display: none;
+ padding: 20px;
+    width:100%;
+}
+#quest10{
+ display: none;
+ padding: 20px 20px 20px ;
+    width:100%;
+}
+#quest11{
+ display: none;
+ padding: 20px;
+    width:100%;
+}
+#red-button {
+    width: 12.5%;
+    min-width 60px;
+    background-color: #ccc;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+ font: 16px Arial;
+}
+#results{
+ display: none;
+ padding: 20px;
+    width:100%;
+}
+.starting-emotion {
+ color: #607D8b;
+}
+</style>
+
+<script>
+//Question #1 Begins:
+function protagonistChange(){
+var pro1 = document.getElementById('protagonist1')
+var pro2 = document.getElementById('protagonist2')
+var pro3 = document.getElementById('protagonist3')
+var pro4 = document.getElementById('protagonist4')
+var pro5 = document.getElementById('protagonist5')
+var pro6 = document.getElementById('protagonist6')
+var pro7 = document.getElementById('protagonist7')
+var pro8 = document.getElementById('protagonist8')
+var pro9 = document.getElementById('protagonist9')
+var pro10 = document.getElementById('protagonist10')
+var pro11 = document.getElementById('protagonist11')
+var pro12 = document.getElementById('protagonist12')
+var pro13 = document.getElementById('protagonist13')
+var pro14 = document.getElementById('protagonist14')
+var pro15 = document.getElementById('protagonist15')
+var pro16 = document.getElementById('protagonist16')
+var pro17 = document.getElementById('protagonist17')
+var pro18 = document.getElementById('protagonist18')
+var pro19 = document.getElementById('protagonist19')
+var pro20 = document.getElementById('protagonist20')
+var pro21 = document.getElementById('protagonist21')
+var pro22 = document.getElementById('protagonist22')
+var pro23 = document.getElementById('protagonist23')
+var pro24 = document.getElementById('protagonist24')
+var pro25 = document.getElementById('protagonist25')
+var pro26 = document.getElementById('protagonist26')
+var pro27 = document.getElementById('protagonist27')
+var pro28 = document.getElementById('protagonist28')
+var pro29 = document.getElementById('protagonist29')
+var pro30 = document.getElementById('protagonist30')
+var pro31 = document.getElementById('protagonist31')
+var pro32 = document.getElementById('protagonist32')
+var name = document.getElementById('protagonist-name')
+pro1.innerHTML = name.value;
+pro2.innerHTML = name.value;
+pro3.innerHTML = name.value;
+pro4.innerHTML = name.value;
+pro5.innerHTML = name.value;
+pro6.innerHTML = name.value;
+pro7.innerHTML = name.value;
+pro8.innerHTML = name.value;
+pro9.innerHTML = name.value;
+pro10.innerHTML = name.value;
+pro11.innerHTML = name.value;
+pro12.innerHTML = name.value;
+pro13.innerHTML = name.value;
+pro14.innerHTML = name.value;
+pro15.innerHTML = name.value;
+pro16.innerHTML = name.value;
+pro17.innerHTML = name.value;
+pro18.innerHTML = name.value;
+pro19.innerHTML = name.value;
+pro20.innerHTML = name.value;
+pro21.innerHTML = name.value;
+pro22.innerHTML = name.value;
+pro23.innerHTML = name.value;
+pro24.innerHTML = name.value;
+pro25.innerHTML = name.value;
+pro26.innerHTML = name.value;
+pro27.innerHTML = name.value;
+pro28.innerHTML = name.value;
+pro29.innerHTML = name.value;
+pro30.innerHTML = name.value;
+pro31.innerHTML = name.value;
+pro32.innerHTML = name.value;
+} 
+//Question #1 Ends
+
+//Question #2 Begins
+function extChange(){
+var extoption1 = document.getElementById("ext-need1")
+var extoption2 = document.getElementById("ext-need2")
+var extoption3 = document.getElementById("ext-need3")
+var extoption4 = document.getElementById("ext-need4")
+var extoption5 = document.getElementById("ext-need5")
+var extoption6 = document.getElementById("ext-need6")
+
+if (extoption1.checked){
+ var ext1 = document.getElementById('external-goal1')
+ var ext2 = document.getElementById('external-goal2')
+ var ext3 = document.getElementById('external-goal3')
+ var ext4 = document.getElementById('external-goal4')
+ var ext5 = document.getElementById('external-goal5')
+ var ext6 = document.getElementById('external-goal6')
+ var ext7 = document.getElementById('external-goal7')
+ var ext8 = document.getElementById('external-goal8')
+ var ext9 = document.getElementById('external-goal9')
+ var ext10 = document.getElementById('external-goal10')
+ var ext11 = document.getElementById('external-goal11')
+ var ext12 = document.getElementById('external-goal12')
+ var ext13 = document.getElementById('external-goal13')
+ var ext14 = document.getElementById('external-goal14')
+ var ext15 = document.getElementById('external-goal15')
+ var ext16 = document.getElementById('external-goal16')
+    var ext17 = document.getElementById('external-risk1')
+ var ext18 = document.getElementById('external-risk2')
+ var ext19 = document.getElementById('external-risk3')
+ var ext20 = document.getElementById('external-risk4')
+ var ext21 = document.getElementById('external-risk5')
+ var name = document.getElementById('ext-need1')
+ ext1.innerHTML = name.value;
+ ext2.innerHTML = name.value;    
+ ext3.innerHTML = name.value;    
+ ext4.innerHTML = name.value;    
+ ext5.innerHTML = name.value;  
+ ext6.innerHTML = name.value;
+ ext7.innerHTML = name.value;    
+ ext8.innerHTML = name.value;    
+ ext9.innerHTML = name.value;    
+ ext10.innerHTML = name.value;  
+ ext11.innerHTML = name.value;
+ ext12.innerHTML = name.value;    
+ ext13.innerHTML = name.value;    
+ ext14.innerHTML = name.value;    
+ ext15.innerHTML = name.value;  
+ ext16.innerHTML = name.value;    
+ ext17.innerHTML = "Death";
+ ext18.innerHTML = "Death";
+ ext19.innerHTML = "Death";
+ ext20.innerHTML = "Death"; 
+ ext21.innerHTML = "Death"; 
+}
+
+if (extoption2.checked){
+ var ext1 = document.getElementById('external-goal1')
+ var ext2 = document.getElementById('external-goal2')
+ var ext3 = document.getElementById('external-goal3')
+ var ext4 = document.getElementById('external-goal4')
+ var ext5 = document.getElementById('external-goal5')
+ var ext6 = document.getElementById('external-goal6')
+ var ext7 = document.getElementById('external-goal7')
+ var ext8 = document.getElementById('external-goal8')
+ var ext9 = document.getElementById('external-goal9')
+ var ext10 = document.getElementById('external-goal10')
+ var ext11 = document.getElementById('external-goal11')
+ var ext12 = document.getElementById('external-goal12')
+ var ext13 = document.getElementById('external-goal13')
+ var ext14 = document.getElementById('external-goal14')
+ var ext15 = document.getElementById('external-goal15')
+ var ext16 = document.getElementById('external-goal16')
+    var ext17 = document.getElementById('external-risk1')
+ var ext18 = document.getElementById('external-risk2')
+ var ext19 = document.getElementById('external-risk3')
+ var ext20 = document.getElementById('external-risk4')
+ var ext21 = document.getElementById('external-risk5')
+ var name = document.getElementById('ext-need2')
+ ext1.innerHTML = name.value;
+ ext2.innerHTML = name.value;    
+ ext3.innerHTML = name.value;    
+ ext4.innerHTML = name.value;    
+ ext5.innerHTML = name.value;  
+ ext6.innerHTML = name.value;
+ ext7.innerHTML = name.value;    
+ ext8.innerHTML = name.value;    
+ ext9.innerHTML = name.value;    
+ ext10.innerHTML = name.value;  
+ ext11.innerHTML = name.value;
+ ext12.innerHTML = name.value;    
+ ext13.innerHTML = name.value;    
+ ext14.innerHTML = name.value;    
+ ext15.innerHTML = name.value;  
+ ext16.innerHTML = name.value;    
+ ext17.innerHTML = "Danger";
+ ext18.innerHTML = "Danger";
+ ext19.innerHTML = "Danger";
+ ext20.innerHTML = "Danger"; 
+ ext21.innerHTML = "Danger"; 
+}
+
+if (extoption3.checked){
+ var ext1 = document.getElementById('external-goal1')
+ var ext2 = document.getElementById('external-goal2')
+ var ext3 = document.getElementById('external-goal3')
+ var ext4 = document.getElementById('external-goal4')
+ var ext5 = document.getElementById('external-goal5')
+ var ext6 = document.getElementById('external-goal6')
+ var ext7 = document.getElementById('external-goal7')
+ var ext8 = document.getElementById('external-goal8')
+ var ext9 = document.getElementById('external-goal9')
+ var ext10 = document.getElementById('external-goal10')
+ var ext11 = document.getElementById('external-goal11')
+ var ext12 = document.getElementById('external-goal12')
+ var ext13 = document.getElementById('external-goal13')
+ var ext14 = document.getElementById('external-goal14')
+ var ext15 = document.getElementById('external-goal15')
+ var ext16 = document.getElementById('external-goal16')
+    var ext17 = document.getElementById('external-risk1')
+ var ext18 = document.getElementById('external-risk2')
+ var ext19 = document.getElementById('external-risk3')
+ var ext20 = document.getElementById('external-risk4')
+ var ext21 = document.getElementById('external-risk5')
+ var name = document.getElementById('ext-need3')
+ ext1.innerHTML = name.value;
+ ext2.innerHTML = name.value;    
+ ext3.innerHTML = name.value;    
+ ext4.innerHTML = name.value;    
+ ext5.innerHTML = name.value;  
+ ext6.innerHTML = name.value;
+ ext7.innerHTML = name.value;    
+ ext8.innerHTML = name.value;    
+ ext9.innerHTML = name.value;    
+ ext10.innerHTML = name.value;  
+ ext11.innerHTML = name.value;
+ ext12.innerHTML = name.value;    
+ ext13.innerHTML = name.value;    
+ ext14.innerHTML = name.value;    
+ ext15.innerHTML = name.value;  
+ ext16.innerHTML = name.value;    
+ ext17.innerHTML = "Financial Loss";
+ ext18.innerHTML = "Financial Loss";
+ ext19.innerHTML = "Financial Loss";
+ ext20.innerHTML = "Financial Loss"; 
+ ext21.innerHTML = "Financial Loss"; 
+}
+
+if (extoption4.checked){
+ var ext1 = document.getElementById('external-goal1')
+ var ext2 = document.getElementById('external-goal2')
+ var ext3 = document.getElementById('external-goal3')
+ var ext4 = document.getElementById('external-goal4')
+ var ext5 = document.getElementById('external-goal5')
+ var ext6 = document.getElementById('external-goal6')
+ var ext7 = document.getElementById('external-goal7')
+ var ext8 = document.getElementById('external-goal8')
+ var ext9 = document.getElementById('external-goal9')
+ var ext10 = document.getElementById('external-goal10')
+ var ext11 = document.getElementById('external-goal11')
+ var ext12 = document.getElementById('external-goal12')
+ var ext13 = document.getElementById('external-goal13')
+ var ext14 = document.getElementById('external-goal14')
+ var ext15 = document.getElementById('external-goal15')
+ var ext16 = document.getElementById('external-goal16')
+    var ext17 = document.getElementById('external-risk1')
+ var ext18 = document.getElementById('external-risk2')
+ var ext19 = document.getElementById('external-risk3')
+ var ext20 = document.getElementById('external-risk4')
+ var ext21 = document.getElementById('external-risk5')
+    var name = document.getElementById('ext-need4')
+ ext1.innerHTML = name.value;
+ ext2.innerHTML = name.value;    
+ ext3.innerHTML = name.value;    
+ ext4.innerHTML = name.value;    
+ ext5.innerHTML = name.value;  
+ ext6.innerHTML = name.value;
+ ext7.innerHTML = name.value;    
+ ext8.innerHTML = name.value;    
+ ext9.innerHTML = name.value;    
+ ext10.innerHTML = name.value;  
+ ext11.innerHTML = name.value;
+ ext12.innerHTML = name.value;    
+ ext13.innerHTML = name.value;    
+ ext14.innerHTML = name.value;    
+ ext15.innerHTML = name.value;  
+ ext16.innerHTML = name.value;    
+ ext17.innerHTML = "Disease";
+ ext18.innerHTML = "Disease";
+ ext19.innerHTML = "Disease";
+ ext20.innerHTML = "Disease"; 
+ ext21.innerHTML = "Disease"; 
+}
+
+if (extoption5.checked){
+ var ext1 = document.getElementById('external-goal1')
+ var ext2 = document.getElementById('external-goal2')
+ var ext3 = document.getElementById('external-goal3')
+ var ext4 = document.getElementById('external-goal4')
+ var ext5 = document.getElementById('external-goal5')
+ var ext6 = document.getElementById('external-goal6')
+ var ext7 = document.getElementById('external-goal7')
+ var ext8 = document.getElementById('external-goal8')
+ var ext9 = document.getElementById('external-goal9')
+ var ext10 = document.getElementById('external-goal10')
+ var ext11 = document.getElementById('external-goal11')
+ var ext12 = document.getElementById('external-goal12')
+ var ext13 = document.getElementById('external-goal13')
+ var ext14 = document.getElementById('external-goal14')
+ var ext15 = document.getElementById('external-goal15')
+ var ext16 = document.getElementById('external-goal16')
+    var ext17 = document.getElementById('external-risk1')
+ var ext18 = document.getElementById('external-risk2')
+ var ext19 = document.getElementById('external-risk3')
+ var ext20 = document.getElementById('external-risk4')
+ var ext21 = document.getElementById('external-risk5')
+ var name = document.getElementById('ext-need5')
+ ext1.innerHTML = name.value;
+ ext2.innerHTML = name.value;    
+ ext3.innerHTML = name.value;    
+ ext4.innerHTML = name.value;    
+ ext5.innerHTML = name.value;  
+ ext6.innerHTML = name.value;
+ ext7.innerHTML = name.value;    
+ ext8.innerHTML = name.value;    
+ ext9.innerHTML = name.value;    
+ ext10.innerHTML = name.value;  
+ ext11.innerHTML = name.value;
+ ext12.innerHTML = name.value;    
+ ext13.innerHTML = name.value;    
+ ext14.innerHTML = name.value;    
+ ext15.innerHTML = name.value;  
+ ext16.innerHTML = name.value;    
+ ext17.innerHTML = "Disconnection";
+ ext18.innerHTML = "Disconnection";
+ ext19.innerHTML = "Disconnection";
+ ext20.innerHTML = "Disconnection"; 
+ ext21.innerHTML = "Disconnection";
+}
+
+if (extoption6.checked){
+ var ext1 = document.getElementById('external-goal1')
+ var ext2 = document.getElementById('external-goal2')
+ var ext3 = document.getElementById('external-goal3')
+ var ext4 = document.getElementById('external-goal4')
+ var ext5 = document.getElementById('external-goal5')
+ var ext6 = document.getElementById('external-goal6')
+ var ext7 = document.getElementById('external-goal7')
+ var ext8 = document.getElementById('external-goal8')
+ var ext9 = document.getElementById('external-goal9')
+ var ext10 = document.getElementById('external-goal10')
+ var ext11 = document.getElementById('external-goal11')
+ var ext12 = document.getElementById('external-goal12')
+ var ext13 = document.getElementById('external-goal13')
+ var ext14 = document.getElementById('external-goal14')
+ var ext15 = document.getElementById('external-goal15')
+ var ext16 = document.getElementById('external-goal16')
+    var ext17 = document.getElementById('external-risk1')
+ var ext18 = document.getElementById('external-risk2')
+ var ext19 = document.getElementById('external-risk3')
+ var ext20 = document.getElementById('external-risk4')
+ var ext21 = document.getElementById('external-risk5')
+ var name = document.getElementById('ext-need6')
+ ext1.innerHTML = name.value;
+ ext2.innerHTML = name.value;    
+ ext3.innerHTML = name.value;    
+ ext4.innerHTML = name.value;    
+ ext5.innerHTML = name.value;  
+ ext6.innerHTML = name.value;
+ ext7.innerHTML = name.value;    
+ ext8.innerHTML = name.value;    
+ ext9.innerHTML = name.value;    
+ ext10.innerHTML = name.value;  
+ ext11.innerHTML = name.value;
+ ext12.innerHTML = name.value;    
+ ext13.innerHTML = name.value;    
+ ext14.innerHTML = name.value;    
+ ext15.innerHTML = name.value;  
+ ext16.innerHTML = name.value;    
+ ext17.innerHTML = "Loneliness";
+ ext18.innerHTML = "Loneliness";
+ ext19.innerHTML = "Loneliness";
+ ext20.innerHTML = "Loneliness"; 
+ ext21.innerHTML = "Loneliness";
+}
+}
+//Question #2 Ends
+
+//Question #3 Begins
+function inpChange(){
+var inpoption1 = document.getElementById('input-id1')
+var inpoption2 = document.getElementById('input-id2')
+var inpoption3 = document.getElementById('input-id3')
+var inpoption4 = document.getElementById('input-id4')
+var inpoption5 = document.getElementById('input-id5')
+var inpoption6 = document.getElementById('input-id6')
+var inpoption7 = document.getElementById('input-id7')
+var inpoption8 = document.getElementById('input-id8')
+var inpoption9 = document.getElementById('input-id9')
+var inpoption10 = document.getElementById('input-id10')
+var inpoption11 = document.getElementById('input-id11')
+var inpoption12 = document.getElementById('input-id12')
+var inpoption13 = document.getElementById('input-id13')
+var inpoption14 = document.getElementById('input-id14')
+var inpoption15 = document.getElementById('input-id15')
+var inpoption16 = document.getElementById('input-id16')
+var inpoption17 = document.getElementById('input-id17')
+
+if (inpoption1.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id1')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption2.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id2')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption3.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id3')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption4.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id4')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption5.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id5')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption6.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id6')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption7.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id7')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption8.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id8')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption9.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id9')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption10.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id10')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption11.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id11')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption12.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id12')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption13.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id13')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption14.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id14')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption15.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id15')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption16.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id16')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;   
+}
+
+else if (inpoption17.checked){
+ var inp1 = document.getElementById('pro-input1')
+ var inp2 = document.getElementById('pro-input2')
+ var inp3 = document.getElementById('pro-input3')
+ var inp4 = document.getElementById('pro-input4')
+ var name = document.getElementById('input-id17')
+ inp1.innerHTML = name.value;
+ inp2.innerHTML = name.value;    
+ inp3.innerHTML = name.value;    
+ inp4.innerHTML = name.value;    
+}
+}
+//Question #3 Ends
+//Question #4 Begins
+function proIntChange(){
+var prointoption1 = document.getElementById('prointId1')
+var prointoption2 = document.getElementById('prointId2')
+var prointoption3 = document.getElementById('prointId3')
+var prointoption4 = document.getElementById('prointId4')
+var prointoption5 = document.getElementById('prointId5')
+var prointoption6 = document.getElementById('prointId6')
+var prointoption7 = document.getElementById('prointId7')
+var prointoption8 = document.getElementById('prointId8')
+var prointoption9 = document.getElementById('prointId9')
+var prointoption10 = document.getElementById('prointId10')
+var prointoption11 = document.getElementById('prointId11')
+var prointoption12 = document.getElementById('prointId12')
+var prointoption13 = document.getElementById('prointId13')
+var prointoption14 = document.getElementById('prointId14')
+var prointoption15 = document.getElementById('prointId15')
+
+
+if (prointoption1.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')   
+ var name = document.getElementById('prointId1')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;
+ proint7.innerHTML = name.value;    
+ proint8.innerHTML = "Disregard";
+ proint9.innerHTML = "Disregard"; 
+ proint10.innerHTML = "Disregard"; 
+ proint11.innerHTML = "Disregard"; 
+ proint12.innerHTML = "Disregard"; 
+}
+else if (prointoption2.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')  
+ var name = document.getElementById('prointId2')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;    
+ proint7.innerHTML = name.value;     
+ proint8.innerHTML = "Ugliness";
+ proint9.innerHTML = "Ugliness"; 
+ proint10.innerHTML = "Ugliness"; 
+ proint11.innerHTML = "Ugliness"; 
+ proint12.innerHTML = "Ugliness"; 
+}
+else if (prointoption3.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')   
+ var name = document.getElementById('prointId3')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;    
+ proint7.innerHTML = name.value;       
+ proint8.innerHTML = "Incompetence";
+ proint9.innerHTML = "Incompetence"; 
+ proint10.innerHTML = "Incompetence"; 
+ proint11.innerHTML = "Incompetence"; 
+ proint12.innerHTML = "Incompetence"; 
+}
+else if (prointoption4.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')    
+ var name = document.getElementById('prointId4')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;    
+ proint7.innerHTML = name.value;        
+ proint8.innerHTML = "Incompletion";
+ proint9.innerHTML = "Incompletion"; 
+ proint10.innerHTML = "Incompletion"; 
+ proint11.innerHTML = "Incompletion"; 
+ proint12.innerHTML = "Incompletion"; 
+}
+else if (prointoption5.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')   
+ var name = document.getElementById('prointId5')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;    
+ proint7.innerHTML = name.value;       
+ proint8.innerHTML = "Evil";
+ proint9.innerHTML = "Evil"; 
+ proint10.innerHTML = "Evil"; 
+ proint11.innerHTML = "Evil"; 
+ proint12.innerHTML = "Evil"; 
+}
+else if (prointoption6.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')    
+ var name = document.getElementById('prointId6')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;    
+ proint7.innerHTML = name.value;      
+ proint8.innerHTML = "Dependence";
+ proint9.innerHTML = "Dependence"; 
+ proint10.innerHTML = "Dependence"; 
+ proint11.innerHTML = "Dependence"; 
+ proint12.innerHTML = "Dependence"; 
+}
+else if (prointoption7.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')    
+ var name = document.getElementById('prointId7')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;    
+ proint7.innerHTML = name.value;       
+ proint8.innerHTML = "Injustice";
+ proint9.innerHTML = "Injustice"; 
+ proint10.innerHTML = "Injustice"; 
+ proint11.innerHTML = "Injustice"; 
+ proint12.innerHTML = "Injustice"; 
+}
+else if (prointoption8.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')   
+ var name = document.getElementById('prointId8')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;    
+ proint7.innerHTML = name.value;      
+ proint8.innerHTML = "Mundanity";
+ proint9.innerHTML = "Mundanity"; 
+ proint10.innerHTML = "Mundanity"; 
+ proint11.innerHTML = "Mundanity"; 
+ proint12.innerHTML = "Mundanity"; 
+}
+else if (prointoption9.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')   
+ var name = document.getElementById('prointId9')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;    
+ proint7.innerHTML = name.value;       
+ proint8.innerHTML = "Meaninglessness";
+ proint9.innerHTML = "Meaninglessness"; 
+ proint10.innerHTML = "Meaninglessness"; 
+ proint11.innerHTML = "Meaninglessness"; 
+ proint12.innerHTML = "Meaninglessness"; 
+}
+else if (prointoption10.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')   
+ var name = document.getElementById('prointId10')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;    
+ proint7.innerHTML = name.value;        
+ proint8.innerHTML = "Disrespect";
+ proint9.innerHTML = "Disrespect"; 
+ proint10.innerHTML = "Disrespect"; 
+ proint11.innerHTML = "Disrespect"; 
+ proint12.innerHTML = "Disrespect"; 
+}
+else if (prointoption11.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')    
+ var name = document.getElementById('prointId11')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;    
+ proint7.innerHTML = name.value;      
+ proint8.innerHTML = "Shame";
+ proint9.innerHTML = "Shame"; 
+ proint10.innerHTML = "Shame"; 
+ proint11.innerHTML = "Shame"; 
+ proint12.innerHTML = "Shame"; 
+}
+else if (prointoption12.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')   
+ var name = document.getElementById('prointId12')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;    
+ proint7.innerHTML = name.value;      
+ proint8.innerHTML = "Complexity";
+ proint9.innerHTML = "Complexity"; 
+ proint10.innerHTML = "Complexity"; 
+ proint11.innerHTML = "Complexity"; 
+ proint12.innerHTML = "Complexity"; 
+}
+else if (prointoption13.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')   
+ var name = document.getElementById('prointId13')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;    
+ proint7.innerHTML = name.value;      
+ proint8.innerHTML = "Disregard";
+ proint9.innerHTML = "Lowliness"; 
+ proint10.innerHTML = "Lowliness"; 
+ proint11.innerHTML = "Lowliness"; 
+ proint12.innerHTML = "Lowliness"; 
+}
+else if (prointoption14.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')   
+ var name = document.getElementById('prointId14')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;    
+ proint7.innerHTML = name.value;       
+ proint8.innerHTML = "Falsehood";
+ proint9.innerHTML = "Falsehood"; 
+ proint10.innerHTML = "Falsehood"; 
+ proint11.innerHTML = "Falsehood"; 
+ proint12.innerHTML = "Falsehood"; 
+}
+else if (prointoption15.checked){
+    var proint1 = document.getElementById('pro-internal-goal1')
+ var proint2 = document.getElementById('pro-internal-goal2')
+ var proint3 = document.getElementById('pro-internal-goal3')
+ var proint4 = document.getElementById('pro-internal-goal4')
+ var proint5 = document.getElementById('pro-internal-goal5')
+ var proint6 = document.getElementById('pro-internal-goal6')
+ var proint7 = document.getElementById('pro-internal-goal7')
+ var proint8 = document.getElementById('pro-internal-risk1')
+ var proint9 = document.getElementById('pro-internal-risk2')  
+ var proint10 = document.getElementById('pro-internal-risk3')  
+ var proint11 = document.getElementById('pro-internal-risk4')  
+ var proint12 = document.getElementById('pro-internal-risk5')    
+ var name = document.getElementById('prointId15')
+ proint1.innerHTML = name.value;
+ proint2.innerHTML = name.value;    
+ proint3.innerHTML = name.value;    
+ proint4.innerHTML = name.value;    
+  proint5.innerHTML = name.value;
+ proint6.innerHTML = name.value;    
+ proint7.innerHTML = name.value;        
+ proint8.innerHTML = "Commonplace";
+ proint9.innerHTML = "Commonplace"; 
+ proint10.innerHTML = "Commonplace"; 
+ proint11.innerHTML = "Commonplace"; 
+ proint12.innerHTML = "Commonplace"; 
+}
+}
+//Question #4 Ends
+
+//Question #5 Begins
+function antTypeChange(){
+var antoption1 = document.getElementById("antType-id1")
+var antoption2 = document.getElementById("antType-id2")
+var antoption3 = document.getElementById("antType-id3")
+var antoption4 = document.getElementById("antType-id4")
+var antoption5 = document.getElementById("antType-id5")
+
+if (antoption1.checked){
+    var ant1 = document.getElementById('antagonist-type1')
+ var ant2 = document.getElementById('antagonist-type2')
+ var name = document.getElementById('antType-id1')
+ ant1.innerHTML = name.value;
+ ant2.innerHTML = name.value;
+    }
+else if (antoption2.checked){
+    var ant1 = document.getElementById('antagonist-type1')
+ var ant2 = document.getElementById('antagonist-type2')
+ var name = document.getElementById('antType-id2')
+ ant1.innerHTML = name.value;
+    ant2.innerHTML = name.value;
+    } 
+else if (antoption3.checked){
+    var ant1 = document.getElementById('antagonist-type1')
+ var ant2 = document.getElementById('antagonist-type2')
+ var name = document.getElementById('antType-id3')
+ ant1.innerHTML = name.value;
+    ant2.innerHTML = name.value;
+    }    
+else if (antoption4.checked){
+    var ant1 = document.getElementById('antagonist-type1')
+ var ant2 = document.getElementById('antagonist-type2')
+ var name = document.getElementById('antType-id4')
+ ant1.innerHTML = name.value;
+    ant2.innerHTML = name.value;
+    }    
+else if (antoption5.checked){
+    var ant1 = document.getElementById('antagonist-type1')
+ var ant2 = document.getElementById('antagonist-type2')
+ var name = document.getElementById('antType-id5')
+ ant1.innerHTML = name.value;
+    ant2.innerHTML = name.value;
+    }}    
+//Question #5 Ends
+
+//Question #6 Begins
+function antagonistChange()
+{
+var antName1 = document.getElementById('antagonist1')
+var antName2 = document.getElementById('antagonist2')
+var antName3 = document.getElementById('antagonist3')
+var antName4 = document.getElementById('antagonist4')
+var antName5 = document.getElementById('antagonist5')
+var name = document.getElementById('antagonist-name')
+antName1.innerHTML = name.value;
+antName2.innerHTML = name.value;
+antName3.innerHTML = name.value;
+antName4.innerHTML = name.value;
+antName5.innerHTML = name.value;
+}
+//Question #6 Ends
+
+//Question #7 Begins
+function antIntChange(){
+var antintoption1 = document.getElementById('antintId1')
+var antintoption2 = document.getElementById('antintId2')
+var antintoption3 = document.getElementById('antintId3')
+var antintoption4 = document.getElementById('antintId4')
+var antintoption5 = document.getElementById('antintId5')
+var antintoption6 = document.getElementById('antintId6')
+var antintoption7 = document.getElementById('antintId7')
+var antintoption8 = document.getElementById('antintId8')
+var antintoption9 = document.getElementById('antintId9')
+var antintoption10 = document.getElementById('antintId10')
+var antintoption11 = document.getElementById('antintId11')
+var antintoption12 = document.getElementById('antintId12')
+var antintoption13 = document.getElementById('antintId13')
+var antintoption14 = document.getElementById('antintId14')
+var antintoption15 = document.getElementById('antintId15')
+
+
+if (antintoption1.checked){
+     var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId1')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Disregard";
+ antint4.innerHTML = "Disregard"; 
+}
+else if (antintoption2.checked){
+     var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId2')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Ugliness";
+ antint4.innerHTML = "Ugliness"; 
+}
+else if (antintoption3.checked){
+     var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId3')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Incompetence";
+ antint4.innerHTML = "Incompetence"; 
+}
+else if (antintoption4.checked){
+     var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId4')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Incompletion";
+ antint4.innerHTML = "Incompletion"; 
+}
+else if (antintoption5.checked){
+     var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId5')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Evil";
+ antint4.innerHTML = "Evil"; 
+}
+else if (antintoption6.checked){
+    var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-goal3')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId6')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Dependence";
+ antint4.innerHTML = "Dependence"; 
+}
+else if (antintoption7.checked){
+     var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId7')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Injustice";
+ antint4.innerHTML = "Injustice"; 
+}
+else if (antintoption8.checked){
+     var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId8')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Mundanity";
+ antint4.innerHTML = "Mundanity"; 
+}
+else if (antintoption9.checked){
+     var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId9')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Meaninglessness";
+ antint4.innerHTML = "Meaninglessness"; 
+}
+else if (antintoption10.checked){
+    var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId10')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Disrespect";
+ antint4.innerHTML = "Disrespect"; 
+}
+else if (antintoption11.checked){
+     var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId11')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Shame";
+ antint4.innerHTML = "Shame"; 
+}
+else if (antintoption12.checked){
+     var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId12')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Complexity";
+ antint4.innerHTML = "Complexity"; 
+}
+else if (antintoption13.checked){
+     var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId13')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Lowliness"; 
+ antint4.innerHTML = "Lowliness"; 
+}
+else if (antintoption14.checked){
+     var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId14')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Falsehood";
+ antint4.innerHTML = "Falsehood"; 
+}
+else if (antintoption15.checked){
+     var antint1 = document.getElementById('ant-internal-goal1')
+ var antint2 = document.getElementById('ant-internal-goal2')
+ var antint3 = document.getElementById('ant-internal-risk1')
+ var antint4 = document.getElementById('ant-internal-risk2')  
+ var name = document.getElementById('antintId15')
+ antint1.innerHTML = name.value;
+ antint2.innerHTML = name.value;    
+ antint3.innerHTML = "Commonplace";
+ antint4.innerHTML = "Commonplace"; 
+}
+}
+//Question #7 Ends
+//Question #8 Begins
+function copingChange(){
+var copoption1 = document.getElementById('copId1')
+var copoption2 = document.getElementById('copId2')
+var copoption3 = document.getElementById('copId3')
+var copoption4 = document.getElementById('copId4')
+var copoption5 = document.getElementById('copId5')
+var copoption6 = document.getElementById('copId6')
+
+if (copoption1.checked){
+ var cop1 = document.getElementById('coping1')
+ var cop2 = document.getElementById('coping2')
+ var cop3 = document.getElementById('coping3')
+ var cop4 = document.getElementById('coping4')
+ var cop5 = document.getElementById('coping5')
+ var name = document.getElementById('copId1')
+ cop1.innerHTML = name.value;
+ cop2.innerHTML = name.value;    
+ cop3.innerHTML = name.value;
+ cop4.innerHTML = name.value;    
+ cop5.innerHTML = name.value;
+}
+
+else if (copoption2.checked){
+ var cop1 = document.getElementById('coping1')
+ var cop2 = document.getElementById('coping2')
+ var cop3 = document.getElementById('coping3')
+ var cop4 = document.getElementById('coping4')
+ var cop5 = document.getElementById('coping5')
+ var name = document.getElementById('copId2')
+ cop1.innerHTML = name.value;
+ cop2.innerHTML = name.value;    
+ cop3.innerHTML = name.value;
+ cop4.innerHTML = name.value;    
+ cop5.innerHTML = name.value;
+}
+
+else if (copoption3.checked){
+ var cop1 = document.getElementById('coping1')
+ var cop2 = document.getElementById('coping2')
+ var cop3 = document.getElementById('coping3')
+ var cop4 = document.getElementById('coping4')
+ var cop5 = document.getElementById('coping5')
+ var name = document.getElementById('copId3')
+ cop1.innerHTML = name.value;
+ cop2.innerHTML = name.value;    
+ cop3.innerHTML = name.value;
+ cop4.innerHTML = name.value;    
+ cop5.innerHTML = name.value;
+}
+
+else if (copoption4.checked){
+ var cop1 = document.getElementById('coping1')
+ var cop2 = document.getElementById('coping2')
+ var cop3 = document.getElementById('coping3')
+ var cop4 = document.getElementById('coping4')
+ var cop5 = document.getElementById('coping5')
+ var name = document.getElementById('copId4')
+ cop1.innerHTML = name.value;
+ cop2.innerHTML = name.value;    
+ cop3.innerHTML = name.value;
+ cop4.innerHTML = name.value;    
+ cop5.innerHTML = name.value;
+}
+
+else if (copoption5.checked){
+ var cop1 = document.getElementById('coping1')
+ var cop2 = document.getElementById('coping2')
+ var cop3 = document.getElementById('coping3')
+ var cop4 = document.getElementById('coping4')
+ var cop5 = document.getElementById('coping5')
+ var name = document.getElementById('copId5')
+ cop1.innerHTML = name.value;
+ cop2.innerHTML = name.value;    
+ cop3.innerHTML = name.value;
+ cop4.innerHTML = name.value;    
+ cop5.innerHTML = name.value;
+}
+
+else if (copoption6.checked){
+ var cop1 = document.getElementById('coping1')
+ var cop2 = document.getElementById('coping2')
+ var cop3 = document.getElementById('coping3')
+ var cop4 = document.getElementById('coping4')
+ var cop5 = document.getElementById('coping5')
+ var name = document.getElementById('copId6')
+ cop1.innerHTML = name.value;
+ cop2.innerHTML = name.value;    
+ cop3.innerHTML = name.value;
+ cop4.innerHTML = name.value;    
+ cop5.innerHTML = name.value;
+}}
+//Question #8 Ends
+//Question #9 Begins
+function extloseChange(){
+var extresoption1 = document.getElementById('extresId1')
+var extresoption2 = document.getElementById('extresId2')
+
+if (extresoption1.checked){
+var extres1 = document.getElementById('external-result1')
+var extres2 = document.getElementById('external-result2')
+var extres3 = document.getElementById('external-result3')
+var extres4 = document.getElementById('external-result4')
+var name = document.getElementById('extresId1')
+extres1.innerHTML = name.value;
+extres2.innerHTML = name.value;
+extres3.innerHTML = name.value;
+extres4.innerHTML = name.value;
+}
+else if (extresoption2.checked){
+var extres1 = document.getElementById('external-result1')
+var extres2 = document.getElementById('external-result2')
+var extres3 = document.getElementById('external-result3')
+var extres4 = document.getElementById('external-result4')
+var name = document.getElementById('extresId2')
+extres1.innerHTML = name.value;
+extres2.innerHTML = name.value;
+extres3.innerHTML = name.value;
+extres4.innerHTML = name.value;
+}
+}
+//Question #9 Ends
+
+//Question #10 Begins
+function prointloseChange(){
+var intresoption1 = document.getElementById('intresId1')
+var intresoption2 = document.getElementById('intresId2')
+
+if (intresoption1.checked){
+var intres1 = document.getElementById('internal-result1')
+var intres2 = document.getElementById('internal-result2')
+var intres3 = document.getElementById('internal-result3')
+var name = document.getElementById('intresId1')
+intres1.innerHTML = name.value;
+intres2.innerHTML = name.value; 
+intres3.innerHTML = name.value; 
+}
+else if (intresoption2.checked){
+var intres1 = document.getElementById('internal-result1')
+var intres2 = document.getElementById('internal-result2')
+var intres3 = document.getElementById('internal-result3')
+var name = document.getElementById('intresId2')
+intres1.innerHTML = name.value;
+intres2.innerHTML = name.value; 
+intres3.innerHTML = name.value;  
+}
+}
+//Question #10 Ends
+
+//Question #11 Begins
+function emotionChange(){
+var emooption1 = document.getElementById('emoId1')
+var emooption2 = document.getElementById('emoId2')
+var emooption3 = document.getElementById('emoId3')
+var emooption4 = document.getElementById('emoId4')
+var emooption5 = document.getElementById('emoId5')
+var emooption6 = document.getElementById('emoId6')
+var emooption7 = document.getElementById('emoId7')
+var emooption8 = document.getElementById('emoId8')
+var emooption9 = document.getElementById('emoId9')
+var emooption10 = document.getElementById('emoId10')
+var emooption11 = document.getElementById('emoId11')
+var emooption12 = document.getElementById('emoId12')
+var emooption13 = document.getElementById('emoId13')
+var emooption14 = document.getElementById('emoId14')
+var emooption15 = document.getElementById('emoId15')
+var emooption16 = document.getElementById('emoId16')
+var emooption17 = document.getElementById('emoId17')
+var emooption18 = document.getElementById('emoId18')
+var emooption19 = document.getElementById('emoId19')
+var emooption20 = document.getElementById('emoId20')
+var emooption21 = document.getElementById('emoId21')
+var emooption22 = document.getElementById('emoId22')
+
+if (emooption1.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId1')
+ emo1.innerHTML = "Indifference";
+ emo2.innerHTML = "Indifference";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption2.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId2')
+ emo1.innerHTML = "Interest";
+ emo2.innerHTML = "Interest";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption3.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId3')
+ emo1.innerHTML = "Aversion";
+ emo2.innerHTML = "Aversion";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption4.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId4')
+ emo1.innerHTML = "Attraction";
+ emo2.innerHTML = "Attraction";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption5.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId5')
+ emo1.innerHTML = "Distrust";
+ emo2.innerHTML = "Distrust";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption6.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId6')
+ emo1.innerHTML = "Trust";
+ emo2.innerHTML = "Trust";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption7.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId7')
+ emo1.innerHTML = "Fear";
+ emo2.innerHTML = "Fear";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption8.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId8')
+ emo1.innerHTML = "Hope";
+ emo2.innerHTML = "Hope";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption9.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId9')
+ emo1.innerHTML = "Anger";
+ emo2.innerHTML = "Anger";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption10.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId10')
+ emo1.innerHTML = "Gratitude";
+ emo2.innerHTML = "Gratitude";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption11.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId11')
+ emo1.innerHTML = "Sorrow";
+ emo2.innerHTML = "Sorrow";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption12.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId12')
+ emo1.innerHTML = "Joy";
+ emo2.innerHTML = "Joy";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption13.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId13')
+ emo1.innerHTML = "Discontentment";
+ emo2.innerHTML = "Discontentment";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption14.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId14')
+ emo1.innerHTML = "Contentment";
+ emo2.innerHTML = "Contentment";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption15.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId15')
+ emo1.innerHTML = "Pride";
+ emo2.innerHTML = "Pride";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption16.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId16')
+ emo1.innerHTML = "Humility";
+ emo2.innerHTML = "Humility";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption17.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId17')
+ emo1.innerHTML = "Shame";
+ emo2.innerHTML = "Shame";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption18.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId18')
+ emo1.innerHTML = "Courage";
+ emo2.innerHTML = "Courage";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption19.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId19')
+ emo1.innerHTML = "Avarice";
+ emo2.innerHTML = "Avarice";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+
+else if (emooption20.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId20')
+ emo1.innerHTML = "Cruelty";
+ emo2.innerHTML = "Cruelty";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+else if (emooption21.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId21')
+ emo1.innerHTML = "Cruelty";
+ emo2.innerHTML = "Cruelty";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+else if (emooption22.checked){
+ var emo1 = document.getElementById('starting-emotion1')
+ var emo2 = document.getElementById('starting-emotion2')
+    var emo3 = document.getElementById('ending-emotion1')
+    var emo4 = document.getElementById('ending-emotion2')
+ var name = document.getElementById('emoId22')
+ emo1.innerHTML = "Sympathy";
+ emo2.innerHTML = "Sympathy";
+ emo3.innerHTML = name.value;
+ emo4.innerHTML = name.value;    
+}
+}
+//Question #11 Ends
+
+//Show-Hide Buttons Begins
+function hide1() {
+            if (document.getElementById('quest1')) {
+
+                if (document.getElementById('quest1').style.display == 'none') {
+                    document.getElementById('quest1').style.display = 'block';
+                    document.getElementById('quest2').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest1').style.display = 'none';
+                    document.getElementById('quest2').style.display = 'block';
+                }
+            }
+}
+
+function hide2() {
+            if (document.getElementById('quest1')) {
+
+                if (document.getElementById('quest1').style.display == 'none') {
+                    document.getElementById('quest1').style.display = 'block';
+                    document.getElementById('quest2').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest1').style.display = 'none';
+                    document.getElementById('quest2').style.display = 'block';
+                }
+            }
+}
+function hide3() {
+            if (document.getElementById('quest2')) {
+
+                if (document.getElementById('quest2').style.display == 'none') {
+                    document.getElementById('quest2').style.display = 'block';
+                    document.getElementById('quest3').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest2').style.display = 'none';
+                    document.getElementById('quest3').style.display = 'block';
+                }
+            }
+}
+function hide4() {
+            if (document.getElementById('quest3')) {
+
+                if (document.getElementById('quest3').style.display == 'none') {
+                    document.getElementById('quest3').style.display = 'block';
+                    document.getElementById('quest4').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest3').style.display = 'none';
+                    document.getElementById('quest4').style.display = 'block';
+                }
+            }
+}
+function hide5() {
+            if (document.getElementById('quest4')) {
+
+                if (document.getElementById('quest4').style.display == 'none') {
+                    document.getElementById('quest4').style.display = 'block';
+                    document.getElementById('quest5').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest4').style.display = 'none';
+                    document.getElementById('quest5').style.display = 'block';
+                }
+            }
+}
+function hide6() {
+            if (document.getElementById('quest5')) {
+
+                if (document.getElementById('quest5').style.display == 'none') {
+                    document.getElementById('quest5').style.display = 'block';
+                    document.getElementById('quest6').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest5').style.display = 'none';
+                    document.getElementById('quest6').style.display = 'block';
+                }
+            }
+}
+function hide7() {
+            if (document.getElementById('quest6')) {
+
+                if (document.getElementById('quest6').style.display == 'none') {
+                    document.getElementById('quest6').style.display = 'block';
+                    document.getElementById('quest7').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest6').style.display = 'none';
+                    document.getElementById('quest7').style.display = 'block';
+                }
+            }
+}
+function hide8() {
+            if (document.getElementById('quest7')) {
+
+                if (document.getElementById('quest7').style.display == 'none') {
+                    document.getElementById('quest7').style.display = 'block';
+                    document.getElementById('quest8').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest7').style.display = 'none';
+                    document.getElementById('quest8').style.display = 'block';
+                }
+            }
+}
+function hide9() {
+            if (document.getElementById('quest8')) {
+
+                if (document.getElementById('quest8').style.display == 'none') {
+                    document.getElementById('quest8').style.display = 'block';
+                    document.getElementById('quest9').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest8').style.display = 'none';
+                    document.getElementById('quest9').style.display = 'block';
+                }
+            }
+}
+function hide10() {
+            if (document.getElementById('quest9')) {
+
+                if (document.getElementById('quest9').style.display == 'none') {
+                    document.getElementById('quest9').style.display = 'block';
+                    document.getElementById('quest10').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest9').style.display = 'none';
+                    document.getElementById('quest10').style.display = 'block';
+                }
+            }
+}
+function hide11() {
+            if (document.getElementById('quest10')) {
+
+                if (document.getElementById('quest10').style.display == 'none') {
+                    document.getElementById('quest10').style.display = 'block';
+                    document.getElementById('quest11').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest10').style.display = 'none';
+                    document.getElementById('quest11').style.display = 'block';
+                }
+            }
+}
+function hide12() {
+            if (document.getElementById('quest11')) {
+
+                if (document.getElementById('quest11').style.display == 'none') {
+                    document.getElementById('quest11').style.display = 'block';
+                    document.getElementById('results').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest11').style.display = 'none';
+                    document.getElementById('results').style.display = 'block';
+                }
+            }
+}
+
+function reset1() {
+            if (document.getElementById('quest1')) {
+
+                if (document.getElementById('quest1').style.display == 'none') {
+                    document.getElementById('quest1').style.display = 'block';
+                    document.getElementById('quest2').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest1').style.display = 'none';
+                    document.getElementById('quest2').style.display = 'block';
+                }
+            }
+}
+
+function reset2() {
+            if (document.getElementById('quest2')) {
+
+                if (document.getElementById('quest2').style.display == 'none') {
+                    document.getElementById('quest2').style.display = 'block';
+                    document.getElementById('quest3').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest2').style.display = 'none';
+                    document.getElementById('quest3').style.display = 'block';
+                }
+            }
+}
+
+function reset3() {
+            if (document.getElementById('quest3')) {
+
+                if (document.getElementById('quest3').style.display == 'none') {
+                    document.getElementById('quest3').style.display = 'block';
+                    document.getElementById('quest4').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest3').style.display = 'none';
+                    document.getElementById('quest4').style.display = 'block';
+                }
+            }
+}
+
+function reset4() {
+            if (document.getElementById('quest4')) {
+
+                if (document.getElementById('quest4').style.display == 'none') {
+                    document.getElementById('quest4').style.display = 'block';
+                    document.getElementById('quest5').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest4').style.display = 'none';
+                    document.getElementById('quest5').style.display = 'block';
+                }
+            }
+}
+
+function reset5() {
+            if (document.getElementById('quest5')) {
+
+                if (document.getElementById('quest5').style.display == 'none') {
+                    document.getElementById('quest5').style.display = 'block';
+                    document.getElementById('quest6').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest5').style.display = 'none';
+                    document.getElementById('quest6').style.display = 'block';
+                }
+            }
+}
+
+function reset6() {
+            if (document.getElementById('quest6')) {
+
+                if (document.getElementById('quest6').style.display == 'none') {
+                    document.getElementById('quest6').style.display = 'block';
+                    document.getElementById('quest7').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest6').style.display = 'none';
+                    document.getElementById('quest7').style.display = 'block';
+                }
+            }
+}
+
+function reset7() {
+            if (document.getElementById('quest7')) {
+
+                if (document.getElementById('quest7').style.display == 'none') {
+                    document.getElementById('quest7').style.display = 'block';
+                    document.getElementById('quest8').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest7').style.display = 'none';
+                    document.getElementById('quest8').style.display = 'block';
+                }
+            }
+}
+
+function reset8() {
+            if (document.getElementById('quest8')) {
+
+                if (document.getElementById('quest8').style.display == 'none') {
+                    document.getElementById('quest8').style.display = 'block';
+                    document.getElementById('quest9').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest8').style.display = 'none';
+                    document.getElementById('quest9').style.display = 'block';
+                }
+            }
+}
+
+function reset9() {
+            if (document.getElementById('quest9')) {
+
+                if (document.getElementById('quest9').style.display == 'none') {
+                    document.getElementById('quest9').style.display = 'block';
+                    document.getElementById('quest10').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest9').style.display = 'none';
+                    document.getElementById('quest10').style.display = 'block';
+                }
+            }
+}
+
+function reset10() {
+            if (document.getElementById('quest10')) {
+
+                if (document.getElementById('quest10').style.display == 'none') {
+                    document.getElementById('quest10').style.display = 'block';
+                    document.getElementById('quest11').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest10').style.display = 'none';
+                    document.getElementById('quest11').style.display = 'block';
+                }
+            }
+}
+
+function reset11() {
+            if (document.getElementById('quest11')) {
+
+                if (document.getElementById('quest11').style.display == 'none') {
+                    document.getElementById('quest11').style.display = 'block';
+                    document.getElementById('results').style.display = 'none';
+                }
+                else {
+                    document.getElementById('quest11').style.display = 'none';
+                    document.getElementById('results').style.display = 'block';
+                }
+            }
+}
+//Show-Hide Buttons End
+
+//Form Validation Ends
+</script>
+
+
+<div class="container">
+  <h1>Screenplay Machine</h1>
+
+  <p><strong>Introductory Text to the Machine</p>
+
+<form action="/action_page.php" name="screenwriting">
+  <div id="container">
+<h2>Fleming Screenwriting Method</h2>
+  
+<div id="quest1">
+  <b>1. What is your protagonist’s name?</b><br><br>
+     <input type="text" placeholder="Protagonist's Name" name="protagonist" id="protagonist-name"><br>
+        <input type="button" value="Next" onclick="protagonistChange();hide2()">
+</div>
+<div id="quest2">
+  <b>2. What is </b><b id='protagonist1'>your protagonist</b><b> trying to acquire?</b><br><br>
+  <input type="radio" id="ext-need1" name="ext-need" value="Physiological Security"> Physiological Security<br>
+  <input type="radio" id="ext-need2" name="ext-need" value="Personal Security"> Personal Security<br>
+  <input type="radio" id="ext-need3" name="ext-need" value="Financial Security"> Financial Security<br>
+  <input type="radio" id="ext-need4" name="ext-need" value="Health and Well-being"> Health & Well-being<br>
+  <input type="radio" id="ext-need5" name="ext-need" value="Family/Friendship"> Family/Friendship<br>
+  <input type="radio" id="ext-need6" name="ext-need" value="Intimacy"> Intimacy<br>
+  <input type="button" id="red-button" value="Back" onClick="reset1()" />
+  <input type="button" value="Next" onclick="extChange();hide3()">
+  
+</div>
+<div id="quest3">  
+        <b>3. What skill does </b><b id='protagonist2'>your protagonist</b><b> have at the beginning of the story?</b><br><br>
+  <input type="radio" id="input-id1" name="input" value="Ability"> Ability<br>
+  <input type="radio" id="input-id2" name="input" value="Adaptability"> Adaptability<br>
+  <input type="radio" id="input-id3" name="input" value="Commitment"> Committment<br>
+  <input type="radio" id="input-id4" name="input" value="Determination"> Determination<br>
+  <input type="radio" id="input-id5" name="input" value="Education"> Education<br>
+  <input type="radio" id="input-id6" name="input" value="Effort"> Effort<br>
+  <input type="radio" id="input-id7" name="input" value="Enthusiasm"> Enthusiasm<br>
+  <input type="radio" id="input-id8" name="input" value="Experience"> Experience<br>        
+  <input type="radio" id="input-id9" name="input" value="Flexibility"> Flexibility<br>
+  <input type="radio" id="input-id10" name="input" value="Hard Work"> Hard Work<br>
+  <input type="radio" id="input-id11" name="input" value="Loyalty"> Loyalty<br>
+  <input type="radio" id="input-id12" name="input" value="Personal sacrifice"> Personal sacrifice<br>        
+  <input type="radio" id="input-id13" name="input" value="Skill"> Skill<br>        
+  <input type="radio" id="input-id14" name="input" value="Support from co-workers and colleagues"> Support from co-workers and colleagues<br>           
+  <input type="radio" id="input-id15" name="input" value="Time"> Time<br>           
+  <input type="radio" id="input-id16" name="input" value="Tolerance"> Tolerance<br>           
+  <input type="radio" id="input-id17" name="input" value="Trust in superiors"> Trust in superiors<br>           
+  <input type="button" id="red-button" value="Back" onClick="reset2()" />
+  <input type="button" value="Next" onclick="inpChange();hide4()">
+
+</div>        
+<div id="quest4">    
+  <b>4. What does </b><b id='protagonist3'>your protagonist</b><b> hope to gain from acquiring </b><b id='external-goal1'>external need</b><b>?</b><br><br>
+   <input type="radio" id="prointId1" name="pro-int-need" value="Attention"> Attention<br>
+   <input type="radio" id="prointId2" name="pro-int-need" value="Beauty"> Beauty<br>
+            <input type="radio" id="prointId3" name="pro-int-need" value="Competence"> Competence<br>
+   <input type="radio" id="prointId4" name="pro-int-need" value="Completion"> Completion<br>
+            <input type="radio" id="prointId5" name="pro-int-need" value="Goodness"> Goodness<br>
+            <input type="radio" id="prointId6" name="pro-int-need" value="Independence"> Independence<br>
+            <input type="radio" id="prointId7" name="pro-int-need" value="Justice"> Justice<br>
+            <input type="radio" id="prointId8" name="pro-int-need" value="Liveliness"> Liveliness<br>
+   <input type="radio" id="prointId9" name="pro-int-need" value="Meaningfulness"> Meaningfulness<br>
+            <input type="radio" id="prointId10" name="pro-int-need" value="Respect"> Respect<br>
+   <input type="radio" id="prointId11" name="pro-int-need" value="Self-confidence"> Self-confidence<br>
+   <input type="radio" id="prointId12" name="pro-int-need" value="Simplicity"> Simplicity<br>
+            <input type="radio" id="prointId13" name="pro-int-need" value="Status"> Status<br>
+   <input type="radio" id="prointId14" name="pro-int-need" value="Truth"> Truth<br>
+   <input type="radio" id="prointId15" name="pro-int-need" value="Uniqueness"> Uniqueness<br>
+   <input type="button" id="red-button" value="Back" onClick="reset3()" />
+   <input type="button" value="Next" onclick="proIntChange();hide5()">
+
+</div>        
+<div id="quest5">    
+  <b>5. Who prevents </b><b id='protagonist4'>your protagonist</b><b> from achieving </b><b id='external-goal2'>external need</b><b>?</b><br><br>
+     <input type="radio" id="antType-id1" name="antagonist-type" value="Person or Group"> A person or a group of people<br>
+        <input type="radio" id="antType-id2" name="antagonist-type" value="Self"> Self<br>
+        <input type="radio" id="antType-id3" name="antagonist-type" value="Society"> Society<br>
+        <input type="radio" id="antType-id4" name="antagonist-type" value="Nature"> Nature<br>
+        <input type="radio" id="antType-id5" name="antagonist-type" value="Technology"> Technology<br>
+  <input type="button" id="red-button" value="Back" onClick="reset4()" />
+  <input type="button" value="Next" onclick="antTypeChange();hide6()">
+
+</div>        
+<div id="quest6">        
+  <b>6. What is the name for this type of </b><b id='antagonist-type1'>antagonist</b><b>?</b><br><br>
+     <input type="text" placeholder="Antagonist's Name" name="antagonist" id="antagonist-name"><br>
+  <input type="button" id="red-button" value="Back" onClick="reset5()" />
+  <input type="button" value="Next" onclick="antagonistChange();hide7()">
+
+</div>        
+<div id="quest7">
+  <b>7. What does </b><b id='antagonist1'>your antagonist</b><b> stand to gain by preventing </b><b id='protagonist5'>your protagonist</b><b> from achieving </b><b id='external-goal3'>external need</b><b>?</b><br><br>
+   <input type="radio" id="antintId1" name="ant-int-need" value="Attention"> Attention<br>
+   <input type="radio" id="antintId2" name="ant-int-need" value="Beauty"> Beauty<br>
+            <input type="radio" id="antintId3" name="ant-int-need" value="Competence"> Competence<br>
+   <input type="radio" id="antintId4" name="ant-int-need" value="Completion"> Completion<br>
+            <input type="radio" id="antintId5" name="ant-int-need" value="Goodness"> Goodness<br>
+            <input type="radio" id="antintId6" name="ant-int-need" value="Independence"> Independence<br>
+            <input type="radio" id="antintId7" name="ant-int-need" value="Justice"> Justice<br>
+            <input type="radio" id="antintId8" name="ant-int-need" value="Liveliness"> Liveliness<br>
+   <input type="radio" id="antintId9" name="ant-int-need" value="Meaningfulness"> Meaningfulness<br>
+            <input type="radio" id="antintId10" name="ant-int-need" value="Respect"> Respect<br>
+   <input type="radio" id="antintId11" name="ant-int-need" value="Self-confidence"> Self-confidence<br>
+   <input type="radio" id="antintId12" name="ant-int-need" value="Simplicity"> Simplicity<br>
+            <input type="radio" id="antintId13" name="ant-int-need" value="Status"> Status<br>
+   <input type="radio" id="antintId14" name="ant-int-need" value="Truth"> Truth<br>
+   <input type="radio" id="antintId15" name="ant-int-need" value="Uniqueness"> Uniqueness<br>
+  <input type="button" id="red-button" value="Back" onClick="reset6()" />
+  <input type="button" value="Next" onclick="antIntChange();hide8()">
+
+</div>        
+<div id="quest8">        
+  <b>8. When </b><b id='protagonist6'>your protagonist</b><b> first tries to acquire </b><b id='external-goal4'>external need</b><b>, what does he use as a crutch?</b><br><br>
+     <input type="radio" id="copId1" name="coping" value="Social Support"> Social Support<br>
+  <input type="radio" id="copId2" name="coping" value="Positive-light"> Reappraising Stressor in a Positive Light<br>
+     <input type="radio" id="copId3" name="coping" value="Accepting Responsibility"> Accepting Responsibility<br>        
+     <input type="radio" id="copId4" name="coping" value="Avoidance"> Avoidance<br>  
+     <input type="radio" id="copId5" name="coping" value="Self-control"> Self-control<br>  
+     <input type="radio" id="copId6" name="coping" value="Distancing"> Distancing<br>  
+  <input type="button" id="red-button" value="Back" onClick="reset7()" />
+  <input type="button" value="Next" onclick="copingChange();hide9()">
+
+</div>
+<div id="quest9">        
+  <b>9. In the end, does </b><b id='protagonist7'>your protagonist</b><b> acquire </b><b id='external-goal5'>external need</b><b>?</b><br><br>
+     <input type="radio" id="extresId1" name="ext-win-lose" value="achieves"> Yes<br>
+        <input type="radio" id="extresId2" name="ext-win-lose" value="does not achieve"> No<br>
+  <input type="button" id="red-button" value="Back" onClick="reset8()" />
+  <input type="button" value="Next" onclick="extloseChange();hide10()">
+
+</div>
+<div id="quest10">        
+  <b>10. Since </b><b id='protagonist8'>your protagonist</b> <b id='external-result1'>achieves/does not achieve</b> <b id='external-goal5'>external need</b><b> in the end, does he or she acquire </b><b id='pro-internal-goal1'>internal need</b><b>?</b><br><br>
+     <input type="radio" id="intresId1" name="int-win-lose" value="achieves"> Yes<br>
+        <input type="radio" id="intresId2" name="int-win-lose" value="does not achieve"> No<br><br>
+  <input type="button" id="red-button" value="Back" onClick="reset9()" />
+  <input type="button" value="Next" onclick="prointloseChange();hide11()">
+
+</div>
+<div id="quest11">        
+  <b>11. Since </b><b id='internal-result1'>achieves/does not achieve</b> <b id='pro-internal-goal1'>protagonist internal goal</b><b>, how does </b><b id='protagonist9'>your protagonist</b><b> feel?</b><br><br>    
+  <input type="radio" id="emoId1" name="ending-emotion" value="Interest"> Interest (curiosity, enthusiasm, passion)<br>
+        <input type="radio" id="emoId2" name="ending-emotion" value="Indifference"> Indifference (apathy, habituation, boredom)<br>
+        <input type="radio" id="emoId3" name="ending-emotion" value="Attraction"> Attraction (affection, desire, lust)<br>
+        <input type="radio" id="emoId4" name="ending-emotion" value="Aversion"> Aversion (disgust, loneliness, revulsion)<br>
+        <input type="radio" id="emoId5" name="ending-emotion" value="Trust"> Trust (Surprise, amusement, awe, wonder)<br>
+        <input type="radio" id="emoId6" name="ending-emotion" value="Distrust"> Distrust (Alarm, panic)<br>
+        <input type="radio" id="emoId7" name="ending-emotion" value="Hope"> Hope (anticipation, excitement, arousal)<br>
+  <input type="radio" id="emoId8" name="ending-emotion" value="Fear"> Fear (angst, anxiety, dread, guilt, worry, shyness)<br>
+  <input type="radio" id="emoId9" name="ending-emotion" value="Gratitude"> Gratitude (thankfulness)<br>
+  <input type="radio" id="emoId10" name="ending-emotion" value="Anger"> Anger (rage)<br>
+  <input type="radio" id="emoId11" name="ending-emotion" value="Joy"> Joy (elation, triumph, jubilation)<br>
+  <input type="radio" id="emoId12" name="ending-emotion" value="Sorrow"> Sorrow (anguish, grief)<br>
+  <input type="radio" id="emoId13" name="ending-emotion" value="Contentment"> Contentment (pleasure)<br>
+  <input type="radio" id="emoId14" name="ending-emotion" value="Discontentment"> Discontentment (restlessness, annoyance, outrage, frustration, disappointment, regret, saudade, remorse)<br>
+  <input type="radio" id="emoId15" name="ending-emotion" value="Humility"> Humility (modesty)<br>
+  <input type="radio" id="emoId16" name="ending-emotion" value="Pride"> Pride (hubris, narcissism)<br>
+  <input type="radio" id="emoId17" name="ending-emotion" value="Courage"> Courage (confidence)<br>        
+  <input type="radio" id="emoId18" name="ending-emotion" value="Shame"> Shame (shyness, humiliation)<br>
+  <input type="radio" id="emoId19" name="ending-emotion" value="Charity"> Charity (pity)<br>
+  <input type="radio" id="emoId20" name="ending-emotion" value="Avarice"> Avarice (greed, miserliness, envy, jealousy)<br>      
+        <input type="radio" id="emoId21" name="ending-emotion" value="Sympathy"> Sympathy (empathy, love)<br>
+        <input type="radio" id="emoId22" name="ending-emotion" value="Cruelty"> Cruelty (hostility, hate, contempt)<br> 
+  <input type="button" id="red-button" value="Back" onClick="reset10()" />
+  <input type="button" value="Submit" onclick="emotionChange();hide12()">
+
+</div>
+</form>
+<div id="results">
+<h2>Results</h2>
+
+Protagonist Name: <b id='protagonist10' class="protagonist">your protagonist</b><br>
+External Goal: <b id='external-goal6' class="external-goal">external goal</b><br>
+External Risk: <b id='external-risk1' class="external-risk">external risk</b><br>
+Protagonist Input: <b id='pro-input1' class="input">input</b><br>
+Protagonist Internal Goal: <b id='pro-internal-goal2' class='pro-internal-goal'>protagonist internal goal</b><br>
+Protagonist Internal Risk: <b id='pro-internal-risk1' class='pro-internal-risk'>protagonist internal risk</b><br>
+Antagonist Type: <b id='antagonist-type2'>antagonist type</b><br>
+Antagonist Name: <b id='antagonist2' class="antagonist">your antagonist</b><br>
+Antagonist Internal Goal: <b id='ant-internal-goal1' class='ant-internal-goal'>antagonist internal goal</b><br>
+Antagonist Internal Risk: <b id='ant-internal-risk1' class='ant-internal-risk'>antagonist internal risk</b><br>
+Coping Mechanism: <b id='coping1' class="coping">coping mechanism</b><br>
+Achieves External Goal: <b id='external-result2'>External Result</b><br>
+Achieves Internal Goal: <b id='internal-result2'>Internal Result</b><br>
+Starting Emotion: <b id='starting-emotion1' class="starting-emotion">starting emotion</b><br>
+Ending Emotion: <b id='ending-emotion1' class="ending-emotion">ending emotion</b><br>
+
+<br>
+
+<h3>Act 1</h3>
+<h4>Part 1: Establish Status Quo + Inciting Action</h4>
+<ul>
+<li>Show how <b id='protagonist11' class="protagonist">your protagonist</b> feels <b id='starting-emotion2' class="starting-emotion">starting emotion</b> since he or she lacks <b id='pro-internal-goal3' class='pro-internal-goal'>protagonist internal goal</b>.</li>
+<li>Demonstrate <b id='protagonist12' class="protagonist">your protagonist</b><b class="protagonist">'s</b> skill of <b id='pro-input2' class="input">input</b>.</li>
+<li>Justify why the world needs <b id='external-goal7' class="external-goal">external goal</b>.</li>
+<li>Show how <b id='antagonist3' class="antagonist">your antagonist</b> inflicts <b id='external-risk2' class="external-risk">external risk</b> by eliminating <b id='external-goal8' class="external-goal">external goal</b>. This is your inciting action.</li>
+</ul>
+<h4>Part 2: Establish the Lock-in</h4>
+<ul>
+<li><b id='protagonist13' class="protagonist">Your protagonist</b> reacts to the impact of <b id='external-risk3' class="external-risk">external risk</b> and/or the need for <b id='external-goal9' class="external-goal">external goal</b>.</li>
+<li>Introduce <b id='protagonist14' class="protagonist">your protagonist</b><b class="protagonist">’s</b> objective to acquire <b id='external-goal10' class="external-goal">external goal</b> and prevent <b id='external-risk4' class="external-risk">external risk</b>.</li>
+<li>Hint how the objective is also useful to <b id='protagonist15' class="protagonist">your protagonist</b>, because it can increase the <b id='pro-internal-goal4' class='pro-internal-goal'>protagonist internal goal</b> (while preventing <b id='pro-internal-risk2' class='pro-internal-risk'>protagonist internal risk</b>).</li> 
+<li><b id='protagonist16' class="protagonist">Your protagonist</b> locks into objective.</li>
+</ul>
+<h3>Act 2.1:</h3>
+<h4>Part 3: Earning Education Trait</h4>
+<ul>
+<li>Demonstrate <b id='coping2' class="coping">coping mechanism</b>. This is a temporary coping mechanism that allows <b id='protagonist17' class="protagonist">your protagonist</b> to adjust to his or her objective.</li>
+<li><b id='protagonist18' class="protagonist">Your protagonist</b> learns <b id='antagonist4' class="antagonist">your antagonist</b><b class="antagonist">’s</b> goal for <b id='ant-internal-goal2' class='ant-internal-goal'>antagonist internal goal</b> and risk of <b id='ant-internal-risk2' class='ant-internal-risk'>antagonist internal risk</b>.</li>
+<li>Introduce various <b>Build-ups & Payoffs</b>. These are any settings, tools, characters that are essential for <b id='protagonist19' class="protagonist">your protagonist</b> to progress on his or her objective.</li>
+<li>Once all <b>Build-ups & Payoffs</b> are introduced, <b id='protagonist20' class="protagonist">your protagonist</b> earns his or her "<b class="input">Education trait</b>."</li>
+</ul>
+<h4>Part 4: Escalation to Midpoint</h4>
+<ul>
+<li>This part begins when <b id='protagonist21' class="protagonist">Your protagonist</b> encounters his or her first major obstacle related to <b id='external-goal11' class="external-goal">external goal</b>.</li>
+<li><b id='protagonist22' class="protagonist">your protagonist</b> must use his or her <b id='pro-input3' class="input">input</b> and <b class="input">Education Trait</b> to keep moving toward achieving <b id='external-goal12' class="external-goal">external goal</b>.</li>
+<li>Regardless of whether he or she overcomes the obstacle, the progress must eliminate <b id='coping3' class="coping">coping mechanism</b></li>
+<li><b id='protagonist23' class="protagonist">Your protagonist</b> loses his or her <b id='coping4' class="coping">coping mechanism</b>, which leaves him or her exposed to the potential risk of <b id='pro-internal-risk3' class='pro-internal-risk'>protagonist internal risk</b>. He or she must achieve <b id='external-goal13' class='external-goal'>external goal</b> another, more challenging way.</li>
+</ul>
+<h3>Act 2.2.</h3>
+<h4>Part 5: Consequences and Increased Stakes</h4>
+<ul>
+<li>Without <b id='coping5' class="coping">coping mechanism</b>, the risk of <b id='pro-internal-risk4' class='pro-internal-risk'>protagonist internal risk</b> weighs heavier on <b id='protagonist24' class="protagonist">your protagonist</b><b class="protagonist"></b> than his or her opportunity to achieve <b id='pro-internal-goal5' class='pro-internal-goal'>protagonist internal goal</b>.</li>
+<li>As a result, <b id='protagonist25' class="protagonist">your protagonist</b> questions the nature of the objective all together. He or she must consider/attempt another approach while <b id="external-risk5" class="external-risk">External Risk</b> looms nearer.</li>
+<li>While this objective may temporarily avoid <b id='pro-internal-risk5' class='pro-internal-risk'>protagonist internal risk</b>, it does not achieve the <b id='pro-internal-goal6' class="pro-internal-goal">protagonist internal goal</b> that <b id='protagonist26' class='protagonist'>your protagonist</b> has sought since the beginning.</li>
+<li>This part ends when <b id='protagonist27' class="protagonist">your protagonist</b> exhausts all his or her approaches. He or she cannot get any lower, thus, earning his or her <b class='input'>Failure Trait</b>.</li>
+</ul>
+<h3>Act 3:</h3>
+<h4>Part 6: Race to the Climax</h4>
+<ul>
+<li><b id='protagonist28' class="protagonist">Your protagonist</b> returns to pursuing his or her objective by using his or her collected knowledge: <b id='pro-input4' class='input'>input</b>, <b class='input'>Education Trait</b>, and <b class='input'>Failure Trait</b>.</li>
+<li>In both the set-up and the climax, all <b>Build-ups & Payoffs</b> are resolved. This pushes <b id='protagonist29' class="protagonist">your protagonist</b> closer than ever to achieving <b id='external-goal14' class='external-goal'>external goal</b></li>
+<li><b id='protagonist30' class="protagonist">Your protagonist</b> must directly confront <b id='antagonist5' class="antagonist">your antagonist</b>. This interaction determines that <b id='protagonist31' class="protagonist">your protagonist</b> <b id="external-result3">achieves/fails to achieve</b> <b id='external-goal15' class='external-goal'>external goal</b>.</li>
+</ul>
+<h4>Part 7: The Resolution</h4>
+<ul>
+<li>Demonstrate the effects of <b id="external-result4">achieving/failing to achieve</b> <b id='external-goal16' class='external-goal'>external goal</b>.</li>
+<li>Reveal whether other characters achieve their own <b>internal needs</b>.</li>
+<li>Most importantly, show that <b id='protagonist32' class="protagonist">your protagonist</b> <b id="internal-result3">achieves/fails to achieve</b> <b id='pro-internal-goal7' class='pro-internal-goal'>protagonist internal goal</b>. As so, he or she feels <b id='ending-emotion2' class="ending-emotion">ending emotion</b>.
+</li>
+</ul>
+</div>
+</div>
+
+
+</div>
+
+
