@@ -4,18 +4,11 @@
 
   <div class="wrapper">
     <p class="feed-subscribe">
-      <a href="{{ 'feed.xml' | relative_url }}">
-        <svg class="svg-icon orange">
-          <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-        </svg><span>Subscribe</span>
-      </a>
+      <a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>RSS</span>
+      </a> | <a class="u-email" href="mailto:{{ site.author.email }}">Email</a> | <a href="https://www.linkedin.com/in/markdfleming/">Linkedin</>
     </p>
-    
-{% if site.author.email -%}
-<li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-{%- endif %}
-    
-    <p>(c.) 2020 Mark Fleming</p>
+      
+    <p>© <script type="text/javascript">document.write(new Date().getFullYear());</script> Mark Fleming</p>
 
 </footer>
 </footer>
