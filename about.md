@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQH6Nvyv5F1K3g/profile-displayphoto-shrink_200_200/0?e=1596067200&v=beta&t=Za_6nVhOvRGkBG1AS8NXukyyyPSl5uAjhApVvpqDrh8">
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Mark Fleming is a marketing professional located in Chicago, IL. He is interested in analytics and storytelling. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+To connect with him on Linkedin, <a href="https://www.linkedin.com/in/markdfleming/">click here</a>.
