@@ -2,20 +2,10 @@
 layout: page
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-  
-  .antagonist {
+<html>
+<head>
+<style>
+.antagonist {
  color:#D32F2F;
 }
 .ant-internal-goal {
@@ -160,7 +150,6 @@ input[type=button] {
  color: #607D8b;
 }
 </style>
-
 <script>
 //Question #1 Begins:
 function protagonistChange(){
@@ -2174,13 +2163,8 @@ function reset11() {
 
 //Form Validation Ends
 </script>
-
-
-<div class="container">
-  <h1>Screenplay Machine</h1>
-
-  <p><strong>Introductory Text to the Machine</p>
-
+</head>
+<body>
 <form action="/action_page.php" name="screenwriting">
   <div id="container">
 <h2>Fleming Screenwriting Method</h2>
@@ -2417,8 +2401,5 @@ Ending Emotion: <b id='ending-emotion1' class="ending-emotion">ending emotion</b
 </ul>
 </div>
 </div>
-
-
-</div>
-
-
+</body>
+</html>
