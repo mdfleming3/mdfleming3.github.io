@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contact Me
+permalink: /contact/
+---
+
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/YOUR_EMAIL_HERE" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
