@@ -1,3 +1,9 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
+
 <div class="home">
 
   {% if site.paginate %}
