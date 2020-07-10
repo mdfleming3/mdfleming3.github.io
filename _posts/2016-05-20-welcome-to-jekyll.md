@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: content-marketing digital-marketing seo analytics
 ---
 
 <img src="https://mariacollege.edu/wp-content/uploads/2018/03/mountaintop-1024x577.jpg" alt="image" >
