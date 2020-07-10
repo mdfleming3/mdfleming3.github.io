@@ -6,15 +6,16 @@ permalink: /contact/
 
 Don't want to miss out on any posts? Sign up
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/mdfleming3@gmail.com" method="post">
+<form id="fs-frm" name="contact" accept-charset="utf-8" action="https://formspree.io/mdfleming3@gmail.com" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <label for="first-name">First Name</label>
+    <input type="text" name="first-name" id="first-name" placeholder="First Name" required="">
+    <label for="last-name">Last Name</label>
+    <input type="text" name="last-name" id="last-name" placeholder="Last Name" required="">
+    <label for="email">Email</label>
+    <input type="email" name="_replyto" id="email" placeholder="email@domain.tld" required="">
     <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    <textarea rows="5" name="message" id="message"></textarea>
   </fieldset>
   <input type="submit" value="Submit">
 </form><style>/* reset */
