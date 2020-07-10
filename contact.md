@@ -7,7 +7,7 @@ permalink: /contact/
 Don't want to miss out on any posts? Sign up
 
 <html>
-<form id="fs-frm" name="contact" accept-charset="utf-8" action="https://formspree.io/mpzyygyg" method="post">
+<form id="fs-frm" name="contact" accept-charset="utf-8" action="https://formspree.io/mdfleming3@gmail.com" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="first-name">First Name</label>
     <input type="text" name="first-name" id="first-name" placeholder="First Name" required="">
