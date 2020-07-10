@@ -4,7 +4,7 @@ title: Subscribe
 permalink: /subscribe/
 ---
 
-Don't want to miss out on any posts? Sign up
+Don't want to miss out on any posts? Sign up to receive alerts for all new MDF blog posts.
 
 <html>
 <!-- Begin Mailchimp Signup Form -->
@@ -17,7 +17,6 @@ Don't want to miss out on any posts? Sign up
 <div id="mc_embed_signup">
 <form action="https://gmail.us10.list-manage.com/subscribe/post?u=a0d5f9202c3e0175330487440&amp;id=f0a6413e1e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
