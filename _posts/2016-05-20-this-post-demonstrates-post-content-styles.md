@@ -9,7 +9,7 @@ meta: "Springfield"
 ---
 
 <html>
-<iframe src="https://www.youtube.com/embed/sQ2JvwujP68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
+<iframe height="600" src="https://www.youtube.com/embed/sQ2JvwujP68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></html>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
