@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to Jekyll"
 author: Mark Fleming
+description: This is an article that discussed Jekyll.
 category: blog
 meta: content market, digital marketing, SEO, analytics
 tags: content-marketing digital-marketing seo analytics
