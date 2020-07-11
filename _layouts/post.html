@@ -31,14 +31,14 @@ layout: default
   {% endfor %}
     </p>
   </header>
-
-  
   
   <div class="post-content e-content" itemprop="articleBody">
     
     {% if page.featured-image %}
   <img src="{{ site.baseurl }}/assets/{{ page.featured-image }}" alt="featured-image-alt">
-{% endif %}<br>
+{% endif %}<br><br>
+    
+      {% include  share.html %}
     
     {{ content }}
   </div>
@@ -46,8 +46,6 @@ layout: default
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
-  
-  {% include  share.html %}
 
   {% unless page.category == null %}
   {% capture pageCategory %}{{ page.category }}{% endcapture %}
@@ -62,7 +60,11 @@ layout: default
             <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
               <h5>{{ post.title }}<h5>
             </a>
-                {{ post.related-image }}
+
+        {% if post.featured-image %}
+          <img src="{{ site.baseurl }}/assets/{{ post.featured-image }}" alt="featured-image-alt">
+        {% endif %}
+                
            </ul>
 
           {% endunless %}
