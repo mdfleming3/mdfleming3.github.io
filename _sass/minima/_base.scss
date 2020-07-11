@@ -45,7 +45,7 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, img {
   margin-bottom: 25px / 2;
 }
 
@@ -289,9 +289,12 @@ table {
   display: inline-block;
   -webkit-box-shadow: 0 0 1px #777;
   box-shadow: 0 0 1px #777;
-  padding: 0px 0px 0px 10px;
+  padding: 5px 12px;
+  margin-right: 5px;
+  margin-bottom: 25px / 2;
   text-decoration: none; }
-  .share-box a:hover {
+
+.share-box a:hover {
     text-decoration: none;
     -webkit-transition: background-color 200ms linear;
     -ms-transition: background-color 200ms linear;
