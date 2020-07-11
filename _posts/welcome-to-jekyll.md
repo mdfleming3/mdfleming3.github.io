@@ -1,5 +1,4 @@
 ---
-Title: Welcome to Jekyll
 layout: post
 categories: Marketing
 author: Mark Fleming
