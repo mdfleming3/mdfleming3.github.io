@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Test Post 3"
+date: 2020-07-11
+author: Mark Fleming
+description: This is an article that discussed Jekyll.
+featured-image: mountaintop.jpg
+featured-image-alt: mountaintop
+category: blog
+meta: content market, digital marketing, SEO, analytics
+tags: content-marketing digital-marketing seo analytics
+---
+
+Test text
