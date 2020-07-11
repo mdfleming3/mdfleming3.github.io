@@ -29,11 +29,12 @@ layout: default
     {% capture tag_name %}{{ tag }}{% endcapture %}
     <a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>
   {% endfor %}
-        {% include  share.html %}
     </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {% include  share.html %}
+    {% if page.featured-image %}{% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}{% endif %}
     {{ content }}
   </div>
 
