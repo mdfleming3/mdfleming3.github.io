@@ -10,7 +10,7 @@ Don't want to miss out on any posts? Sign up to receive alerts for all new MDF b
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
