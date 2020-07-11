@@ -45,7 +45,7 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-h1, h2, h3, h4, h5, h6, img {
+h1, h2, h3, h4, h5, h6 {
   margin-bottom: 25px / 2;
 }
 
@@ -70,6 +70,7 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
+  margin-bottom: $spacing-unit / 2;
 }
 
 
