@@ -53,16 +53,17 @@ layout: default
   {% capture pageCategory %}{{ page.category }}{% endcapture %}
   {% unless site.categories[pageCategory].size == 1 %}
     <div class="row related-posts">
-      <h2 class="text-center">More {{ page.category }} Posts!</h2>
+      <h2 class="text-center">Related {{ page.category }} Posts:</h2>
       <div class="medium-12 small-12 columns">
-        {% for post in site.categories[pageCategory] limit:6 %}
+        {% for post in site.categories[pageCategory] limit:3 %}
           {% unless post.title == page.title %}
 
-           <h3>
+           <ul>
             <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
-              {{ post.title }}
+              <h5>{{ post.title }}<h5>
             </a>
-           </h3>
+                {{ post.related-image }}
+           </ul>
 
           {% endunless %}
         {% endfor %}
