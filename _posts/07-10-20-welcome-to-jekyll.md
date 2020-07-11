@@ -1,7 +1,7 @@
 ---
 layout: post
-categories: Marketing
-author: Mark Fleming
+author: 
+- Mark Fleming
 meta: 
 tags: content-marketing digital-marketing seo analytics
 ---
