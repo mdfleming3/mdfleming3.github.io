@@ -1,9 +1,9 @@
 title: markdfleming
 logo: logo.png
-author:
+author: 
   name: 
   email: mdfleming3@gmail.com
-description: Mark Fleming is a marketing and business development professional living in Chicago. He is currently pursuring his MBA from the University of Illinois at Urbana-Champaign.
+description: www.markdfleming.com is blog dedicated to providing practical solutions for technical marketing challenges.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -64,3 +64,6 @@ plugins:
 
 gems: 
  - jekyll-sitemap
+ 
+#Google Analytics
+google_analytics: UA-172446520-1
