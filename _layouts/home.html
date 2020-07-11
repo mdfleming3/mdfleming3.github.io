@@ -24,7 +24,10 @@ layout: default
           </a>
         </h1>
          <span class="post-meta">{{ post.date | date: date_format }}</span><br><br>
-        {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
+          {% if page.featured-image %}
+  <img src="{{ page.featured-image }}" alt="featured-image-alt">
+{% endif %}
+        
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
