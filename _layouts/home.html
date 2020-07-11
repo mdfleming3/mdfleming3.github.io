@@ -24,8 +24,8 @@ layout: default
           </a>
         </h1>
          <span class="post-meta">{{ post.date | date: date_format }}</span><br><br>
-          {% if page.featured-image %}
-  <img src="{{ page.featured-image }}" alt="featured-image-alt">
+    {% if page.featured-image %}
+  <img src="{{ site.baseurl }}/assets/{{ page.featured-image }}" alt="featured-image-alt">
 {% endif %}
         
         {%- if site.show_excerpts -%}
