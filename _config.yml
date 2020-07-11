@@ -3,7 +3,7 @@ logo: logo.png
 author: 
   name: 
   email: mdfleming3@gmail.com
-description: The Mark D. Fleming Blog (MDF) is blog dedicated to providing practical solutions for technical marketing challenges.
+description: Mark Fleming's blog is dedicated to providing practical solutions for technical marketing challenges.
 
 #Google Analytics
 google_analytics: UA-172446520-1
@@ -68,4 +68,4 @@ plugins:
 gems: 
  - jekyll-sitemap
  
-
+permalink: /:title/
