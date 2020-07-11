@@ -23,8 +23,6 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h1>
-         <span class="post-meta">{{ post.date | date: date_format }}</span><br><br>
-    
         {% if post.featured-image %}
           <img src="{{ site.baseurl }}/assets/{{ post.featured-image }}" alt="featured-image-alt">
         {% endif %}
