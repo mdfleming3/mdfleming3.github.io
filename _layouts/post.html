@@ -50,21 +50,18 @@ layout: default
   {% unless page.category == null %}
   {% capture pageCategory %}{{ page.category }}{% endcapture %}
   {% unless site.categories[pageCategory].size == 1 %}
-    <div class="row related-posts">
-      <h2 class="text-center">Related {{ page.category }} Posts:</h2>
+    <div class="related-posts">
+      <h4>Related {{ page.category }} Posts:</h4>
       <div class="medium-12 small-12 columns">
         {% for post in site.categories[pageCategory] limit:3 %}
           {% unless post.title == page.title %}
 
-           <ul>
+           <ul class="related-ul">
+              <li class="related-li">
             <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
-              <h5>{{ post.title }}<h5>
-            </a>
-
-        {% if post.featured-image %}
-          <img src="{{ site.baseurl }}/assets/{{ post.featured-image }}" alt="featured-image-alt">
-        {% endif %}
-                
+              {{ post.title }}
+              {{ post.related-image }}
+            </a>           
            </ul>
 
           {% endunless %}
