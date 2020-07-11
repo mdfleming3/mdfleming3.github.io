@@ -33,11 +33,14 @@ layout: default
     </p>
   </header>
 
-  {% if page.featured-image %}
-  <img src="{{ site.baseurl }}/assets/{{ page.featured-image }}" alt="featured-image-alt">
-{% endif %}
+  
   
   <div class="post-content e-content" itemprop="articleBody">
+    
+    {% if page.featured-image %}
+  <img src="{{ site.baseurl }}/assets/{{ page.featured-image }}" alt="featured-image-alt">
+{% endif %}
+    
     {{ content }}
   </div>
 
