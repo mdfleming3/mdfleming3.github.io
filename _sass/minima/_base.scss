@@ -334,3 +334,18 @@ table {
   .e:hover {
     color: #fff;
     background-color: #444444; }
+
+.related-posts {
+  
+}
+
+.related-ul {
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.related-li {
+ display: inline-block;
+    width: 50%; 
+}
