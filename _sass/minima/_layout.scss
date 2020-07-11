@@ -10,6 +10,7 @@
   // Positioning context for the mobile navigation icon
   position: fixed;
   width: 100%;
+  background: #FFFFFF;
 }
 
 .site-title {
@@ -203,7 +204,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: 100px 0 0;
   flex: 1 0 auto;
 }
 
