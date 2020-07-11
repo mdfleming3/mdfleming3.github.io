@@ -2,7 +2,8 @@
 layout: post
 author: 
 - Mark Fleming
-meta: 
+category: blog
+meta: content market, digital marketing, SEO, analytics
 tags: content-marketing digital-marketing seo analytics
 ---
 
