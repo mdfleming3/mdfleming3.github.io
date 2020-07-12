@@ -338,13 +338,14 @@ table {
     background-color: #444444; }
 
 .rect {
+    width: 100%;
     border-top: 1px solid $border-color-01;
     padding-top: 15px;
     margin:0 auto;
 }
 
 .rel {
-    width: 200px;
+    width: 267px;
     display: inline-block;
     padding: 5px;
 }
