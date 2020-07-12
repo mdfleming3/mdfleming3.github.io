@@ -23,13 +23,12 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h1>
-{% for post in site.posts limit:1 %}
+        
         {% if post.image %}
           <a href="{{ post.url | relative_url }}">
             <img width="100%" src="{{ site.baseurl }}/assets/{{ post.image }}" alt=post."{{ post.image-alt }}">
           </a>
-        {% endif %}
-{% endfor %}        
+        {% endif %}   
         <p>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
@@ -40,6 +39,29 @@ layout: default
       {%- endfor -%}
     </ul>
 
+  {%- if posts.size > 1 -%}
+    {%- if page.list_title -%}
+      <h1 class="post-list-heading">{{ page.list_title }}</h1>
+    {%- endif -%}
+    <ul class="post-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in posts -%}
+      <li>
+        <h1>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h1>
+        <p>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+        </p>
+        
+      </li>
+      {%- endfor -%}
+    </ul>
+  
     {% if site.paginate %}
       <div class="pager">
         <ul class="pagination">
