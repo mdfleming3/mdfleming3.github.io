@@ -18,7 +18,7 @@ layout: default
         </time>
       {%- endif -%}
     <br>
-      {% for tag in page.tags %}Topics: 
+      Topics: {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
       <a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>
   {% endfor %}
@@ -41,7 +41,7 @@ layout: default
   {%- endif -%}
 
 <div class="rect">
-
+  <h3>Related Posts</h3>
   {% assign maxRelated = 4 %}
   {% assign minCommonTags =  1 %}
   {% assign maxRelatedCounter = 0 %}
@@ -68,7 +68,7 @@ layout: default
           <a href="{{ site.baseurl }}{{ post.url }}">
               <div class="rel">
                   <h5>{{ post.title }}</h5>
-                  <img width="100%" src="/thumbs/{{post.image}}">
+                  <img width="100%" src="/thumbs/{{post.related-image}}">
               </div>
           </a>
 
