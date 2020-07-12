@@ -17,17 +17,10 @@ layout: default
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
-      {%- if page.author -%}
-        • {% for author in page.author %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
-      {%- endif -%}
     <br>
-  {% for tag in page.tags %}
+      Topics: {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    Topics: <a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>
+      <a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>
   {% endfor %}
     </p>
   </header>
