@@ -340,17 +340,20 @@ table {
     color: #fff;
     background-color: #444444; }
 
-.related-posts {
-  
+.rect {
+    border-top: 3px solid #333;
+    border-bottom: 3px solid #333;
+    padding-top: 15px;
+    margin:0 auto;
 }
 
-.related-ul {
-    list-style-type: none;
-  margin: 0;
-  padding: 0;
+.rel {
+    width: 200px;
+    display: inline-block;
+    padding: 5px;
+    opacity: 0.8;
 }
 
-.related-li {
- display: inline-block;
-    width: 50%; 
+.rel hover {
+     opacity: 1;    
 }
