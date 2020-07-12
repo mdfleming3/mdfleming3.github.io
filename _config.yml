@@ -1,9 +1,9 @@
-title: Mark D. Fleming Blog
+title: Mark Fleming Blog
 logo: logo.png
 author: 
-  name: 
+  name: Mark Fleming
   email: mdfleming3@gmail.com
-description: Mark Fleming's blog is dedicated to providing practical solutions for technical marketing challenges.
+description: The Mark Fleming Blog is dedicated to providing practical solutions for technical marketing challenges.
 
 #Google Analytics
 google_analytics: UA-172446520-1
@@ -54,7 +54,6 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-- blog.md
 - about.md
 - subscribe.md
 
@@ -67,5 +66,6 @@ plugins:
 
 gems: 
  - jekyll-sitemap
+ - 'jekyll-feed'
  
 permalink: /:title/
