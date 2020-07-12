@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: content-marketing"
+title: "Topic: Content Marketing"
 tag: content-marketing
 ---
