@@ -23,12 +23,13 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h1>
-
+{% for post in site.posts limit:1 %}
         {% if post.image %}
           <a href="{{ post.url | relative_url }}">
             <img width="100%" src="{{ site.baseurl }}/assets/{{ post.image }}" alt=post."{{ post.image-alt }}">
           </a>
         {% endif %}
+{% endfor %}        
         <p>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
