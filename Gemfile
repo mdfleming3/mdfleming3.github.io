@@ -6,3 +6,5 @@ gemspec
 gem "jekyll", ENV["JEKYLL_VERSION"] if ENV["JEKYLL_VERSION"]
 
 gem 'jekyll-seo-tag'
+
+gem 'jekyll-feed'
