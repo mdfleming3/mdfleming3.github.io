@@ -345,13 +345,7 @@ table {
 }
 
 .rel {
+    min-width: 255px;
     display: inline-block;
     padding: 5px;
-}
-
-@media screen and (min-width: 256px, min-height: 256px){
-    .rel {
-        min-width: 256px;
-        min-height: 256px;
-    }
 }
