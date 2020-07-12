@@ -27,7 +27,7 @@ layout: default
     <br>
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>
+    Topics: <a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>
   {% endfor %}
     </p>
   </header>
@@ -60,8 +60,8 @@ layout: default
               <li class="related-li">
             <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
               {{ post.title }}
-              {{ post.related-image }}
-            </a>           
+            </a>
+             </li>
            </ul>
 
           {% endunless %}
