@@ -25,7 +25,9 @@ layout: default
         </h1>
 
         {% if post.image %}
-          <img width="100%" src="{{ site.baseurl }}/assets/{{ post.image }}" alt=post."{{ post.image-alt }}">
+          <a href="{{ post.url | relative_url }}">
+            <img width="100%" src="{{ site.baseurl }}/assets/{{ post.image }}" alt=post."{{ post.image-alt }}">
+          </a>
         {% endif %}
         <p>
         {%- if site.show_excerpts -%}
