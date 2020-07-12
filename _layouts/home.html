@@ -25,7 +25,7 @@ layout: default
         </h1>
 
         {% if post.featured-image %}
-          <img width="100%" src="{{ site.baseurl }}/assets/{{ post.image }}" alt="post.image-alt">
+          <img width="100%" src="{{ site.baseurl }}/assets/{{ post.image }}" alt=post."{{ post.image-alt }}">
         {% endif %}
         <p>
         {%- if site.show_excerpts -%}
