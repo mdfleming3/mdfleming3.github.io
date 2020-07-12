@@ -370,3 +370,10 @@
 .related-li {
   display: inline;
 }
+
+@media screen and (min-width: $on-medium) {
+ .rel {
+   width: 100%;
+  }
+  
+}
