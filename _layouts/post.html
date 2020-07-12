@@ -28,7 +28,7 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     
     {% if page.featured-image %}
-  <img src="{{ site.baseurl }}/assets/{{ page.featured-image }}" alt="featured-image-alt">
+  <img src="{{ site.baseurl }}/assets/{{ page.image }}" alt="image-alt">
 {% endif %}
     
       {% include  share.html %}<br>
@@ -68,7 +68,7 @@ layout: default
           <a href="{{ site.baseurl }}{{ post.url }}">
               <div class="rel">
                   <h5>{{ post.title }}</h5>
-                  <img src="{{ site.baseurl }}/assets/{{ post.featured-image }}" alt="post.featured-image-alt">
+                  <img src="{{ site.baseurl }}/assets/{{ post.image }}" alt="post.image-alt">
               </div>
           </a>
 
