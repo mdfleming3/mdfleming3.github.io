@@ -28,7 +28,7 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     
     {% if page.featured-image %}
-  <img src="{{ site.baseurl }}/assets/{{ page.image }}" alt="image-alt">
+  <img src="{{ site.baseurl }}/assets/{{ page.image }}" alt="{{ page.image-alt }}">
 {% endif %}
     
       {% include  share.html %}<br>
