@@ -23,15 +23,16 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h1>
-        <img>
+
         {% if post.featured-image %}
           <img width="100%" src="{{ site.baseurl }}/assets/{{ post.featured-image }}" alt="featured-image-alt">
         {% endif %}
-      </img>
-        
+        <p>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+        </p>
+        
       </li>
       {%- endfor -%}
     </ul>
