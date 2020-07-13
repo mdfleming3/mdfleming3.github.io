@@ -40,14 +40,14 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
+{% if page.tags contains tag %}
 <div class="rect">
+<h3>Related Posts</h3>  
   {% assign maxRelated = 3 %}
   {% assign minCommonTags =  1 %}
   {% assign maxRelatedCounter = 0 %}
 
-
   {% for post in site.posts %}
-
 
     {% assign sameTagCount = 0 %}
     {% assign commonTags = '' %}
@@ -61,10 +61,6 @@ layout: default
         {% endif %}
       {% endif %}
     {% endfor %}
-
-  {% if sameTagCount >= minCommonTags %}
-    <h3>Related Posts</h3>
-  {% endif %}
   
     {% if sameTagCount >= minCommonTags %}
 
@@ -82,6 +78,7 @@ layout: default
     {% endif %}
   {% endfor %}
 </div>
+{% endif %}
   
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
