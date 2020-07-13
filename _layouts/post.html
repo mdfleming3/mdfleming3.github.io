@@ -63,6 +63,10 @@ layout: default
       {% endif %}
     {% endfor %}
 
+  {% if sameTagCount >= minCommonTags %}
+    <h3>Related Posts</h3>
+  {% endif %}
+  
     {% if sameTagCount >= minCommonTags %}
 
           <a href="{{ site.baseurl }}{{ post.url }}">
