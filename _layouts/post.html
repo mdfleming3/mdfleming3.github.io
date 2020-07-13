@@ -40,7 +40,6 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
-{% if page.tags %}
 <div class="rect">
 <h3>Related Posts</h3>  
   {% assign maxRelated = 3 %}
@@ -79,7 +78,6 @@ layout: default
     {% endif %}
   {% endfor %}
 </div>
-  {% endif %}
   
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
