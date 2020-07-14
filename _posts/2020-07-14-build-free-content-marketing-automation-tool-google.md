@@ -3,11 +3,11 @@ layout: post
 title: "How to Build a Free Content Marketing Automation Tool with Google"
 date: 2020-07-14
 author: Mark Fleming
-description: Learn how to create a free content automation tool with Google that 
+description: Learn how to create a free content automation tool with Google that streamlines your repetitive marketing and writing efforts.
 image: doc-automation.png
-image-alt: "build-free-content-marketing-automation-tool-google"
+image-alt: "how-to-build-free-content-marketing-automation-tool-with-google"
 category: blog
-meta: content automation, Google Sheets, Google Docs, Document Studio, Content Workflow
+meta: content automation, Google Sheets, Google Docs, document studio, content workflow, mail merge
 tags: content-marketing automation digital-marketing workflow
 ---
 
