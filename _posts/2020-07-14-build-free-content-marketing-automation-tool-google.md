@@ -54,7 +54,7 @@ My initial data features attorneys of the Old West:
 
 As highlighted, my top row labels match the variables from the Google Doc. Similar to a mail merge, the rows below will be merged with the template.
 
-Now is a good time to clean your data (i.e. missing values, capitalization, periods, etc.). I am missing the {{he-she}} and {{his-her}} variables used in the template, so I will add these now. This is an easy fix. I can use an IF function to output these into new columns (i.e. =IF($F$2="Male","He","She")). My output is now ready to be merged:
+Now is a good time to clean your data (i.e. missing values, capitalization, periods, etc.). I am missing the {{he-she}} and {{his-her}} variables used in the template, so I will add these now. This is an easy fix. I can use an IF function to output these into new columns (i.e. =IF($F2="Male","He","She")). My output is now ready to be merged:
 
 ![build-free-content-marketing-automation-tool-google-one-two]({{ site.baseurl }}/assets/doc-auto-2.png)
 
