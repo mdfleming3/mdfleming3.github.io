@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Topics: Analytics"
+title: "Tag: Analytics"
 tag: analytics
 ---
