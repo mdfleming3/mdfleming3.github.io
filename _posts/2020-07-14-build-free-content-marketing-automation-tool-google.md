@@ -20,13 +20,13 @@ Below are the free web-based tools we will use:
 * Google Docs
 * Document Studio (free Google Sheets add-on)
 
-####Step 1: Installing Document Studio into Google
+### Step 1: Installing Document Studio into Google
 
 Log into your [Google Account](https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&flowName=GlifWebSignIn&flowEntry=ServiceLogin), and download the free Google Sheets Add-on, “[Document Studio](https://gsuite.google.com/marketplace/app/document_studio/429444628321)” from the G Suite Marketplace. 
 
 We will come back to this later.
 
-####Step 2: Creating the Google Doc Template
+### Step 2: Creating the Google Doc Template
 
 Open [Google Docs](https://docs.google.com/), and create a new document. 
 
@@ -34,7 +34,7 @@ In this file, we will build our template that can be automated in the future. Fo
 
 Here is the content I wrote:
 
->> 
+'
 Bio:
 
 {{first-name}} {{last-name}} is a {{job-title}} in the firm’s {{practice}} practice at the {{location}} office. {{he-she}} specializes in the practice of {{specialty}}. {{his-her}} clients typically include {{clients}}. 
@@ -42,7 +42,7 @@ Bio:
 Tweet: 
 
 The firm is pleased to welcome {{first-name}} {{last-name}} to our {{location}} office. {{he-she}} is a {{practice}} attorney with a specialty in {{specialty}}. #newfirmhire
->>
+'
 
 The text enclosed in the curly brackets is the variable that will be automated. In writing your document, you can create any variable you want, as long as it fits within a spreadsheet cell. Examples may include simple values such as names, job titles, locations, number values, etc. Variables may also be full chunks of text (i.e. value propositions, specialties, quotes, etc.). 
 
@@ -50,7 +50,7 @@ The text enclosed in the curly brackets is the variable that will be automated. 
 
 Once you have created your document, save your document.
 
-####Step 3: Creating Google Sheets Document:
+### Step 3: Creating Google Sheets Document:
 
 Go to [Google Sheets](https://docs.google.com/spreadsheets/?usp=mkt_sheets), and open a new document. 
 
@@ -68,7 +68,7 @@ Now is a good time to clean your data (i.e. missing values, capitalization, peri
 
 Save your Google Doc for now by renaming “Untitled Document” in top left.
 
-####Step 4: Using Document Studio Export
+### Step 4: Using Document Studio Export
 
 In your Google Sheets menu, click:  **Add-ons > Document Studio > Open**. The Document Studio side panel will appear. 
 
@@ -86,7 +86,7 @@ Choose an Export format. I selected Microsoft Word, but there are several other 
 
 Once all options are selected, you can choose when you want to merge. I haven chosen Merge Documents Now, which will output three separate documents immediately.
 
-####Step 5: Reviewing Output
+### Step 5: Reviewing Output
 
 Document Studio has created several new columns in the Google Sheet. These are links to the files that have been saved on our Google Drive. To access the individual files, simply click the link.
 
@@ -98,7 +98,7 @@ My output looks like this:
 
 Looks good to me! If you have further changes, you can edit accordingly. To create corrected output, delete the links from the columns Doc Studio created and re-run the export. This will overwrite the old documents.
 
-####Takeaways
+### Takeaways
 
 Once your Google Doc template is created, you can reuse this countless times or repurpose it into new templates. This makes creating new content or updating dated content a breeze. For example, I can build templates for several other standard Tweets. If I re-run the Document Studio Export, I can have a complex suite of social media content in just several minutes.
 
