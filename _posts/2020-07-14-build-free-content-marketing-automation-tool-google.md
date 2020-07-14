@@ -34,7 +34,7 @@ In this file, we will build our template that can be automated in the future. Fo
 
 Here is the content I wrote:
 
-`
+{{ "{% highlight html " }}%} 
 Bio:
 
 {{first-name}} {{last-name}} is a {{job-title}} in the firm’s {{practice}} practice at the {{location}} office. {{he-she}} specializes in the practice of {{specialty}}. {{his-her}} clients typically include {{clients}}. 
@@ -42,7 +42,7 @@ Bio:
 Tweet: 
 
 The firm is pleased to welcome {{first-name}} {{last-name}} to our {{location}} office. {{he-she}} is a {{practice}} attorney with a specialty in {{specialty}}. #newfirmhire
-`
+{{ "{% endhighlight " }}%} 
 
 The text enclosed in the curly brackets is the variable that will be automated. In writing your document, you can create any variable you want, as long as it fits within a spreadsheet cell. Examples may include simple values such as names, job titles, locations, number values, etc. Variables may also be full chunks of text (i.e. value propositions, specialties, quotes, etc.). 
 
