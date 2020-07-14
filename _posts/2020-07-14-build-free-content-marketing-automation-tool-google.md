@@ -20,7 +20,7 @@ Below are the free web-based tools we will use:
 * Google Docs
 * Document Studio (free Google Sheets add-on)
 
-#### Step 1: Installing Document Studio into Google
+#### Step 1: Installing Document Studio
 
 Log into your [Google Account](https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fwww.google.com%2F&hl=en&flowName=GlifWebSignIn&flowEntry=ServiceLogin), and download the free Google Sheets Add-on, “[Document Studio](https://gsuite.google.com/marketplace/app/document_studio/429444628321)” from the G Suite Marketplace. 
 
@@ -30,17 +30,17 @@ We will come back to this later.
 
 Open [Google Docs](https://docs.google.com/), and create a new document. 
 
-In this file, we will build our template that can be automated in the future. For my example, I will create two simple examples of frequent time sinks for marketers at professional service firms -- a web biography and a social media post.
+In this file, we will build our template that can be automated. To demonstrate, I will create two simple examples of time sinks for marketers at professional service firms -- a web biography and a social media post.
 
 Here is the content I wrote:
 
 ![build-free-content-marketing-automation-tool-google-six]({{ site.baseurl }}/assets/doc-auto-6.png)
 
-The text enclosed in the curly brackets is the variable that will be automated. In writing your document, you can create any variable you want, as long as it fits within a spreadsheet cell. Examples may include simple values such as names, job titles, locations, number values, etc. Variables may also be full chunks of text (i.e. value propositions, specialties, quotes, etc.). 
+The text enclosed in the curly brackets is the variable that will be automated. As long as it fits within a spreadsheet cell, you can create any variable you want and reuse it infinitely. Examples may include simple values such as names, job titles, locations, number values, etc. Variables may also be full chunks of text (i.e. value propositions, specialties, quotes, etc.). 
 
-**Note:** Variables can be used as many times as possible, but they require exact formatting (i.e. {{first-name}} {{First-name}} {{first_name}} are considered different variables). As so, I prefer to use all lowercase letters and hyphens. 
+**Note:** Variables can be used as many times as possible, but they require exact formatting. As so, I prefer to use all lowercase letters and hyphens. 
 
-Once you have created your document, save your document.
+Once completed, save your document.
 
 #### Step 3: Creating Google Sheets Document:
 
@@ -48,7 +48,7 @@ Go to [Google Sheets](https://docs.google.com/spreadsheets/?usp=mkt_sheets), and
 
 You can now import a spreadsheet by clicking: **File > Import**. If you do not have existing data, you can manually create a spreadsheet, and the process will work just fine. 
 
-My initial data looks like this: 
+My initial data features attorneys of the Old West:
 
 ![build-free-content-marketing-automation-tool-google-one]({{ site.baseurl }}/assets/doc-auto-1.png)
 
@@ -58,7 +58,7 @@ Now is a good time to clean your data (i.e. missing values, capitalization, peri
 
 ![build-free-content-marketing-automation-tool-google-one-two]({{ site.baseurl }}/assets/doc-auto-2.png)
 
-Save your Google Doc for now by renaming “Untitled Document” in top left.
+Save your spreadsheet.
 
 #### Step 4: Using Document Studio Export
 
@@ -68,15 +68,15 @@ In your Google Sheets menu, click:  **Add-ons > Document Studio > Open**. The Do
 
 Set “Enable” to “Yes” 
 
-Under “Select a template in Google Drive,” select Google Document and then select the Google Doc template you created. 
+Under “Select a template in Google Drive,” select Google Document. In the pop-up window, select the template you recently created. 
 
-The Markers field will show variables that have correctly synced. If any variables are missing, check your formatting to ensure variables match in both documents. 
+The Markers field will show variables that are synced. If variables are missing, check your formatting to ensure variable formatting matches in both documents. 
 
-From here, you will want to name the merged file. I encourage including a bracketed variable that will help distinguish the merged documents. This is essential if you are working with many documents.
+In naming the merged file, I encourage including a bracketed variable that will help distinguish the merged documents. This is essential if you are exporting many documents.
 
-Choose an Export format. I selected Microsoft Word, but there are several other options.
+Choose an Export format. I selected Microsoft Word.
 
-Once all options are selected, you can choose when you want to merge. I haven chosen Merge Documents Now, which will output three separate documents immediately.
+Once all options are selected, click the "Finish and Merge" tab. You can choose when you want to merge. I have chosen "Merge Documents Now." This creates three merged documents immediately.
 
 #### Step 5: Reviewing Output
 
@@ -88,13 +88,13 @@ My output looks like this:
 
 ![build-free-content-marketing-automation-tool-google-one-five]({{ site.baseurl }}/assets/doc-auto-5.png)
 
-Looks good to me! If you have further changes, you can edit accordingly. To create corrected output, delete the links from the columns Doc Studio created and re-run the export. This will overwrite the old documents.
+Looks good to me! If you have further changes, you can edit accordingly. To create corrected output, delete the links from the columns that Doc Studio created and re-run the export. This will overwrite the old exports.
 
 #### Takeaways
 
-Once your Google Doc template is created, you can reuse this countless times or repurpose it into new templates. This makes creating new content or updating dated content a breeze. For example, I can build templates for several other standard Tweets. If I re-run the Document Studio Export, I can have a complex suite of social media content in just several minutes.
+Once your Google Doc template is created, you can reuse this countless times or repurpose it into new templates. Since variables can be reused, this expedites  creating new content for different product lines or value streams. For example, I can build templates for several other standard Tweets that feature Wyatt Earp. If I re-run the Document Studio Export, I can have a complex suite of unique social media content in just several minutes.
 
-Have any questions on how this process can be integrated into your marketing strategy? Questions on troubleshooting. [Let’s Connect](https://www.linkedin.com/in/markdfleming/). 
+Have any questions on how this process can be integrated into your marketing strategy? Questions on troubleshooting? [Let’s Connect](https://www.linkedin.com/in/markdfleming/). 
 
 **Further Reading**:
 * [Use Cases - What can you do with Document Studio](https://www.labnol.org/document-studio-use-cases-5844)
