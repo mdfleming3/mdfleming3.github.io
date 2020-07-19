@@ -145,8 +145,7 @@
 
 .footer-col-wrapper,
 .social-links {
-  @include relative-font-size(0.9375);
-  color: $brand-color;
+  @include relative-font-size(1);
 }
 
 .footer-col {
