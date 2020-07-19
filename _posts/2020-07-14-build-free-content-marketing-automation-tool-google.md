@@ -7,7 +7,7 @@ description: Learn how to create a free content automation tool with Google that
 image: doc-automation.png
 image-alt: "how-to-build-free-content-marketing-automation-tool-with-google"
 category: blog
-meta: "content automation", "Google Sheets", "Google Docs", "document studio", "content workflow", "mail merge"
+meta: content automation, Google Sheets, Google Docs, document studio, content workflow, mail merge
 tags: content-marketing automation digital-marketing workflow
 ---
 
