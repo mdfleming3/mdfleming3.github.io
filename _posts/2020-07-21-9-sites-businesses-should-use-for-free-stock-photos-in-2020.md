@@ -64,7 +64,7 @@ While I think 99% of businesses can fulfill stock photo needs by using the top c
 | Cupcake                   | <http://cupcake.nilssonlee.se/>             | Nature, Urban            | 
 | Foca Stock                | <https://focastock.com/>                    | General Photo and Video  | 
 | Foodies Feed              | <http://foodiesfeed.com/>                   | Food                     | 
-| Foter                     | <www.foter.com>                             | General Photo            | 
+| Foter                     | <http://www.foter.com>                      | General Photo            | 
 | Free Jpg                  | <http://www.freejpg.com.ar/>                | General Photo and Video  | 
 | Free Nature Stock         | <http://freenaturestock.com/>               | Nature                   | 
 | Free Pic                  | <https://www.freepik.com/>                  | Vector Images            | 
