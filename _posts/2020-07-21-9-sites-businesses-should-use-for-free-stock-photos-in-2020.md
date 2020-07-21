@@ -91,6 +91,5 @@ While businesses can fulfill 99% of stock photo needs by using the top choices a
 | Stokpic                   | <http://stokpic.com/>                       | General Photo            | 
 | Tineye                    | <https://tineye.com/>                       | Reverse image search     | 
 | Travel Coffee Book        | <http://travelcoffeebook.com/>              | Nature                   | 
-| Viintage                  | <http://viintage.com/>                      | Vintage                  | 
 | Wallhaven                 | <http://wallhaven.cc/>                      | Illustration/Video Games | 
 
