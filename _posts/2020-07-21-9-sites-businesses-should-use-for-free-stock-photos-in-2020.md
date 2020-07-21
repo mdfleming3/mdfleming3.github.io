@@ -11,11 +11,11 @@ meta: content automation, royalty fee images, free images, stock photos, pexels,
 tags: content-marketing digital-marketing design social-media
 ---
 
-Using royalty-free stock image websites is like digging through the $5 Wal Mart DVD bin, where you will find ten copies of <i>You Don’t Mess with the Zohan</i> before you find <i>The Shawshank Redemption</i>. This process of randomly searching and finding the right photo for your brand or project can become unexpectedly time-consuming. To give you all a jump start in your content marketing, I tested nearly 100 free stock photo websites. These are the nine that your company should be using.
+Using royalty-free stock image websites is like digging through the $5 Wal Mart DVD bin, where you will find ten copies of <i>You Don’t Mess with the Zohan</i> before you find <i>The Shawshank Redemption</i>. This process of randomly searching and finding the right photo for your brand or project can become unexpectedly time-consuming. To give your team a jump start in content marketing, I tested nearly 100 free stock photo websites. These are the nine that your company should be using.
 
 #### 1. [Pexels]( http://www.pexels.com/)
 
-Of all the websites on this list, Pexels is the most complete option. Regardless of your search, you are bound to find high-quality photos that don’t feel like your typical stock photo. I recommend this as a starting point on any photo search.
+Of all websites on this list, Pexels is the most complete option. Regardless of your search, you are bound to find high-quality photos that don’t feel like your typical stock photo. I recommend this as a starting point on any photo search.
 
 #### 2. [Pixabay](http://pixabay.com/)
 
@@ -31,11 +31,11 @@ Kaboom Pics offers a wide variety of unique, high-quality photos. What separates
 
 #### 5. [ISO Republic](http://isorepublic.com/)
 
-ISO Republic offers thousands of free photos and videos. It has a useful collections tab that groups content around specific topics. While I think its selection of photos are not as robust as the top sites on this list, there are some niche topics where this is your best bet. I found the website’s technology collection to be particularly high-quality.
+ISO Republic offers thousands of free photos and videos. It has a useful collections tab that groups content around specific topics. While its selection of photos are not as robust as the top sites on this list, there are some niche topics where this is your best choice. I found the website’s technology collection to be particularly high-quality.
 
 #### 6. [Google Images – “Labeled for Reuse”](https://www.google.com/imghp)
 
-While you all have likely used Google’s image search, you may not know that you can filter images by usage rights to find images labeled for reuse. This allows you to filter the royalty free images. Of all the options on this list, this will return the largest volume of photos per search, but many may be low-quality. However, if you are looking for niche content, this is you best bet.
+While you all have likely used Google’s image search, you may not know that you can filter images by usage rights to find images labeled for reuse. This allows you to filter royalty-free images. Of all the options on this list, this will return the largest volume of photos per search, but many may be low-quality. However, if you are searching for niche content, this is an amazing choice.
 
 ![google-image-search]({{ site.baseurl }}/assets/google-images.png)
 
@@ -45,15 +45,15 @@ Burst only offers free photos in the public domain, so you will not see any iSto
 
 #### 8. [Canva]( https://www.canva.com/photos/)
 
-Canva offers millions of high-quality free and premium photos. The quality of these photos is as good as it gets, and its color search is great if you are looking for color-specific content. The only downside of this platform is that you are required to toggle out the premium photos with every search.
+Canva offers millions of high-quality free and premium photos. The quality of these photos is as good as it gets, and its color search is a great tool if you are looking for color-specific content. The only downside of this platform is that you are required to toggle out the premium photos with every search.
 
 #### 9. [Freepik]( https://www.freepik.com/)
 
-Freepik offer a wide selection of photos, but what make this option so special is its wide selection of free vector images for download. The image associated with this article is directly downloaded from Freepik. In addition to vectors, this website also offers downloadable photoshop files. Like Canva, this website features premium photos alongside free photos, so make sure to filter those out.
+Freepik offer a wide selection of photos, but what make this option so special is its wide selection of free vector images for download. The image associated with this article is directly downloaded from Freepik. In addition to vectors, this website also offers downloadable photoshop files. Like Canva, this website features premium photos alongside free photos, so make sure to filter those options out.
 
 #### Other Sites Worth Considering:
 
-While I think 99% of businesses can fulfill stock photo needs by using the top choices above, there are many other great options out there. Below are some I also found that you may want to consider if you have specialty needs:
+While businesses can fulfill 99% of stock photo needs by using the top choices above, there are many other great options out there. Below are some I also found that you may want to consider if you have specialty needs:
 
 |                           |                                           |                          | 
 |---------------------------|-------------------------------------------|--------------------------| 
