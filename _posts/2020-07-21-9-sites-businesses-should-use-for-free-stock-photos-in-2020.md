@@ -8,7 +8,7 @@ image: stock-photo.jpg
 image-alt: "9-sites-businesses-should-use-for-free-stock-photos-in-2020"
 category: blog
 meta: content automation, royalty fee images, free images, stock photos, pexels, pixabay, unsplash, kaboom pics, iso republic, google images, burst, freepik, canva 
-tags: content-marketing digital-marketing design social-media design
+tags: content-marketing digital-marketing design social-media
 ---
 
 Using royalty-free stock image websites is like digging through the $5 Wal Mart DVD bin, where you will find ten copies of <i>You Don’t Mess with the Zohan</i> before you find <i>The Shawshank Redemption</i>. This process of randomly searching and finding the right photo for your brand or project can become unexpectedly time-consuming. To give you all a jump start in your content marketing, I tested nearly 100 free stock photo websites. Below are the nine that your company should be using.
