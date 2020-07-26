@@ -2,7 +2,7 @@
   <meta content="{{ page.url }}" property="og:url">
 {% endif %}
 
-{% if page.title %}
+{% if page.layout %}
   <meta content="{{ page.layout }}" property="og:type">
 {% endif %}
 
@@ -23,6 +23,5 @@
   <meta content="{{ site.url }}/about/" property="article:author">
 {% endif %}
 
-{% if post.image %}
-  <meta content="{{ site.baseurl }}/assets/{{ post.image }}" property="og:image">
-{% endif %}
+<meta content="{{ site.baseurl }}/assets/{{ page.image }}" property="og:image">
+
