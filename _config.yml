@@ -1,19 +1,15 @@
 title: Mark Fleming Blog
-tagline: Practical Marketing Solutions
+tagline: "Practical Marketing Solutions"
 logo: logo.png
 author: 
   name: Mark Fleming
   email: mdfleming3@gmail.com
-description: Learn Mark Fleming's practical marketing solutions and strategies for content, digital, analytics, and marketing automation.
+description: "Learn Mark Fleming's practical marketing solutions and strategies for content, digital, analytics, and marketing automation."
 
 #Twitter Card
 twitter:
-  card: summary_large_image
-  site: markdfleming2
-  title: {{ page.title }}
-  description: {{ page.description }}
-  image: {{ page.image }}
-  creator: markdfleming2
+  card: summary
+  username: @markdfleming2
 
 #Google Analytics
 google_analytics: UA-172446520-1
@@ -32,22 +28,20 @@ minima:
   # generate social links in footer
   social_links:
     twitter: markdfleming2
+    instagram: markdfleming
+    linkedin: markdfleming
+    # facebook: jekyll
+    # youtube: jekyll    
     # github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
     # flickr:   jekyll
-    instagram: markdfleming
-    linkedin: markdfleming
     # pinterest: jekyll
-    # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
-    # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
-
     # Mastodon instances
     # mastodon:
     # - username: jekyll
@@ -61,8 +55,6 @@ minima:
     #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
-
-addthis: true
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
