@@ -1,13 +1,20 @@
 title: Mark Fleming Blog
+tagline: Practical Marketing Solutions
 logo: logo.png
 author: 
   name: Mark Fleming
   email: mdfleming3@gmail.com
 description: Learn Mark Fleming's practical marketing solutions and strategies for content, digital, analytics, and marketing automation.
 
+#Twitter Card
+twitter: 
+  username: markdfleming2
+  card: summary
+
 #Google Analytics
 google_analytics: UA-172446520-1
 
+# Excerpts
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
