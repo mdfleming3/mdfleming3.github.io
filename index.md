@@ -6,6 +6,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-tagline: Practical Marketing Solutions
+description: Learn Practical Marketing Solutions!
 image: web-image.jpg
 ---
