@@ -7,9 +7,13 @@ author:
 description: Learn Mark Fleming's practical marketing solutions and strategies for content, digital, analytics, and marketing automation.
 
 #Twitter Card
-twitter: 
-  username: markdfleming2
-  card: summary
+twitter:
+  card: summary_large_image
+  site: markdfleming2
+  title: {{ page.title }}
+  description: {{ page.description }}
+  image: {{ page.image }}
+  creator: markdfleming2
 
 #Google Analytics
 google_analytics: UA-172446520-1
