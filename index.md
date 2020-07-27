@@ -6,6 +6,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-description: Learn Practical Marketing Solutions!
+description: Mark Fleming's practical marketing solutions and strategies for content, digital, analytics, and marketing automation.
 image: web-image.jpg
 ---
