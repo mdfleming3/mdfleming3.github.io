@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: I am a Chicago-based professional marketer with experience partnering with corporations, professional services firms, non-profits, and small business to achieve growth and engagement goals and boost client value.
 ---
 <h4>Mark Fleming's Experience and Background</h4>
 I am a Chicago-based professional marketer with experience partnering with corporations, professional services firms, non-profits, and small business to achieve growth and engagement goals and boost client value. My experience is specialized in content and digital marketing strategy, SEO, branding, website development, CRM, and analytics. In December 2020, I will complete my MBA from the University of Illinois at Urbana-Champaign.
