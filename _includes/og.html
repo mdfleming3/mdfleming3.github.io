@@ -1,27 +1,6 @@
-{% if page.url %}
-  <meta content="{{ page.url }}" property="og:url">
-{% endif %}
-
-{% if page.layout %}
-  <meta content="{{ page.layout }}" property="og:type">
-{% endif %}
-
-{% if page.title %}
-  <meta content="{{ page.title }}" property="og:title">
-{% endif %}
-
-  <meta content="United States" property="og:locale">
-
-{% if page.description %}
-  <meta content="{{ page.description }}" property="og:description">
-{% endif %}
-
-<meta content="{{ site.title }}" property="og:site_name">
-
 {% if page.date %}
-  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-  <meta content="{{ site.url }}/about/" property="article:author">
+  <meta content="Mark Fleming" property="article:author">
 {% endif %}
 
-<meta content="{{ site.baseurl }}/assets/{{ page.image }}" property="og:image">
+<meta content="{{ site.url }}/assets/{{ page.image }}" property="og:image">
 
