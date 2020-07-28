@@ -5,17 +5,13 @@ author:
   email: mdfleming3@gmail.com
 description: Practical Marketing Solutions!
 
-#Twitter Card
+# Twitter Card
 twitter:
   username: markdfleming2
-
-# Instagram
-instagram:
-  username: markdfleming
   
-# Linkedin
-linkedin:
-  username: markdfleming
+# Facebook ID
+facebook:
+  publisher: https://www.facebook.com/markflemingblog
 
 #Google Analytics
 google_analytics: UA-172446520-1
@@ -36,7 +32,7 @@ minima:
     twitter: markdfleming2
     instagram: markdfleming
     linkedin: markdfleming
-    # facebook: jekyll
+    facebook: markflemingblog
     # youtube: jekyll    
     # github:  jekyll
     # devto: jekyll
