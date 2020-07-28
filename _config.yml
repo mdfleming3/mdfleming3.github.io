@@ -73,6 +73,10 @@ header_pages:
 - about.md
 - subscribe.md
 
+# Pagination
+paginate: 1
+
+
 # Build settings
 theme: minima
 
