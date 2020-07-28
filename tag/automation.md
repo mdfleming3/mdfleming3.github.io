@@ -1,5 +1,5 @@
 ---
-title: 'Tag: Automation '
 layout: tagpage
-tag: Automation
+title: 'Tag: Automation'
+tag: automation
 ---
