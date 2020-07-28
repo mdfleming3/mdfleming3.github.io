@@ -9,6 +9,7 @@ description: Practical Marketing Solutions!
 twitter:
   username: markdfleming2
   card: summary
+  image: {{ site.url }}/assets/{{ page.image }}
   
 # Facebook ID
 facebook:
