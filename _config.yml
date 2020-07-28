@@ -74,7 +74,7 @@ header_pages:
 - subscribe.md
 
 # Pagination
-paginate: 1
+paginate: 2
 
 
 # Build settings
