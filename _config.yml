@@ -7,8 +7,12 @@ description: Practical Marketing Solutions!
 
 #Twitter Card
 twitter:
+  title: {{ page.title }}
+  description: page.description
+  image: page.image
   card: summary
   username: markdfleming2
+  creator: markdfleming2
 
 # Instagram
 instagram:
