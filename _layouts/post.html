@@ -16,7 +16,7 @@ layout: default
         <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
           {{ mdate | date: date_format }}
         </time>
-      {%- endif -%} | {% include read_time.html %}
+      {%- endif -%}
     <br>
       Topics: {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
