@@ -20,7 +20,7 @@ As compared to a linear strategy – with a designated beginning, middle, and en
 
 ### How to use the three stage content marketing lifecycle?
 
-[Three Stage Content Marketing Lifecycle]({{ site.baseurl }}/assets/content-balanced.png)
+![Three Stage Content Marketing Lifecycle]({{ site.baseurl }}/assets/content-balanced.png)
 
 This is a framework that can be easily integrated into any marketing strategy. It segments tasks into the following stages: **Goal Setting**, **Content Creation**, and **Analysis**. Within each of these stages, you will list all related actions. Let’s take a deeper dive.
 
@@ -62,7 +62,7 @@ By fitting actions into just three universal stages, the process is defined and 
 
 #### Efficient Time Management
 
-[Three Stage Content Marketing Lifecycle - Content Focused]({{ site.baseurl }}/assets/content-focused.png)
+![Three Stage Content Marketing Lifecycle - Content Focused]({{ site.baseurl }}/assets/content-focused.png)
 
 Content marketing is a marathon, not a sprint. With only a finite amount of time to meet deadlines, marketers must properly pace themselves. As so, the content marketing lifecycle allows marketers to adjust the time allocated to each project to best address project needs and challenges.
 
@@ -70,13 +70,13 @@ For example, if a team anticipates a heavy content revision process, it may be w
 
 #### Customization 
 
-[Three Stage Content Marketing Lifecycle - Nested]({{ site.baseurl }}/assets/nested.png)
+![Three Stage Content Marketing Lifecycle - Nested]({{ site.baseurl }}/assets/nested.png)
 
 There is no such thing as a one-size-fits-all strategy. An individual creator’s needs are different than those of a Fortune 500 corporation. However, after reviewing countless strategic models –  goal setting, content creation, and analysis are universal stages that all organizations must undergo. To fine tune a strategy, marketers can nest actions within each stage.
 
 In the example above, I demonstrate a highly customized real-world approach. In the outer ring, each stage is segmented into several sub-stages with an allocated time limit (let’s assume hours). While the strategy is high level at its core, this customization shows that strategies can be highly adapted and robust, without becoming too confusing.
 
-** Further Reading: **
+**Further Reading:**
 
 * [Creating Sunburst Chart in Tableau]( https://www.youtube.com/watch?v=goIAKkk-eFE)
 * [5 Ideas for Creating Killer Evergreen Content]( https://blog.hubspot.com/insiders/creating-evergreen-content)
