@@ -22,7 +22,7 @@ As compared to a linear strategy – with a designated beginning, middle, and en
 
 ![Three Stage Content Marketing Lifecycle]({{ site.baseurl }}/assets/content-balanced.png)
 
-This is a framework that can be easily integrated into any marketing strategy. It segments tasks into the following stages: **Goal Setting**, **Content Creation**, and **Analysis**. Within each of these stages, you will list all related actions. Let’s take a deeper dive.
+This is a framework that can be easily integrated into any marketing strategy. It segments tasks into the following stages: **Goal Setting**, **Content Creation**, and **Analysis**. Within each of these stages, marketers can list all related actions. Let’s take a deeper dive.
 
 #### 1. Goal Setting
 
@@ -30,7 +30,7 @@ This is the entry point for all content marketing lifecycles. It begins with an 
 
 * Defining intended outcomes
 * Identifying target audiences and personas
-* Conducting Research and gathering insights
+* Conducting research and gathering insights
 * Developing KPI’s
 * Planning content calendar timeline
 
@@ -56,7 +56,7 @@ This stage begins when content is distributed, and it ends once new ideas for re
 
 #### Simplification
 
-Many popular content marketing lifecycles lack practical application, because they are either [too specific]( https://www.i-scoop.eu/wp-content/uploads/2014/01/Typical-elements-of-a-content-marketing-strategy-%E2%80%93-source-Media-Crush1.png) or [too vague] (https://www.smartinsights.com/wp-content/uploads/2013/01/contentstrategy.jpg). This causes strategies to inorganically try to mold to an incompatible template. This can lead to inefficiency and disorganization for a team.
+Many popular content marketing lifecycles lack practical application, because they are either [too specific]( https://www.i-scoop.eu/wp-content/uploads/2014/01/Typical-elements-of-a-content-marketing-strategy-%E2%80%93-source-Media-Crush1.png) or [too vague](https://www.smartinsights.com/wp-content/uploads/2013/01/contentstrategy.jpg). This causes strategies to inorganically try to mold to an incompatible template. This can lead to inefficiency and disorganization for a team.
 
 By fitting actions into just three universal stages, the process is defined and simplified. Furthermore, this allows projects to scale slowly instead of diving headfirst into the deep end.
 
@@ -64,7 +64,7 @@ By fitting actions into just three universal stages, the process is defined and 
 
 ![Three Stage Content Marketing Lifecycle - Content Focused]({{ site.baseurl }}/assets/content-focused.png)
 
-Content marketing is a marathon, not a sprint. With only a finite amount of time to meet deadlines, marketers must properly pace themselves. As so, the content marketing lifecycle allows marketers to adjust the time allocated to each project to best address project needs and challenges.
+Content marketing is a marathon, not a sprint. With only a finite amount of time to meet deadlines, marketers must pace themselves properly. As so, the content marketing lifecycle allows marketers to adjust the time allocated to each project to best address project needs and challenges.
 
 For example, if a team anticipates a heavy content revision process, it may be wise to allocate more time to the content creation stage (as noted above). As we will dig into deeper in the next section, the size of each stage can be highly tailored to the scope of the project.
 
