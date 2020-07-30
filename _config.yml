@@ -66,9 +66,11 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-assets
 
 gems: 
  - jekyll-sitemap
  - 'jekyll-feed'
+ - jekyll-assets
  
 permalink: /:title/
