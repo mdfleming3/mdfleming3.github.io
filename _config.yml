@@ -71,6 +71,5 @@ plugins:
 gems: 
  - jekyll-sitemap
  - 'jekyll-feed'
- - jekyll-assets
  
 permalink: /:title/
