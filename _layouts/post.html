@@ -28,7 +28,7 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     
     {% if page.image %}
-  <img src="{{ site.baseurl }}/assets/{{ page.image }}" alt="{{ page.image-alt }}">
+  <img src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.image-alt }}">
 {% endif %}
     
       {% include  share.html %}<br>
@@ -64,7 +64,7 @@ layout: default
 
           <a href="{{ site.baseurl }}{{ post.url }}">
               <div class="rel">
-                  <img src="{{ site.baseurl }}/assets/{{ post.image }}" alt="post.image-alt">
+                  <img src="{{ site.baseurl }}/{{ post.image }}" alt="post.image-alt">
                   <h5 class="relh1">{{ post.title }}</h5>
               </div>
           </a>
