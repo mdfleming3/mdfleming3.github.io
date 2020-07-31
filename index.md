@@ -6,6 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+title: Mark Fleming Blog
 description: Mark Fleming's practical marketing solutions and strategies for content, digital, analytics, and marketing automation.
 image: assets/web-image.jpg
 ---
