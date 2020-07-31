@@ -4,7 +4,7 @@ title: " Streamline Your Content Marketing Strategy with the Three Stage Lifecyc
 date: 2020-07-29
 author: Mark Fleming
 description: Understand how the three stage content marketing life cycle can simplify and improve any business’s content marketing strategy.
-image: three-stage-content.png
+image: assets/three-stage-content.png
 image-alt: "streamline-your-content-marketing-strategy-with-the-three-stage-lifecycle"
 category: blog
 tags: content-marketing strategy workflow analytics
