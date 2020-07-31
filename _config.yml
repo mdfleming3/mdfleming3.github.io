@@ -11,7 +11,16 @@ twitter:
  
 # Facebook ID
 facebook:
+  username: markflemingblog
   publisher: https://www.facebook.com/markflemingblog
+
+# Instagram
+instagram: 
+  username: markdfleming
+
+# Linkedin
+linkedin:
+  username: markdfleming
 
 #Google Analytics
 google_analytics: UA-172446520-1
