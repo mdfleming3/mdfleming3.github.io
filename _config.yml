@@ -25,7 +25,6 @@ masthead: logo.png
 
 url: https://markdfleming.com
 
-// Not used anymore
 enforce_ssl: mdfleming3.github.io
 
 # Minima date format
