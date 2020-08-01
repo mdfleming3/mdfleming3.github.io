@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 layout: page
 title: Search
 permalink: /search/
-description: 
+description:
 ---
 
 <!-- Html Elements for Search -->
