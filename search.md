@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: page
 title: Search
 permalink: /search/
@@ -12,4 +12,3 @@ description:
 
 <!-- or without installing anything -->
 <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-Usage
