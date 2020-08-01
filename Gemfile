@@ -9,4 +9,4 @@ gem 'jekyll-seo-tag'
 
 gem 'jekyll-feed'
 
-gem 'jekyll-compress-images'
+gem 'jekyll-include-cache'
