@@ -76,6 +76,11 @@ header_pages:
 # Build settings
 theme: minima
 
+# SSL
+url: https://markdfleming.com
+enforce_ssl: markdfleming.com
+
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
