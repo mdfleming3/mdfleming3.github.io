@@ -1,14 +1,14 @@
 title: Mark Fleming Blog
 logo: logo.png
-author: 
+author:
   name: Mark Fleming
   email: mark@markdfleming.com
 description: Practical Marketing Solutions!
- 
+
 # Twitter Card
 twitter:
   username: markdfleming2
- 
+
 # Facebook ID
 facebook:
   username: markflemingblog
@@ -38,7 +38,7 @@ minima:
     instagram: markdfleming
     linkedin: markdfleming
     facebook: markflemingblog
-    # youtube: jekyll    
+    # youtube: jekyll
     # github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
@@ -75,9 +75,10 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-include-cache
 
-gems: 
+gems:
  - jekyll-sitemap
  - 'jekyll-feed'
- 
+
 permalink: /:title/
