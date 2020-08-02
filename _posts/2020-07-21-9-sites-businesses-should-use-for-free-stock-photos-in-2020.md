@@ -4,10 +4,10 @@ title: "9 Sites Businesses Should Use for Free Stock Photos in 2020"
 date: 2020-07-21
 author: Mark Fleming
 description: Mega list of stock photo and royalty-free image websites for business and marketing use, including the nine best websites.
-image: assets/stock-photo.jpg
+image: assets/stock-photo.jp2
 image-alt: "9-sites-businesses-should-use-for-free-stock-photos-in-2020"
 category: blog
-meta: content automation, royalty fee images, free images, stock photos, pexels, pixabay, unsplash, kaboom pics, iso republic, google images, burst, freepik, canva 
+meta: content automation, royalty fee images, free images, stock photos, pexels, pixabay, unsplash, kaboom pics, iso republic, google images, burst, freepik, canva
 tags: content-marketing digital-marketing design social-media
 ---
 
@@ -19,11 +19,11 @@ Of all websites on this list, Pexels is the most complete option. Regardless of 
 
 #### 2. [Pixabay](http://pixabay.com/)
 
-I have used Pixabay for several years while building photo repositories for companies. Similar to Pexels, you will likely only find professional photos. Pixabay is also unique, because it hosts many free-to-download illustrations, vectors, videos, and music. 
+I have used Pixabay for several years while building photo repositories for companies. Similar to Pexels, you will likely only find professional photos. Pixabay is also unique, because it hosts many free-to-download illustrations, vectors, videos, and music.
 
 #### 3. [Unsplash](https://unsplash.com/)
 
-Unsplash is another tool I have used for years, and it is highly recommended on Reddit. While the website used to have a hipster bend to it, its quality and volume of photos have increased recently to make it a great starting point for any search. 
+Unsplash is another tool I have used for years, and it is highly recommended on Reddit. While the website used to have a hipster bend to it, its quality and volume of photos have increased recently to make it a great starting point for any search.
 
 #### 4. [Kaboom Pics]( http://kaboompics.com/)
 
@@ -55,41 +55,40 @@ Freepik offer a wide selection of photos, but what make this option so special i
 
 While businesses can fulfill 99% of stock photo needs by using the top choices above, there are many other great options out there. Below are some I also found that you may want to consider if you have specialty needs:
 
-|                           |                                           |                          | 
-|---------------------------|-------------------------------------------|--------------------------| 
-| Name                      | URL                                       | Specialty                | 
-| Albarium                  | <http://albumarium.com/>                    | People                   | 
-| Chamber of Commerce       | <http://finda.photo/>                       | Business                 | 
-| Creative Commons (Flickr) | <https://www.flickr.com/creativecommons/>   | Royalty-free photos      | 
-| Cupcake                   | <http://cupcake.nilssonlee.se/>             | Nature, Urban            | 
-| Foca Stock                | <https://focastock.com/>                    | General Photo and Video  | 
-| Foodies Feed              | <http://foodiesfeed.com/>                   | Food                     | 
-| Foter                     | <http://www.foter.com>                      | General Photo            | 
-| Free Jpg                  | <http://www.freejpg.com.ar/>                | General Photo and Video  | 
-| Free Nature Stock         | <http://freenaturestock.com/>               | Nature                   | 
-| Free Pic                  | <https://www.freepik.com/>                  | Vector Images            | 
-| Getrefer                  | <http://getrefe.tumblr.com/>                | Nature                   | 
-| Gratis Photography        | <http://www.gratisography.com/>             | General Photo            | 
-| Jay Mantri                | <http://jaymantri.com/>                     | Nature                   | 
-| Jeshoots                  | <http://jeshoots.com/>                      | General Photo            | 
-| Life of Pix               | <http://www.lifeofpix.com/>                 | Nature, Urban            | 
-| Little Visuals            | <http://littlevisuals.co/>                  | General Photo            | 
-| Magdeleine                | <http://magdeleine.co/browse/>              | Artistic                 | 
-| Move East                 | <http://moveast.me/>                        | Urban                    | 
-| New Old Stock             | <http://nos.twnsnd.co/>                     | Vintage                  | 
-| Photo Stock Editor        | <https://photostockeditor.com/>             | General Photo            | 
-| Pic Jumbo                 | <http://picjumbo.com/>                      | General Photo            | 
-| Pic O Graphy              | <http://picography.co/>                     | General Photo            | 
-| Picspree                  | <https://picspree.com/>                     | General Photo            | 
-| Publlic Domain Archive    | <http://publicdomainarchive.com/>           | General Photo            | 
-| Snapwire Snaps            | <http://snapwiresnaps.tumblr.com/>          | Urban                    | 
-| Splashbase                | <http://www.splashbase.co/>                 | General Photo and Video  | 
-| Startup Stock Photos      | <http://startupstockphotos.com/>            | Business                 | 
-| Stock Snap                | <https://stocksnap.io/>                     | General Photo            | 
-| Stock-Up                  | <http://www.sitebuilderreport.com/stock-up> | General Photo            | 
-| Stockphotos.io            | <http://stockphotos.io/>                    | Urban                    | 
-| Stokpic                   | <http://stokpic.com/>                       | General Photo            | 
-| Tineye                    | <https://tineye.com/>                       | Reverse image search     | 
-| Travel Coffee Book        | <http://travelcoffeebook.com/>              | Nature                   | 
-| Wallhaven                 | <http://wallhaven.cc/>                      | Illustration/Video Games | 
-
+|                           |                                           |                          |
+|---------------------------|-------------------------------------------|--------------------------|
+| Name                      | URL                                       | Specialty                |
+| Albarium                  | <http://albumarium.com/>                    | People                   |
+| Chamber of Commerce       | <http://finda.photo/>                       | Business                 |
+| Creative Commons (Flickr) | <https://www.flickr.com/creativecommons/>   | Royalty-free photos      |
+| Cupcake                   | <http://cupcake.nilssonlee.se/>             | Nature, Urban            |
+| Foca Stock                | <https://focastock.com/>                    | General Photo and Video  |
+| Foodies Feed              | <http://foodiesfeed.com/>                   | Food                     |
+| Foter                     | <http://www.foter.com>                      | General Photo            |
+| Free Jpg                  | <http://www.freejpg.com.ar/>                | General Photo and Video  |
+| Free Nature Stock         | <http://freenaturestock.com/>               | Nature                   |
+| Free Pic                  | <https://www.freepik.com/>                  | Vector Images            |
+| Getrefer                  | <http://getrefe.tumblr.com/>                | Nature                   |
+| Gratis Photography        | <http://www.gratisography.com/>             | General Photo            |
+| Jay Mantri                | <http://jaymantri.com/>                     | Nature                   |
+| Jeshoots                  | <http://jeshoots.com/>                      | General Photo            |
+| Life of Pix               | <http://www.lifeofpix.com/>                 | Nature, Urban            |
+| Little Visuals            | <http://littlevisuals.co/>                  | General Photo            |
+| Magdeleine                | <http://magdeleine.co/browse/>              | Artistic                 |
+| Move East                 | <http://moveast.me/>                        | Urban                    |
+| New Old Stock             | <http://nos.twnsnd.co/>                     | Vintage                  |
+| Photo Stock Editor        | <https://photostockeditor.com/>             | General Photo            |
+| Pic Jumbo                 | <http://picjumbo.com/>                      | General Photo            |
+| Pic O Graphy              | <http://picography.co/>                     | General Photo            |
+| Picspree                  | <https://picspree.com/>                     | General Photo            |
+| Publlic Domain Archive    | <http://publicdomainarchive.com/>           | General Photo            |
+| Snapwire Snaps            | <http://snapwiresnaps.tumblr.com/>          | Urban                    |
+| Splashbase                | <http://www.splashbase.co/>                 | General Photo and Video  |
+| Startup Stock Photos      | <http://startupstockphotos.com/>            | Business                 |
+| Stock Snap                | <https://stocksnap.io/>                     | General Photo            |
+| Stock-Up                  | <http://www.sitebuilderreport.com/stock-up> | General Photo            |
+| Stockphotos.io            | <http://stockphotos.io/>                    | Urban                    |
+| Stokpic                   | <http://stokpic.com/>                       | General Photo            |
+| Tineye                    | <https://tineye.com/>                       | Reverse image search     |
+| Travel Coffee Book        | <http://travelcoffeebook.com/>              | Nature                   |
+| Wallhaven                 | <http://wallhaven.cc/>                      | Illustration/Video Games |
