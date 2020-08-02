@@ -4,7 +4,7 @@ title: "9 Sites Businesses Should Use for Free Stock Photos in 2020"
 date: 2020-07-21
 author: Mark Fleming
 description: Mega list of stock photo and royalty-free image websites for business and marketing use, including the nine best websites.
-image: assets/stock-photo.jp2
+image: assets/stock-photo.jpg
 image-alt: "9-sites-businesses-should-use-for-free-stock-photos-in-2020"
 category: blog
 meta: content automation, royalty fee images, free images, stock photos, pexels, pixabay, unsplash, kaboom pics, iso republic, google images, burst, freepik, canva
