@@ -68,6 +68,7 @@ minima:
 header_pages:
 - about.md
 - subscribe.md
+- search.md
 
 # Build settings
 theme: minima
