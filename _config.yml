@@ -11,7 +11,6 @@ twitter:
 
 # Facebook ID
 facebook:
-  username: markflemingblog
   publisher: https://www.facebook.com/markflemingblog
 
 #Google Analytics
@@ -76,7 +75,6 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll-include-cache
 
 gems:
  - jekyll-sitemap
