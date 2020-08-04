@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ELI5 Guide: Search Engine Optimization (SEO)'
+title: 'ELI5 Guide: Search Engine Optimization'
 date: 2020-08-05 05:00:00 +0000
 author: Mark Fleming
 description: ''
