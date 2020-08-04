@@ -81,7 +81,13 @@ Any SEO guide will recommend writing good content as the #1 priority for a websi
 * Ideal Length: 
 * Keywords
 
-o **Image Alt Text**
+#### Image Alt Text
+
+#### URL Structure
+
+URLs are easy to understand are much better than URLs that are not. If your URL has a lot of numbers or strings of text you do not understand, that is not good. Google prefers URLs that are simple and contain relevant information to what people are searching. Here is an ideal example:
+
+    https://www.example.com/category-keyword/subcategory-keyword/primary-keyword
 
 o **Internal Links**
 
