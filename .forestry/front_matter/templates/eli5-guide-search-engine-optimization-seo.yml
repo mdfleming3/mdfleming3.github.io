@@ -1,0 +1,31 @@
+---
+label: 'ELI5 Guide: Search Engine Optimization (SEO)'
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: author
+  label: author
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: text
+  name: image-alt
+  label: image-alt
+- type: text
+  name: category
+  label: category
+- type: text
+  name: tags
+  label: tags
