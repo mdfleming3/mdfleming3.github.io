@@ -53,33 +53,35 @@ SEO is separated into two buckets: On-page SEO and Off-Page SEO. On page-SEO con
 
 #### Title Tag
 
-A title tag is the title of the page. It should hook users to the page, but it must be unique and descriptive of the page contents. Here are some key considerations:
+A title tag is the title of the page. It should hook users to the page, but it must be _unique_ and _descriptive_ of the page contents. Here are some key considerations:
 
 * **Keywords:** By including the keyword that your article is about will help the search engine figure out what the page is about. For example, “20 Best Men’s Shoes for Hiking in 2020” gives a very good idea of what an article will be about.
 * **Ideal length:** 50-60 characters. If a webpage is longer, Google will cut off the article (i.e. “List of Disney theatrical animated features | Disney Wiki ...”).
 * **Branding:** Many websites include branding at the end of their title tag. This helps improve your branding, but it also helps rank the page for search queries related to your brand.
-* **Avoid boilerplate titles:** These are titles
 
 #### Meta Description
 
 A meta description is the description of the page. Think of this as a description of your page in one sentence. Here are some key considerations:
 
 * **Keywords:** Like title tags, strategically use the keywords you want to target here, but also make sure they appear within the body of the page.
-* **Ideal Length:** 150-300 characters.
+* **Ideal Length:** 150-300 characters. Any shorter, you're missing out on keyword opportunities. Any longer, the search engine will cut you off.
 
 #### Heading tags
 
-In a website, there are typically 6 levels of HTML heading tags that are used on a webpage (<h1>, <h2>, <h3>, <h4>, <h5>, <h6>.  While h1 is typically reserved for the title of the page, the rest are used for subheadings that helps the search engine organize content.
+In a website, there are typically 6 levels of HTML heading tags that are used on a webpage (<h1>, <h2>, <h3>, <h4>, <h5>, <h6>).  While h1 is typically reserved for the title of the page, the rest are used for subheadings that helps the search engine organize content.
 
-* Use these heading tags to break content into sections, and use the headings as an opportunity to further embed keywords
+* Use these heading tags to break content into sections, and use the headings as an opportunity to further embed keywords. If you scan this page, you will see that I am using a wide range of headings to nest subtopics within topics.
 
 #### Good Content
 
-Any SEO guide will recommend writing good content as the #1 priority for a website. I agree. But what exactly makes "good content" for SEO?
+Any SEO guide will recommend writing good content as the #1 priority for a website. I agree. But what exactly makes "good content" for SEO? At its core, this is writing content that users want to keep reading. That should be your goal first.
 
-* **Good Content**
-* Ideal Length: 
-* Keywords
+After that, you should consider keyword planning. Keyword planning is not stuffing hundred of the same word into your article. Search engines discourage that. Rather, keyword planning involves using a tool like [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner") to identify keywords that a lot of people are searching for. By integrating these into your text in a user-friendly manner, users can discover great new content and you can gain a high position.
+
+Here are a few overarching concepts:
+
+* Writing quality: Employ proper grammar, punctuation, etc. Also, apply good style that can be understood by as many audiences as possible.
+* Ideal Article Length: Recommendations vary on this, but most recommendations are between 500-2,000 words, with 1,600 words being the sweetspot.
 
 #### Image Alt Text
 
