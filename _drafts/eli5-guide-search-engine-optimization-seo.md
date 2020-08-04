@@ -89,39 +89,37 @@ URLs are easy to understand are much better than URLs that are not. If your URL 
 
     https://www.example.com/category-keyword/subcategory-keyword/primary-keyword
 
-o **Internal Links**
+#### Internal Links
 
-o **URL Formatting**
+#### Broken Links
 
-§ **Broken Links**
+### Indexing
 
-§ **URL Structure**
+Once I had a boss notice a webpage was still appearing on Google that shouldn’t be. The boss said, “Give those folks at Google a call and tell them to take that page down this instant.” I said, “Uh, that’s not how it works.” The boss said, “Well, how does it work?”
 
-· **Indexing**
+#### Sitemap and robots.txt
 
-o **HTTPS**
+In a nutshell, there are two files that websites must have to interact with search engines. The first is a robots.txt file. This tells the search engine if it can “crawl” the website for content. Without this little file, you will not appear on a Google or Bing. If you have a sensitive page within a website, robots.txt files can prevent these pages from being accessed.
 
-o **robots.txt**
+The second page that is essential is a sitemap. This page expands on the robots.txt file. Its job is to inform search engine crawlers of new content that is added. This is how your new pages appear on Google.
 
-o **Sitemap**
+### Mobile
 
-· **Mobile**
+#### **Mobile Friendliness**
 
-o **Mobile Friendliness**
+At the time this article was published, over 50% of internet users are using mobile phones. Those numbers are consistent with the traffic I have noticed with this website. Google’s algorithm gives preference to websites that have mobile-friendly websites. To test if your website is mobile friendly, use \[Google’s Mobile-Friendly Test\]( [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly "https://search.google.com/test/mobile-friendly"))
 
-§ **Tap Targets**
+* Tap Targets:
+* Readability:
+* Mobile Viewport:
 
-§ **Readability**
+### **Structured Data**
 
-§ **Mobile Viewport**
+#### **Schema.org**
 
-· **Structured Data**
+**Open Graph Protocol**
 
-o **Schema.org**
-
-o **Open Graph Protocol**
-
-o **Twitter Card**
+**Twitter Card**
 
 · **Security**
 
@@ -175,25 +173,9 @@ Here are some very important factors:
 
 **Crawlability:**
 
-Once I had a boss notice a webpage was still appearing on Google that shouldn’t be. The boss said, “Give those folks at Google a call and tell them to take that page down this instant.” I said, “Uh, that’s not how it works.” The boss said, “Well, how does it work?”
-
-In a nutshell, there are two files that websites must have to interact with search engines. The first is a robots.txt file. This tells the search engine if it can “crawl” the website for content. Without this little file, you will not appear on a Google or Bing. If you have a sensitive page within a website, robots.txt files can prevent these pages from being accessed.
-
-The second page that is essential is a sitemap. This page expands on the robots.txt file. Its job is to inform search engine crawlers of new content that is added. This is how your new pages appear on Google.
-
-Security – using “HTTPS”:
-
 When
 
-**URL Structure:**
-
-URLs are easy to understand are much better than URLs that are not. If your URL has a lot of numbers or strings of text you do not understand, that is not good. Google prefers URLs that are simple and contain relevant information to what people are searching. Here is an ideal example:
-
-[https://www.example.com/category-keyword/subcategory-keyword/primary-keyword](https://www.example.com/category-keyword/subcategory-keyword/primary-keyword "https://www.example.com/category-keyword/subcategory-keyword/primary-keyword")
-
 **Mobile-Friendly:**
-
-At the time this article was published, over 50% of internet users are using mobile phones. Those numbers are consistent with the traffic I have noticed with this website. Google’s algorithm gives preference to websites that have mobile-friendly websites. To test if your website is mobile friendly, use \[Google’s Mobile-Friendly Test\]( [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly "https://search.google.com/test/mobile-friendly"))
 
 Page Load Speed:
 
