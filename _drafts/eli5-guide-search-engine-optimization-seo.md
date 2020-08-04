@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: 'ELI5 Guide: Search Engine Optimization (SEO)'
 date: 2020-08-05 05:00:00 +0000
 author: Mark Fleming
@@ -49,27 +49,31 @@ SEO is separated into two buckets: On-page SEO and Off-Page SEO. On page-SEO con
 
 ## **On Page SEO Checklist:**
 
-**Content**
+### **Content**
 
-**Title Tag:**
+#### Title Tag
 
 A title tag is the title of the page. It should hook users to the page, but it must be unique and descriptive of the page contents. Here are some key considerations:
 
-· **Keywords:** By including the keyword that your article is about will help the search engine figure out what the page is about. For example, “20 Best Men’s Shoes for Hiking in 2020” gives a very good idea of what an article will be about.
+* **Keywords:** By including the keyword that your article is about will help the search engine figure out what the page is about. For example, “20 Best Men’s Shoes for Hiking in 2020” gives a very good idea of what an article will be about.
 
-· **Ideal length:** 50-60 characters. If a webpage is longer, Google will cut off the article (i.e. “List of Disney theatrical animated features | Disney Wiki ...”).
 
-· **Branding:** Many websites include branding at the end of their title tag. This helps improve your branding, but it also helps rank the page for search queries related to your brand.
+* **Ideal length:** 50-60 characters. If a webpage is longer, Google will cut off the article (i.e. “List of Disney theatrical animated features | Disney Wiki ...”).
 
-· **Avoid boilerplate titles:** These are titles
 
-**Meta Description:**
+* **Branding:** Many websites include branding at the end of their title tag. This helps improve your branding, but it also helps rank the page for search queries related to your brand.
+
+
+* **Avoid boilerplate titles:** These are titles
+
+#### Meta Description
 
 A meta description is the description of the page. Think of this as a description of your page in one sentence. Here are some key considerations:
 
-· Keywords: Like title tags, strategically use the keywords you want to target here, but also make sure they appear within the body of the page.
+* **Keywords:** Like title tags, strategically use the keywords you want to target here, but also make sure they appear within the body of the page.
 
-· Ideal Length: 150-300 characters.
+
+* **Ideal Length:** 150-300 characters.
 
 It should be unique and describe the contents of the page. This is
 
@@ -173,7 +177,7 @@ o **Overall traffic (social, direct, email, organic, paid, etc.)**
 
 · **Social Profiles**
 
-\**Remember!** On-page = within your website; high control.
+\*_Remember!_* On-page = within your website; high control.
 
 Here are some very important factors:
 
