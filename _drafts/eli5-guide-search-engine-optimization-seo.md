@@ -49,21 +49,15 @@ SEO is separated into two buckets: On-page SEO and Off-Page SEO. On page-SEO con
 
 ## **On Page SEO Checklist:**
 
-### **Content**
+### **Content Factors**
 
 #### Title Tag
 
 A title tag is the title of the page. It should hook users to the page, but it must be unique and descriptive of the page contents. Here are some key considerations:
 
 * **Keywords:** By including the keyword that your article is about will help the search engine figure out what the page is about. For example, “20 Best Men’s Shoes for Hiking in 2020” gives a very good idea of what an article will be about.
-
-
 * **Ideal length:** 50-60 characters. If a webpage is longer, Google will cut off the article (i.e. “List of Disney theatrical animated features | Disney Wiki ...”).
-
-
 * **Branding:** Many websites include branding at the end of their title tag. This helps improve your branding, but it also helps rank the page for search queries related to your brand.
-
-
 * **Avoid boilerplate titles:** These are titles
 
 #### Meta Description
@@ -71,29 +65,21 @@ A title tag is the title of the page. It should hook users to the page, but it m
 A meta description is the description of the page. Think of this as a description of your page in one sentence. Here are some key considerations:
 
 * **Keywords:** Like title tags, strategically use the keywords you want to target here, but also make sure they appear within the body of the page.
-
-
 * **Ideal Length:** 150-300 characters.
 
-It should be unique and describe the contents of the page. This is
+#### Heading tags
 
-**Every web page should have a unique title that describes that page**
+In a website, there are typically 6 levels of HTML heading tags that are used on a webpage (<h1>, <h2>, <h3>, <h4>, <h5>, <h6>.  While h1 is typically reserved for the title of the page, the rest are used for subheadings that helps the search engine organize content.
 
-· **Content**
+* Use these heading tags to break content into sections, and use the headings as an opportunity to further embed keywords
 
-o **Title Tag:**
+#### Good Content
 
-o **Meta Description**
+Any SEO guide will recommend writing good content as the #1 priority for a website. I agree. But what exactly makes "good content" for SEO?
 
-o **Google Preview**
-
-o **Headings**
-
-o **Good Content**
-
-§ **Length**
-
-o **Keywords**
+* **Good Content**
+* Ideal Length: 
+* Keywords
 
 o **Image Alt Text**
 
