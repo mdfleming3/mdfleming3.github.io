@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: 'Tag: Automation'
+title: 'Automation Posts'
 description: Access all automation blog posts and topics.
 tag: automation
 ---
