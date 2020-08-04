@@ -29,3 +29,5 @@ fields:
 - type: text
   name: tags
   label: tags
+pages:
+- _posts/eli5-guide-search-engine-optimization-seo.md
