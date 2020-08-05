@@ -43,7 +43,7 @@ On the other hand, Off-page SEO occurs _outside your website’s code_, where yo
 
 As discussed in the previous section, on-page SEO is what you control. As so, content factors are very important for SEO rankings, distinguishing yourself from competitors, and getting searchers to click on your page.
 
-![](assets/title-and-meta-tag.png)
+![Google Results Description]({{ site.baseurl }}/assets/title-and-meta-tag.png)
 
 #### Title Tag
 
@@ -88,7 +88,7 @@ Structured URLs are easy to understand and much better than unstructured URLs. I
 
 #### Internal Links
 
-![URL Structure](url-structure.png)
+![Internal Links Example]({{ site.baseurl }}/assets/url-structure.png)
 
 You will notice that nearly all websites have a menu bar at the top of every webpage that links to a variety of subpages and internal links. This is important because it:
 
@@ -115,7 +115,7 @@ The second essential file is a sitemap. Its job is to inform search engine crawl
 
 #### Mobile Friendliness
 
-![](assets/mobile-display.png)
+![Mobile Display]({{ site.baseurl }}/assets/mobile-display.png)
 
 At the time this article was published, over 50% of internet users are using mobile phones. Those numbers are consistent with the traffic I receive on this website. Google’s algorithm gives preference to websites that have mobile-friendly websites. Good web designers will have a deep understanding of factors like text readability and tap targets that help determine mobile friendliness.
 
@@ -127,7 +127,7 @@ To test if your website is mobile friendly, use [Google’s Mobile-Friendly Test
 
 Schema markup is code that helps search engines understand content in ways  metadata and title tags cannot. This markup, which is typically added to the <head> section of your code, adds additional information such as ratings, events, person information, social media, and other applicable content to a blog. See the example below. To create this markup code, check out a tool like [Technical SEO's Markup Generator]().
 
-![Schema Example](schema-example.png)
+![Schema Example]({{ site.baseurl }}/assets/schema-example.png)
 
 **Open Graph Protocol**
 
@@ -161,7 +161,7 @@ These are typically provided by domain providers or content delivery networks li
 
 #### Page Speed
 
-![](assets/page-speed.png)
+![Page Speed]({{ site.baseurl }}/assets/page-speed.png)
 
 This is simply how quickly a desktop or mobile page loads when someone opens a URL. This can be tested with a tool like [Google's PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/).
 
