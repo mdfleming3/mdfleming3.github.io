@@ -4,7 +4,7 @@ title: 'ELI5 Guide: Search Engine Optimization'
 date: 2020-08-05 05:00:00 +0000
 author: Mark Fleming
 description: ''
-image: ''
+image: "/assets/eli5-seo.png"
 image-alt: ''
 category: Blog
 tags: seo website digital-marketing strategy analytics
