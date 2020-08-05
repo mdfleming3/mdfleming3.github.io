@@ -33,7 +33,7 @@ Your search engine result position has a huge impact on traffic. By understandin
 
 Now that we know what SEO is and why it’s important, you may be wondering: what factors influence SEO? Let’s lift the hood up and look around.
 
-SEO is separated into two buckets: On-page SEO and Off-Page SEO. On-page SEO consists of factors _within your website’s code_. You have lots of control over these factors, and optimizing these them will improve how users experience your website. 
+SEO is separated into two buckets: On-page SEO and Off-Page SEO. On-page SEO consists of factors _within your website’s code_. You have lots of control over these factors, and optimizing these them will improve how users experience your website.
 
 On the other hand, Off-page SEO occurs _outside your website’s code_, where you have less control. This balance of controlled on-page and uncontrolled off-page factors check and balance one another. If your strategy does not consider both of these categories, your website is less likely to earn that elusive top position.
 
@@ -47,7 +47,7 @@ As discussed in the previous section, on-page SEO is what you control. As so, co
 
 A title tag is the title of the page. While it should hook users in, it must be _unique_ and _descriptive_ of the page contents. Here are some key considerations:
 
-* **Keywords:** By including relevant keywords within the title, search engine will better understand your content. For example, the title “20 Best Men’s Shoes for Hiking in 2020 | Bob's Shoe Store” gives a very good idea of what an article will be about and includes keywords that will likely appear within the body of the article. That's a good title.
+* **Keywords:** By including relevant keywords within the title, search engine will better understand your content. For example, the title “20 Best Men’s Shoes for Hiking in 2020 - Bob's Shoe Store” gives a very good idea of what an article will be about and includes keywords that will likely appear within the body of the article. That's a good title.
 * **Ideal length:** 50-60 characters. If a webpage is longer, Google will cut off the article at the points where it runs over the character limit. This make it hard to read the article, which decreases clickthrough.
 * **Branding:** Many websites include branding at the end of their title tag (see "Bob's Shore Store" above. This helps improve your branding, but it also helps rank the page for search queries related to your brand.
 
