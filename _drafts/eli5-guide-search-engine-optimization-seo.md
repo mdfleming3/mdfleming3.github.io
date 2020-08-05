@@ -122,13 +122,13 @@ Schema markup is code that can help search engines understand your content in wa
 
 **Open Graph Protocol**
 
-Open Graph protocol was developed by Facebook to allow social media sites to share rich data posts like the example below. 
+Open Graph protocol was developed by Facebook to allow social media sites to share rich data posts like the example below.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6688864139005227008" height="441" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-  
+<iframe src="[https://www.linkedin.com/embed/feed/update/urn:li:share:6694266573319901184](https://www.linkedin.com/embed/feed/update/urn:li:share:6694266573319901184 "https://www.linkedin.com/embed/feed/update/urn:li:share:6694266573319901184")" height="464" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 **Twitter Card**
 
-Similar to Open Graph protocol, Twitter cards are used to create 
+Similar to Open Graph protocol, Twitter cards are used to create
 
 · **Security**
 
