@@ -15,7 +15,7 @@ Search engine optimization ... that fancy phrase you have heard about for years.
 
 ## What is SEO?
 
-SEO is short for “search engine optimization.” Simply put, this is the process of improving your webpage’s search result visibility With millions of results for every search engine query, SEO helps your page rank for certain keyword phrases. Unlike Search Engine Marketing campaigns (SEM) that involve managing paid ads, SEO is an “organic," unpaid process. This means that you cannot pay for a higher position; you must earn it by playing by the search engine’s rules.
+SEO is short for “search engine optimization.” Simply put, this is the process of improving your webpage’s search result visibility. With millions of results for every search engine query, SEO helps your page rank for certain keyword phrases. Unlike Search Engine Marketing campaigns (SEM) that involve managing paid ads, SEO is an “organic," unpaid process. This means that you cannot pay for a higher position; you must earn it by playing by the search engine’s rules.
 
 ## Why are search engine rankings important?
 
