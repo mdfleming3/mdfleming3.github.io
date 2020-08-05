@@ -98,7 +98,12 @@ URLs are easy to understand are much better than URLs that are not. If your URL 
 
 #### Internal Links
 
-You'll notice that nearly all websites have a menu bar that exists at the top of a webpage
+You'll notice that nearly all websites have a menu bar that exists at the top of a webpage that links to a variety of categories and subpages and internal links. This is important because it:
+
+1. Improves user experience
+2. Helps search engines develop and internal hierarchy of the website
+
+By having an experienced web developer or a well-developed template, this should be included on all websites. Poor structure will be detrimental to a new blog.
 
 #### Broken Links
 
@@ -126,7 +131,7 @@ At the time this article was published, over 50% of internet users are using mob
 
 ### **Structured Data**
 
-#### **Schema.org**
+#### Schema.org
 
 **Open Graph Protocol**
 
