@@ -126,55 +126,57 @@ Open Graph protocol was developed by Facebook to allow social media sites to sha
 
 <iframe src="[https://www.linkedin.com/embed/feed/update/urn:li:share:6694266573319901184](https://www.linkedin.com/embed/feed/update/urn:li:share:6694266573319901184 "https://www.linkedin.com/embed/feed/update/urn:li:share:6694266573319901184")" height="464" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
+Like schema markup, page tags like title, author, description, etc. are added to an open graph snippet that is stored in the <head> section of your website.
+
 **Twitter Card**
 
-Similar to Open Graph protocol, Twitter cards are used to create
+Twitter cards are particular to Twitter 
 
-· **Security**
+### Security
 
-o **SSL Secure**
+o SSL Secure
 
-o **Mixed Content**
+o Mixed Content
 
-· **Performance**
+· Performance
 
-o **Page Speed**
+o Page Speed
 
-o **Asset Compression**
+o Asset Compression
 
-· **Technology**
+· Technology
 
-o **Google Analytics**
+o Google Analytics
 
-· **Branding**
+· Branding
 
-o **Favicon**
+o Favicon
 
-o **404 Page**
+o 404 Page
 
-· **Domain**
+· Domain
 
-o **Domain Age**
+o Domain Age
 
-o **Registration Length**
+o Registration Length
 
-**Off-Page Factors:**
+Off-Page Factors:
 
-· **Backlinks**
+· Backlinks
 
-o **Authority of Linking site**
+o Authority of Linking site
 
-o **Content Relevence**
+o Content Relevence
 
-o **Anchor text of link**
+o Anchor text of link
 
-o **# Pages linking to website**
+o # Pages linking to website
 
-· **Traffic**
+· Traffic
 
-o **Overall traffic (social, direct, email, organic, paid, etc.)**
+o Overall traffic (social, direct, email, organic, paid, etc.)
 
-· **Social Profiles**
+· Social Profiles
 
 \*_Remember!_* On-page = within your website; high control.
 
