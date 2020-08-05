@@ -133,7 +133,7 @@ Schema markup is code that helps search engines understand content in ways  meta
 
 Open Graph protocol was developed by Facebook to allow social media sites to share rich data posts like the example below.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6694266573319901184" height="464" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6694266573319901184" width="50%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 Like schema markup, page tags like title, author, description, etc. are added to an open graph snippet that is stored in the <head> section of your website. Failure to include this will ensure that your posts will not format correctly when shared on social media. This will hurt your ranking.
 
@@ -173,7 +173,7 @@ Since Google is the biggest search engine of them all, users who use [Google Ana
 
 #### Favicon
 
-A favicon is the small graphic that appears in the tabs of a webpage. This is a branding opportunity for your website, but it also improved user experience, since it helps users organize and access web tabs. 
+A favicon is the small graphic that appears in the tabs of a webpage. This is a branding opportunity for your website, but it also improved user experience, since it helps users organize and access web tabs.
 
 There are many favicon generators. I like [Real Favicon Generator](https://realfavicongenerator.net/).
 
@@ -221,7 +221,7 @@ In the early 2000s, website comment sections were spammed into oblivion with ran
 
     <a href="https://markdfleming.com" rel="nofollow">Anchor Text</a>
 
-Nowadays, nofollow links appear in many formats (i.e. social media links, etc.). While they do not count towards your off-page SEO, they can be useful for generating traffic.  To improve your SEO, however, you will want to ensure that the backlinks you are creating are marked as "dofollow." 
+Nowadays, nofollow links appear in many formats (i.e. social media links, etc.). While they do not count towards your off-page SEO, they can be useful for generating traffic.  To improve your SEO, however, you will want to ensure that the backlinks you are creating are marked as "dofollow."
 
 #### Anchor text of link
 
