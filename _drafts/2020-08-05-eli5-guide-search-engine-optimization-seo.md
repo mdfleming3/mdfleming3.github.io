@@ -43,6 +43,8 @@ On the other hand, Off-page SEO occurs _outside your website’s code_, where yo
 
 As discussed in the previous section, on-page SEO is what you control. As so, content factors are very important for SEO rankings and for distinguishing yourself competitors and getting searchers to click on your page.
 
+![](assets/title-and-meta-tag.png)
+
 #### Title Tag
 
 A title tag is the title of the page. While it should hook users in, it must be _unique_ and _descriptive_ of the page contents. Here are some key considerations:
@@ -68,7 +70,7 @@ Use these heading tags to break content into sections and further embed keywords
 
 Every SEO guide will recommend writing good content as the #1 priority for a website. I agree. But what exactly makes "good" SEO content? At its core, this is writing content that users want to keep reading. That should be your goal first.
 
-After that, you should consider keyword planning. Keyword planning involves using a tool like [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner") to identify keywords and keyword phrases with high traffic and low competition. By appropriately incorporating such keywords into your page, users can discover better content and your website can earn a high position.
+After that, you should consider keyword planning. Keyword planning involves using a tool like [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner") to identify keywords and keyword phrases with high traffic and low competition. By appropriately incorporating such keywords into your page, users can discover better content and your website can earn a higher position.
 
 * **Writing quality:** Employ proper grammar, punctuation, etc. Also, apply good style that can be understood by as many audiences as possible.
 * **Ideal Article Length:** Recommendations vary on this, but the sweet spot tends to be 500-2,000 words.
@@ -76,50 +78,52 @@ After that, you should consider keyword planning. Keyword planning involves usin
 
 #### Image Alt Text
 
-Alt Text is what appears when an image fails to load. While a web developer may intend for these tags to be used with screen readers worst case scenario, search engines use these for indexing images within a search engine. If you fail to include alt text with images in your website, this will hurt your search engine position. If you include alt-text and ensure it's relevant to your content, this can help you
+Alt Text is what appears when an image fails to load or what is read for screen readers. Search engines use these for indexing images within a search engine. If you fail to include alt text with images in your website, this will hurt your search engine position. If you include alt text and ensure it's relevant to your content, this will boost your SEO and improve your user experience, particularly with disabled users that rely on screen readers.
 
 #### URL Structure
 
-URLs are easy to understand are much better than URLs that are not. If your URL has a lot of numbers or strings of text you do not understand, that is not good. Google prefers URLs that are simple and contain relevant information to what people are searching. Here is an ideal example:
+Structured URLs are easy to understand and much better than unstructured URLs. If your URL has a lot of numbers or strings of text you do not understand, your URL is likely unstructured. Google prefers URLs that are simple and contain relevant information to what people are searching. Here is an ideal example:
 
     https://www.example.com/category-keyword/subcategory-keyword/primary-keyword
 
 #### Internal Links
 
-You will notice that nearly all websites have a menu bar that exists at the top of a webpage that links to a variety of categories and subpages and internal links. This is important because it:
+You will notice that nearly all websites have a menu bar at the top of every webpage that links to a variety of subpages and internal links. This is important because it:
 
 1. Improves user experience
 2. Helps search engines develop and internal hierarchy of the website
 
-By having an experienced web developer or a well-developed template, this should be included on all websites. Poor structure will be detrimental to a new blog.
+By having an experienced web developer or a well-developed template, this should be included on all websites. Poor structure will be detrimental to a new blog's success.
 
 #### Broken Links
 
-A broken link occurs when a URL has been removed or a page is not working correctly. Generally this creates a 404 error, which means a page cannot be found. This is bad for a user experience and bad for SEO. As so all website owners should ensure that their website is free of bad links by using a tool like [Dead Link Checker](https://www.deadlinkchecker.com/ "Dead Link Checker").
+A broken link occurs when a URL has been removed or a page is not working correctly. Generally this creates a 404 error, which means a page cannot be found. This is bad for a user experience and bad for SEO. As so, all website owners should ensure that their website is free of bad links by using a tool like [Dead Link Checker](https://www.deadlinkchecker.com/ "Dead Link Checker").
 
 ### Indexing
 
-Once I had a boss notice a webpage was still appearing on Google that shouldn’t be. The boss said, “Give those folks at Google a call and tell them to take that page down this instant.” I said, “Uh, that’s not how it works.” The boss said, “Well, how does it work?”
+Once I had a boss notice a webpage was still appearing on Google that shouldn’t be. The boss said, “Give those folks at Google a call and tell them to take that page down this instant.” I said, “Uh, that’s not how it works.” The boss said, “Well, how does it work?” Here is how it works.
 
 #### Sitemap and robots.txt
 
 In a nutshell, there are two files that websites must have to interact with search engines. The first is a robots.txt file. This tells the search engine if it can “crawl” the website for content. Without this little file, you will not appear on a Google or Bing. If you have a sensitive page within a website, robots.txt files can prevent these pages from being accessed.
 
-The second page that is essential is a sitemap. This page expands on the robots.txt file. Its job is to inform search engine crawlers of new content that is added. This is how your new pages appear on Google.
+The second essential file is a sitemap. Its job is to inform search engine crawlers that new content has been added. This is how your new pages appear on a search engine. If your web page does not appear right away, do not panic. It can take a few days for a page to get indexed. You can request Google prioritize crawling a web page through [Google Search Console](https://search.google.com/search-console/about). 
 
 ### Mobile
 
 #### Mobile Friendliness
 
-At the time this article was published, over 50% of internet users are using mobile phones. Those numbers are consistent with the traffic I have noticed with this website. Google’s algorithm gives preference to websites that have mobile-friendly websites. Good web designers will have a deep understanding of factors  like text readability and tap targets that help determine mobile friendliness.
+At the time this article was published, over 50% of internet users are using mobile phones. Those numbers are consistent with the traffic I have noticed with this website. Google’s algorithm gives preference to websites that have mobile-friendly websites. Good web designers will have a deep understanding of factors like text readability and tap targets that help determine mobile friendliness.
 
-To test if your website is mobile friendly, use \[Google’s Mobile-Friendly Test\]( [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly "https://search.google.com/test/mobile-friendly"))
+To test if your website is mobile friendly, use [Google’s Mobile-Friendly Test](https://search.google.com/test/mobile-friendly).
 
 ### Structured Data
 
 #### Schema Markup
 
-Schema markup is code that can help search engines understand your content in ways that metadata and title tags cannot. This markup, which is typically added to the <head> section of your code, helps add additional information such as ratings, events, person information, social media, and other applicable content to a blog. See the examples below. To create this markup code, check out a tool like [Technical SEO's Markup Generator]().
+Schema markup is code that helps search engines understand content in ways  metadata and title tags cannot. This markup, which is typically added to the <head> section of your code, adds additional information such as ratings, events, person information, social media, and other applicable content to a blog. See the examples below. To create this markup code, check out a tool like [Technical SEO's Markup Generator]().
+
+![](assets/schema-example.png)
 
 **Open Graph Protocol**
 
