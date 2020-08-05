@@ -58,7 +58,7 @@ A meta description is the description of the page. Think of this as a descriptio
 
 #### Heading tags
 
-In a website, there are typically 6 levels of HTML heading tags that are used on a webpage (<h1>, <h2>, <h3>, <h4>, <h5>, <h6>).  While h1 is typically reserved for the title of the page, the rest are used for subheadings that helps the search engine organize content.
+In a website, there are typically 6 levels of HTML heading tags that are used on a webpage (<h1>, <h2>, <h3> ... ).  While h1 is typically reserved for the title of the page, the rest are used for subheadings that helps the search engine organize content.
 
 * Use these heading tags to break content into sections, and use the headings as an opportunity to further embed keywords. If you scan this page, you will see that I am using a wide range of headings to nest subtopics within topics.
 
@@ -180,13 +180,23 @@ Backlinks are one of the most important and most talked about factors in determi
 
 Before you get discouraged though, remember backlinks are all about momentum. The first links are difficult, but once you get several high quality, highly accessed links--they will do some work for you. You just gotta keep at it.
 
-With that said, let's look at factors Google considers when evuating backlinks.
+With that said, let's look at factors Google considers when evaluating backlinks.
 
-#### Authority of Linking site
+#### Domain Authority of Linking site
+
+Whenever your website earns a backlink, it's a good thing. However, not all links are created equally. Google highly values links from websites with a high domain authority. Domain authority is a measure of a websites overall SEO. If a website has a high domain authority, it means it has excellent SEO and is considered extremely credible. Examples of websites with high domains include major media outlets, government websites, and websites that are household names.
+
+Receiving a link from a website with high domain authority is like receiving a great recommendation from a prominent business leader. It will legitimize your website and boost your SEO quickly. Similarly, if you receive a link from a website with no authority, it will do much for your SEO. To check a website's domain authority, use a tool like [Ahref's Website "Authority" Checker](https://ahrefs.com/website-authority-checker).
 
 #### # Pages linking to website
 
+This is simple the overall number of links to a webpage. The more you have, the better, but don't stray to the dark side of gaining back links.
+
+Black hat backlinks include purchasing links from a link farm, spamming website's comment sections with your page, and generating other unnatural URLs. This may give your website a boost in the short run, but it is not sustainable. Google will heavily penalize your website if it catches you doing this.
+
 #### Content Relevance
+
+Since search engines view links as endorsements, links from relevant websites boost off page SEO more than links from irrelevant websites. This means that receiving a link from a website that has similar keywords will be a bigger boost than a link from an obscure website. As so, it's a great idea to build connections with like-minded web authors.
 
 #### Follow / No Follow
 
