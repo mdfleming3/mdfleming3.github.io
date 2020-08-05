@@ -13,11 +13,11 @@ tags: seo website digital-marketing strategy analytics
 ---
 Search engine optimization – yes, that fancy phrase you’ve heard for years. You know it’s important, but do you really know how it works for your website and Google Search engine success? In this ELI5 guide (ELI5 = “Explain like I am 5”), I will explain everything you need to know to get started with SEO. My goal is for this guide to be a practical reference to help you better understand the jargon and marketing concepts used in this blog.
 
-## **What is SEO?**
+## What is SEO?
 
 SEO is short for “search engine optimization.” This is a fancy word for the process of improving your webpage’s position on search results. With millions of results for every search engine query, SEO helps your page rank correctly and higher than your competitors. Unlike Search Engine Marketing campaigns (SEM) that involve managing paid advertisements, SEO is an “organic” or an unpaid process. This means that you cannot pay for a higher position; it is determined by playing by the search engine’s rules.
 
-## **Why are search engine rankings important?**
+## Why are search engine rankings important?
 
 Simply put, high position pages get a lot of more traffic than low position pages. More traffic = more sales and visibility.
 
@@ -42,15 +42,15 @@ In another study, Ignite Visibility found that clickthrough rates (CTR) dramatic
 
 In short, good search engine rankings have a huge impact on traffic! By understanding how these are calculated, you can have an upper hand on your competitors.
 
-## **On-page SEO and Off-page SEO**
+## On-page SEO and Off-page SEO
 
 Now that we know what SEO is and why it’s important, you may be wondering: what factors influence SEO? Let’s lift the hood and look around.
 
 SEO is separated into two buckets: On-page SEO and Off-Page SEO. On page-SEO consists of factors that occur _within your website’s code_. You have lots of control over these factors, and optimizing these factors will improve how users experience your website. On the other hand, Off-page SEO occurs _outside your website’s code_, where you have less control. This balance of highly controlled on-page SEO factors and uncontrolled off-page SEO factors check and balance one another. If your strategy does not consider both of these categories, your website will not earn a top position for highly accessed keywords.
 
-## **On Page SEO Checklist:**
+## On Page SEO Checklist:
 
-### **Content Factors**
+### Content Factors
 
 As discussed in the previous section, on page SEO is what you control. With a website, you have the greatest control over your content. As so, content factors are some of the most important SEO factors for distinguishing yourself from your competitors and getting searchers to actually click on your page.
 
@@ -121,7 +121,7 @@ The second page that is essential is a sitemap. This page expands on the robots.
 
 ### Mobile
 
-#### **Mobile Friendliness**
+#### Mobile Friendliness
 
 At the time this article was published, over 50% of internet users are using mobile phones. Those numbers are consistent with the traffic I have noticed with this website. Google’s algorithm gives preference to websites that have mobile-friendly websites. To test if your website is mobile friendly, use \[Google’s Mobile-Friendly Test\]( [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly "https://search.google.com/test/mobile-friendly"))
 
@@ -129,7 +129,7 @@ At the time this article was published, over 50% of internet users are using mob
 * Readability:
 * Mobile Viewport:
 
-### **Structured Data**
+### Structured Data
 
 #### Schema.org
 
