@@ -97,6 +97,8 @@ URLs are easy to understand are much better than URLs that are not. If your URL 
 
 #### Internal Links
 
+You'll notice that nearly all websites have a menu bar that exists at the top of a webpage
+
 #### Broken Links
 
 A broken link occurs when a URL has been removed or a page is not working correctly. Generally this creates a 404 error, which means a page cannot be found. This is bad for a user experience and bad for SEO. As so all website owners should ensure that their website is free of bad links by using a tool like [Dead Link Checker](https://www.deadlinkchecker.com/ "Dead Link Checker").
