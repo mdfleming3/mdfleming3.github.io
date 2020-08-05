@@ -68,7 +68,7 @@ Use these heading tags to break content into sections and further embed keywords
 
 #### Good Content
 
-Every SEO guide will recommend writing good content as the #1 priority for a website. I agree. But what exactly makes "good" SEO content? At its core, this is writing that is clear and makes users want to keep reading. Think of great articles or books you've read. That's what you should aim for first. 
+Every SEO guide will recommend writing good content as the #1 priority for a website. I agree. But what exactly makes "good" SEO content? At its core, this is writing that is clear and makes users want to keep reading. Think of great articles or books you've read. That's what you should aim for first.
 
 After that, you should consider keyword planning. Keyword planning involves using a tool like [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner") to identify keywords and keyword phrases with high traffic and low competition. By appropriately incorporating such keywords into your page, users can discover better content and your website can earn a higher position.
 
@@ -95,7 +95,7 @@ You will notice that nearly all websites have a menu bar at the top of every web
 1. Improves user experience
 2. Helps search engines develop and internal hierarchy of the website
 
-By having an experienced web developer or a well-developed template, this should be included on all websites. Poor structure will be detrimental to a new blog's success.
+By employing an experienced web developer or using a well-developed template, this should be fairly easy to integrate into a website's development. Poor structure will be detrimental to a new blog's success.
 
 #### Broken Links
 
@@ -103,19 +103,21 @@ A broken link occurs when a URL has been removed or a page is not working correc
 
 ### Indexing
 
-Once I had a boss notice a webpage was still appearing on Google that shouldn’t be. The boss said, “Give those folks at Google a call and tell them to take that page down this instant.” I said, “Uh, that’s not how it works.” The boss said, “Well, how does it work?” Here is how it works.
+I once had a boss notice that an unpublished webpage was still being indexed on Google. The boss said, “Give those folks at Google a call and tell them to take that page down this instant.” I said, “Uh, that’s not how it works.” The boss said, “Well, how does it work?” Here is how it works.
 
 #### Sitemap and robots.txt
 
-In a nutshell, there are two files that websites must have to interact with search engines. The first is a robots.txt file. This tells the search engine if it can “crawl” the website for content. Without this little file, you will not appear on a Google or Bing. If you have a sensitive page within a website, robots.txt files can prevent these pages from being accessed.
+There are two files that websites need to interact with search engines. The first is a robots.txt file. This tells the search engine if it can “crawl” the website for content. Without this little file, you will not appear on a Google or Bing. If you have a sensitive page within a website, robots.txt files can prevent these pages from being accessed.
 
-The second essential file is a sitemap. Its job is to inform search engine crawlers that new content has been added. This is how your new pages appear on a search engine. If your web page does not appear right away, do not panic. It can take a few days for a page to get indexed. You can request Google prioritize crawling a web page through [Google Search Console](https://search.google.com/search-console/about). 
+The second essential file is a sitemap. Its job is to inform search engine crawlers that new content has been added. This is how new pages appear on a search engine. If your web page changes does not appear right away, do not panic like my old boss. It can take a few days for a page to get indexed or de-indexed. You can request Google prioritize crawling a web page through [Google Search Console](https://search.google.com/search-console/about).
 
 ### Mobile
 
 #### Mobile Friendliness
 
-At the time this article was published, over 50% of internet users are using mobile phones. Those numbers are consistent with the traffic I have noticed with this website. Google’s algorithm gives preference to websites that have mobile-friendly websites. Good web designers will have a deep understanding of factors like text readability and tap targets that help determine mobile friendliness.
+![](assets/mobile-display.png)
+
+At the time this article was published, over 50% of internet users are using mobile phones. Those numbers are consistent with the traffic I receive on this website. Google’s algorithm gives preference to websites that have mobile-friendly websites. Good web designers will have a deep understanding of factors like text readability and tap targets that help determine mobile friendliness.
 
 To test if your website is mobile friendly, use [Google’s Mobile-Friendly Test](https://search.google.com/test/mobile-friendly).
 
@@ -123,7 +125,7 @@ To test if your website is mobile friendly, use [Google’s Mobile-Friendly Test
 
 #### Schema Markup
 
-Schema markup is code that helps search engines understand content in ways  metadata and title tags cannot. This markup, which is typically added to the <head> section of your code, adds additional information such as ratings, events, person information, social media, and other applicable content to a blog. See the examples below. To create this markup code, check out a tool like [Technical SEO's Markup Generator]().
+Schema markup is code that helps search engines understand content in ways  metadata and title tags cannot. This markup, which is typically added to the <head> section of your code, adds additional information such as ratings, events, person information, social media, and other applicable content to a blog. See the example below. To create this markup code, check out a tool like [Technical SEO's Markup Generator]().
 
 ![Schema Example](schema-example.png)
 
@@ -131,19 +133,27 @@ Schema markup is code that helps search engines understand content in ways  meta
 
 Open Graph protocol was developed by Facebook to allow social media sites to share rich data posts like the example below.
 
-<iframe src="[https://www.linkedin.com/embed/feed/update/urn:li:share:6694266573319901184](https://www.linkedin.com/embed/feed/update/urn:li:share:6694266573319901184 "https://www.linkedin.com/embed/feed/update/urn:li:share:6694266573319901184")" height="464" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6694266573319901184" height="464" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
-Like schema markup, page tags like title, author, description, etc. are added to an open graph snippet that is stored in the <head> section of your website.
+Like schema markup, page tags like title, author, description, etc. are added to an open graph snippet that is stored in the <head> section of your website. Failure to include this will ensure that your posts will not format correctly when shared on social media. This will hurt your ranking.
 
-**Twitter Card**
+**Twitter Cards**
 
-Twitter cards are a sharing tool created by Twitter that allows for rich sharing of webpage content. Like Schema markup and Open Graph profile, twitter card code should be added to the <head> section of your website.
+Twitter cards are a sharing tool created by Twitter that allow for rich sharing of webpage content. Like Schema markup and Open Graph profile, twitter card code should be added to the <head> section of your website. Failure to include will hurt search engine ranking and your ability to share efficiently.
+
+The [Official Twitter Card page](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary) recommends code that looks as follows:
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@flickr" />
+    <meta name="twitter:title" content="Small Island Developing States Photo Submission" />
+    <meta name="twitter:description" content="View the album on Flickr." />
+    <meta name="twitter:image" content="https://farm6.staticflickr.com/5510/14338202952_93595258ff_z.jpg" />
 
 ### Security
 
 #### SSL Certificate and HTTPS Protocol
 
-In Chrome, you will notice a padlock next to a webpage URL, this means that the webpage you are accessing has a security measure called an SSL Certificate. In short, this means that the website has better authentication and encryption than a website without an SSL certificate. This is done by forcing a website to use HTTPS protocol (this is code at the beginning of a URL) and preventing mixed content (i.e. some content is HTTPS and some is HTTP)
+In Chrome, you will notice a padlock next to a webpage URL. This means that the webpage you are accessing has a security measure called an SSL Certificate. In short, this means that the website has better authentication and encryption than a website without an SSL certificate. This is done by forcing a website to use HTTPS protocol (this is code at the beginning of a URL) and preventing mixed content (i.e. some content is HTTPS and some is HTTP)
 
 These are typically provided by domain providers or content delivery networks like [Cloudflare](https://www.cloudflare.com/ "Cloudflare").
 
@@ -151,65 +161,67 @@ These are typically provided by domain providers or content delivery networks li
 
 #### Page Speed
 
-This is simply how quickly a desktop or mobile page loads when someone opens a URL from your website. This can be tested with a tool like [Google's PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/).
+![](assets/page-speed.png)
 
-While maximizing page speed can get quite technical, a general rule of thumb is that the more stuff you add to a webpage (i.e. plugins, photos, videos, heavy design, etc.), the slower your website will be. Google highly prioritizes this, so always keep in mind while building and upgrading websites.
+This is simply how quickly a desktop or mobile page loads when someone opens a URL. This can be tested with a tool like [Google's PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/).
+
+While maximizing page speed can get quite technical, a general rule of thumb is that the more stuff you add to a webpage (i.e. plugins, photos, videos, heavy design, etc.), the slower your website will be. Search engines highly favor fast websites, so always prioritize while building and upgrading websites.
 
 #### Google Analytics
 
-Since Google is the biggest search engine of them all, users who use Google Analytics receive a slight bump in search engine ranking. Google Analytics is a phenomenal analytics tool and pretty easy to integrate into all types of websites. This one is a no-brainer.
+Since Google is the biggest search engine of them all, users who use [Google Analytics](https://analytics.google.com/) receive a slight bump in search engine ranking. Google Analytics is a phenomenal tool and easy to integrate into all types of websites. This one is a no-brainer.
 
 #### Favicon
 
-A favicon is the small graphic that appears in the tabs of a webpage. This is a branding opportunity for your website, but it also improved user experience, since
+A favicon is the small graphic that appears in the tabs of a webpage. This is a branding opportunity for your website, but it also improved user experience, since it helps users organize and access web tabs. 
+
+There are many favicon generators. I like [Real Favicon Generator](https://realfavicongenerator.net/).
 
 #### 404 Page
 
-As mentioned in the Broken Link section, sometimes pages break. Sometimes users type in a URL that does not exist. This results in a 404 error. When this happens, your website should have a 404 page that can inform users that the page they are looking for does not exist. This will make for a better user experience, and it will help your search ranking.
+As mentioned in the Broken Link section, pages break sometimes. When a webpage cannot be found, this results in a 404 error. When this happens, your website should have a custom 404 page that informs users the page they are looking for does not exist. This will make for a better user experience, and it will help your search position.
 
 #### Domain
 
 While not as complex of an issue as some of the content factors, search engines consider several elements related to domain names. In creating a domain, your domain name should be consistent with how you refer to your company in the site title, footer, about page, etc.
 
-Additionally, Google takes into consideration the age of the domain name and how long the domain is registered in advance. While this will not be a make-or-break for new websites, Google wants to ensure that it is not recommending websites that are bound to fall victim to the burnout I discussed in my [Three Stage Content Marketing Lifecycle](https://markdfleming.com/streamline-your-content-marketing-strategy-with-the-three-stage-lifecycle/) article.
+Additionally, Google takes into consideration the age of the domain name and how long the domain is registered in advance. While this will not be a make-or-break for new websites, Google wants to ensure that it is not recommending websites that are bound to fall victim to the burnout I discussed in my [Three Stage Content Marketing Lifecycle](https://markdfleming.com/streamline-your-content-marketing-strategy-with-the-three-stage-lifecycle/) article. So, the longer you have been committed to a website and the longer you purchase a domain in advance, the better.
 
 ## Off-Page Checklist:
 
-After digging deep into factors
-
 ### Backlinks
 
-A backlink is simply a link from someone else's website to yours. Google considers this link as a sort of endorsement, saying, "Hey, check out this site, there is something useful and credible to see."
+A backlink is simply a link from someone else's website to yours. Search engines consider this link as a sort of endorsement, saying, "Hey, check out this site, there is something useful and credible to see."
 
-Backlinks are one of the most important and most talked about factors in determining search engine position. They are also one of the hardest factors to control, because acquiring backlinks requires strategy and hard work. Additionally, the success of acquiring several backlinks can be trumped by the realization that many high positioned websites have hundreds of thousands of backlinks that make them untouchable to small websites.
+Backlinks are one of the most important and most talked about factors in determining search engine position. They are also one of the hardest factors to control, because acquiring backlinks requires strategy, time, and a lot of hard work. Additionally, the success of acquiring several backlinks can be trumped by the realization that many high positioned websites have hundreds of thousands of backlinks that make them untouchable for small businesses and creators.
 
-Before you get discouraged though, remember backlinks are all about momentum. The first links are difficult, but once you get several high quality, highly accessed links--they will do some work for you. You just gotta keep at it.
+Before you get discouraged though, remember backlinks are all about momentum. The first links are most difficult, but once you get several high quality, highly accessed links - they will do work for you. You just gotta keep at it.
 
-With that said, let's look at factors Google considers when evaluating backlinks.
+With that said, let's look at backlinking factors to consider.
 
 #### Domain Authority of Linking site
 
 Whenever your website earns a backlink, it's a good thing. However, not all links are created equally. Google highly values links from websites with a high domain authority. Domain authority is a measure of a websites overall SEO. If a website has a high domain authority, it means it has excellent SEO and is considered extremely credible. Examples of websites with high domains include major media outlets, government websites, and websites that are household names.
 
-Receiving a link from a website with high domain authority is like receiving a great recommendation from a prominent business leader. It will legitimize your website and boost your SEO quickly. Similarly, if you receive a link from a website with no authority, it will do much for your SEO. To check a website's domain authority, use a tool like [Ahref's Website "Authority" Checker](https://ahrefs.com/website-authority-checker).
+Receiving a link from a website with high domain authority is like receiving a great recommendation from a prominent business leader. It will legitimize your website and boost your SEO quickly. On the other hand, if you receive a link from a website with no authority, it won't do much for your SEO. To check a website's domain authority, use a tool like [Ahref's Website "Authority" Checker](https://ahrefs.com/website-authority-checker).
 
 #### # Pages linking to website
 
-This is simple the overall number of links to a webpage. The more you have, the better, but do not stray to the dark side of gaining back links.
+This is simple the overall number of links pointing to your page. The more you have, the better, but do not stray to the dark side in an attempt to gain more back links.
 
-Black hat backlinks include purchasing links from a link farm, spamming website's comment sections with your page, and generating other unnatural URLs. This may give your website a boost in the short run, but it is not sustainable. Google will heavily penalize your website if it catches you doing this.
+Black hat backlinks include purchasing links from a link farm, spamming website's comment sections with your page, and generating other unnatural URLs. This may give your website a boost in the short run, but it is a bad practice that is not sustainable. Google will heavily penalize your website if it catches you doing this.
 
 #### Content Relevance
 
-Since search engines view links as endorsements, links from relevant websites boost off-page SEO more than links from irrelevant websites. This means that receiving a link from a website that has similar keywords will be a bigger boost than a link from an obscure website. As so, it's a great idea to build connections with like-minded web authors.
+Since search engines view links as endorsements, links from relevant websites boost off-page SEO more than links from irrelevant websites. This means that receiving a link from a website that has similar content and keywords will be a bigger boost than a link from an obscure website. As so, it's a great idea to build connections with like-minded web authors and engage with individuals in your space.
 
 #### DoFollow / NoFollow Links
 
-In the early 2000s, comment sections of websites were spammed to oblivion with random website owners sharing links to their websites. They were doing this to increase backlinks on domains with high authorities. This ended up decreasing the user experience. As so, the rel="nofollow" code was introduced into links (see below). This ultimately prevent spammers from gaining links this way.
+In the early 2000s, website comment sections were spammed into oblivion with random website owners sharing links to their websites. They were doing this to increase backlinks on domains with high authorities. This ended up decreasing the user experience. As so, the rel="nofollow" code was introduced into links (see below). This ultimately prevent spammers from gaining links this way.
 
     <a href="https://markdfleming.com" rel="nofollow">Anchor Text</a>
 
-Nowadays, nofollow links appear in many formats (i.e. social media links), but only links that do not include the rel="nofollow" text count as backlinks.
+Nowadays, nofollow links appear in many formats (i.e. social media links, etc.). While they do not count towards your off-page SEO, they can be useful for generating traffic.  To improve your SEO, however, you will want to ensure that the backlinks you are creating are marked as "dofollow." 
 
 #### Anchor text of link
 
@@ -219,7 +231,7 @@ When you create a link like this: [Mark Fleming Blog](https://markdfleming.com/)
 
 #### Overall traffic (social, direct, email, organic, paid, etc.)
 
-Last but certainly not least, we must remember that organic traffic does not exist in a vacuum. It is only one stream of traffic to our website. Other paths such as social, direct, email, paid, etc. are lucrative paths that can make or break a business.
+Last but certainly not least, we must remember that organic traffic does not exist in a vacuum. It is only one stream within the overall traffic coming to our website. Other paths such as social, direct, email, paid, etc. are lucrative paths that can make or break a business.
 
 Search engines consider the overall traffic a page receives and the traffic related social media accounts. As so, make sure to balance your marketing efforts. Spend time and resources in improving your weakest links, and SEO success will be a step closer.
 
