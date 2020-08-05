@@ -158,9 +158,11 @@ Since Google is the biggest search engine of them all, users who use Google Anal
 
 A favicon is the small graphic that appears in the tabs of a webpage. This is a branding opportunity for your website, but it also improved user experience, since 
 
-404 Page
+#### 404 Page
 
-### Domain
+As mentioned in the Broken Link section, sometimes pages break. Sometimes users type in a URL that does not exist. This results in a 404 error. When this happens, your website should have a 404 page that can inform users that the page they are looking for does not exist. This will make for a better user experience, and it will help your search ranking.
+
+#### Domain
 
 While not as complex of an issue as some of the content factors, search engines consider several elements related to domain names. In creating a domain, your domain name should be consistent with how you refer to your company in the site title, footer, about page, etc. 
 
@@ -168,25 +170,33 @@ Additionally, Google takes into consideration the age of the domain name and how
 
 ## Off-Page Factors:
 
-Backlinks
+After digging deep into factors 
 
-o Authority of Linking site
+### Backlinks
 
-o Content Relevence
+A backlink is simply a link from someone else's website to yours. Google considers this link as a sort of endorsement, saying, "Hey, check out this site, there is something useful and credible to see."
 
-o Anchor text of link
+Backlinks are one of the most important and most talked about factors in determining search engine position. They are also one of the hardest factors to control, because acquiring backlinks requires strategy and hard work. Additionally, the success of acquiring several backlinks can be trumped by the realization that many high positioned websites have hundreds of thousands of backlinks that make them untouchable to small websites.
 
-o # Pages linking to website
+Before you get discouraged though, remember backlinks are all about momentum. The first links are difficult, but once you get several high quality, highly accessed links--they will do some work for you. You just gotta keep at it.
 
-· Traffic
+With that said, let's look at factors Google considers when evuating backlinks.
 
-o Overall traffic (social, direct, email, organic, paid, etc.)
+#### Authority of Linking site
 
-· Social Profiles
+#### # Pages linking to website
 
-Off-Page SEO Factors
+#### Content Relevance
 
-In the early 2000s, there were websites that found success by using word strings (better known as keywords) hundreds of on a page in a technique known as keyword stuff. Search engines squashed this
+#### Follow / No Follow
+
+#### Anchor text of link
+
+### Traffic
+
+#### Overall traffic (social, direct, email, organic, paid, etc.)
+
+#### Social Profiles
 
 **Further Reading:**
 
