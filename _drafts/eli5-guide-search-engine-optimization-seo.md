@@ -130,15 +130,19 @@ Like schema markup, page tags like title, author, description, etc. are added to
 
 **Twitter Card**
 
-Twitter cards are particular to Twitter 
+Twitter cards are a sharing tool created by Twitter that allows for rich sharing of webpage content. Like Schema markup and Open Graph profile, twitter card code should be added to the <head> section of your website.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don&#39;t be scared of content marketing anymore! I have created the three stage content marketing lifecycle that can be easily customized to your organization or project. <a href="[https://twitter.com/hashtag/MarketingStrategy?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/MarketingStrategy?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/MarketingStrategy?src=hash&amp;ref_src=twsrc%5Etfw")">#MarketingStrategy</a> <a href="[https://twitter.com/hashtag/contentmarketing?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/contentmarketing?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/contentmarketing?src=hash&amp;ref_src=twsrc%5Etfw")">#contentmarketing</a> <a href="[https://twitter.com/hashtag/strategy?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/strategy?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/strategy?src=hash&amp;ref_src=twsrc%5Etfw")">#strategy</a> <a href="[https://twitter.com/hashtag/Entrepreneur?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/Entrepreneur?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/Entrepreneur?src=hash&amp;ref_src=twsrc%5Etfw")">#Entrepreneur</a> <a href="[https://twitter.com/hashtag/lifecycle?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/lifecycle?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/lifecycle?src=hash&amp;ref_src=twsrc%5Etfw")">#lifecycle</a> <a href="[https://twitter.com/hashtag/businesstips?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/businesstips?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/businesstips?src=hash&amp;ref_src=twsrc%5Etfw")">#businesstips</a> <a href="https://t.co/JquNECtzsf">https://t.co/JquNECtzsf</a></p>&mdash; Mark Fleming (@markdfleming2) <a href="[https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw](https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw "https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw")">July 29, 2020</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
 
 ### Security
 
-o SSL Secure
+#### SSL Certificate and HTTPS Protocol
 
-o Mixed Content
+In Chrome, you will notice a padlock next to a webpage URL, this means that the webpage you are accessing has a security measure called an SSL Certificate. In short, this means that the website has better authentication and encryption than a website without an SSL certificate. This is done by forcing a website to use HTTPS protocol (this is code at the beginning of a URL) and preventing mixed content (i.e. some content is HTTPS and some is HTTP)
 
-· Performance
+These are typically provided by domain providers or content delivery networks like [Cloudflare](https://www.cloudflare.com/ "Cloudflare").
+
+#### Performance
 
 o Page Speed
 
