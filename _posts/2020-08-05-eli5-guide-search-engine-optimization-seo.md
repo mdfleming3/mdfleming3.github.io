@@ -51,7 +51,7 @@ A title tag is the title of the page. While it should hook users in, it must be 
 
 * **Keywords:** By including relevant keywords within the title, search engine will better understand your content. For example, the title “20 Best Men’s Shoes for Hiking in 2020 - Bob's Shoe Store” gives a very good idea of what an article will be about. It also includes keywords that will likely appear within the body of the article. That's a good title.
 * **Ideal length:** 50-60 characters. If a webpage is longer, Google will cut off the article at the points where it runs over the character limit. This make makes the title hard to read, which decreases clickthrough rates.
-* **Branding:** Many websites include branding at the end of their title tag (see "Bob's Shore Store" above. This helps improve your branding, but it also helps rank the page for search queries related to your brand.
+* **Branding:** Many websites include branding at the end of their title tag (see "Bob's Shore Store" above. This helps improve your branding, but it also helps rank the page for search queries related to your organization.
 
 #### Meta Description
 
