@@ -88,7 +88,7 @@ Here are a few overarching concepts:
 
 #### Image Alt Text
 
-Alt Text is what appears when an image fails to load. While a web developer intend for these to be used with screen readers worst case scenario, search engines use these for indexing images within a search engine. If you fail to include alt text with images in your website, this will hurt your search engine position. If you include alt-text and ensure it's relevant to your content, this can help you 
+Alt Text is what appears when an image fails to load. While a web developer intend for these to be used with screen readers worst case scenario, search engines use these for indexing images within a search engine. If you fail to include alt text with images in your website, this will hurt your search engine position. If you include alt-text and ensure it's relevant to your content, this can help you
 
 #### URL Structure
 
@@ -131,7 +131,9 @@ At the time this article was published, over 50% of internet users are using mob
 
 ### Structured Data
 
-#### Schema.org
+#### Schema Markup
+
+Schema markup is code that can help search engines understand your content in ways that metadata and title tags cannot. This markup, which is typically added to the <head> section of your code, helps add additional information such as ratings, events, person information, social media, and other applicable content to a blog. See the examples below. To create this markup code, check out a tool like [Technical SEO's Markup Generator]().
 
 **Open Graph Protocol**
 
