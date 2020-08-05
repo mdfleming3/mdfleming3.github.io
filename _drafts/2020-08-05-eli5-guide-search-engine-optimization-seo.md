@@ -15,7 +15,7 @@ Search engine optimization ... that fancy phrase you have heard about for years.
 
 ## What is SEO?
 
-SEO is short for “search engine optimization.” Simply put, this is the process of improving your webpage’s search result visibility With millions of results for every search engine query, SEO helps your page rank for certain key word phrases. Unlike Search Engine Marketing campaigns (SEM) that involve managing paid advertisements, SEO is an “organic” or an unpaid process. This means that you cannot pay for a higher position; you have got to earn it by playing by the search engine’s rules.
+SEO is short for “search engine optimization.” Simply put, this is the process of improving your webpage’s search result visibility With millions of results for every search engine query, SEO helps your page rank for certain keyword phrases. Unlike Search Engine Marketing campaigns (SEM) that involve managing paid ads, SEO is an “organic," unpaid process. This means that you cannot pay for a higher position; you must earn it by playing by the search engine’s rules.
 
 ## Why are search engine rankings important?
 
@@ -27,55 +27,56 @@ To better understand the decay that occurs from high position to low position pa
 * Top three position results get 75.1% of all clicks
 * Second page results and beyond get only 0.78% of all clicks (Yikes!)
 
-Your search engine result has a huge influence on traffic. By understanding how these positions are determined, you can give yourself the competitive advantage over less savvy competitors.
+Your search engine result position has a huge impact on traffic. By understanding how these positions are determined, you can give yourself the competitive advantage over less savvy competitors.
 
 ## On-page SEO and Off-page SEO
 
 Now that we know what SEO is and why it’s important, you may be wondering: what factors influence SEO? Let’s lift the hood up and look around.
 
-SEO is separated into two buckets: On-page SEO and Off-Page SEO. On-page SEO consists of factors _within your website’s code_. You have lots of control over these factors, and optimizing these factors will improve how users experience your website. On the other hand, Off-page SEO occurs _outside your website’s code_, where you have less control. This balance of highly-controlled on-page SEO and uncontrolled off-page SEO factors check and balance one another. If your strategy does not consider both of these categories, your website is less likely to earn that elusive top position.
+SEO is separated into two buckets: On-page SEO and Off-Page SEO. On-page SEO consists of factors _within your website’s code_. You have lots of control over these factors, and optimizing these them will improve how users experience your website. 
+
+On the other hand, Off-page SEO occurs _outside your website’s code_, where you have less control. This balance of controlled on-page and uncontrolled off-page factors check and balance one another. If your strategy does not consider both of these categories, your website is less likely to earn that elusive top position.
 
 ## On-Page SEO Checklist:
 
 ### Content Factors
 
-As discussed in the previous section, on-page SEO is what you control. With a website, you have the greatest control over your content. As so, content factors are very important for SEO rankings and for distinguishing yourself from a competitor. To get a searcher to click on your page, you must tailor content appropriately.
+As discussed in the previous section, on-page SEO is what you control. As so, content factors are very important for SEO rankings and for distinguishing yourself competitors and getting searchers to click on your page.
 
 #### Title Tag
 
-A title tag is the title of the page. It should hook users into the page, but it must be _unique_ and _descriptive_ of the page contents. Here are some key considerations:
+A title tag is the title of the page. While it should hook users in, it must be _unique_ and _descriptive_ of the page contents. Here are some key considerations:
 
-* **Keywords:** By including the keyword that your article is about will help the search engine figure out what the page is about. For example, the title “20 Best Men’s Shoes for Hiking in 2020” gives a very good idea of what an article will be about.
-* **Ideal length:** 50-60 characters. If a webpage is longer, Google will cut off the article (i.e. “List of Disney theatrical animated features | Disney Wiki ...”) .
-* **Branding:** Many websites include branding at the end of their title tag. This helps improve your branding, but it also helps rank the page for search queries related to your brand.
+* **Keywords:** By including relevant keywords within the title, search engine will better understand your content. For example, the title “20 Best Men’s Shoes for Hiking in 2020 | Bob's Shoe Store” gives a very good idea of what an article will be about and includes keywords that will likely appear within the body of the article. That's a good title.
+* **Ideal length:** 50-60 characters. If a webpage is longer, Google will cut off the article at the points where it runs over the character limit. This make it hard to read the article, which decreases clickthrough.
+* **Branding:** Many websites include branding at the end of their title tag (see "Bob's Shore Store" above. This helps improve your branding, but it also helps rank the page for search queries related to your brand.
 
 #### Meta Description
 
-A meta description is the description of the page. Think of this as a description of your page in one sentence. Here are some key considerations:
+A meta description is the description of the page. Think of this as a one sentence description for the page. Here are some key considerations:
 
 * **Keywords:** Like title tags, strategically use the keywords you want to target here, but also make sure they appear within the body of the page.
 * **Ideal Length:** 150-300 characters. Any shorter, you are missing out on keyword opportunities. Any longer, the search engine will cut you off.
 
 #### Heading tags
 
-In a website, there are typically 6 levels of HTML heading tags that are used on a webpage (<h1>, <h2>, <h3> ... ).  While h1 is typically reserved for the title of the page, the rest are used for subheadings that helps the search engine organize content.
+In a website, there are typically 6 levels of HTML heading tags that are used on a webpage (<h1>, <h2>, <h3>, etc.).  While h1 is usually the title of the page, the other subheadings help the search engine organize content.
 
-* Use these heading tags to break content into sections, and use the headings as an opportunity to further embed keywords. If you scan this page, you will see that I am using a wide range of headings to nest subtopics within topics.
+Use these heading tags to break content into sections and further embed keywords. If you scan this page, you will see that I am using a wide range of headings to nest subtopics within topics.
 
 #### Good Content
 
-Any SEO guide will recommend writing good content as the #1 priority for a website. I agree. But what exactly makes "good content" for SEO? At its core, this is writing content that users want to keep reading. That should be your goal first.
+Every SEO guide will recommend writing good content as the #1 priority for a website. I agree. But what exactly makes "good" SEO content? At its core, this is writing content that users want to keep reading. That should be your goal first.
 
-After that, you should consider keyword planning. Keyword planning is not stuffing hundred of the same word into your article. Search engines have discouraged that since the early 2000s. Rather, keyword planning involves using a tool like [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner") to identify keywords and keyword phrases with high traffic and low competition. By integrating these into your text in a user-friendly manner, users can discover better content and your website can earn a high position.
-
-Here are a few overarching concepts:
+After that, you should consider keyword planning. Keyword planning involves using a tool like [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner") to identify keywords and keyword phrases with high traffic and low competition. By appropriately incorporating such keywords into your page, users can discover better content and your website can earn a high position.
 
 * **Writing quality:** Employ proper grammar, punctuation, etc. Also, apply good style that can be understood by as many audiences as possible.
-* **Ideal Article Length:** Recommendations vary on this, but most recommendations are between 500-2,000 words, with 1,600 words being the sweet spot.
+* **Ideal Article Length:** Recommendations vary on this, but the sweet spot tends to be 500-2,000 words.
+* **Don't stuff keywords:** In the early 2000s, websites would cram hundreds of keywords into articles. This never really worked. Google can easily figure this out, and your website will be penalized. Just write good content.
 
 #### Image Alt Text
 
-Alt Text is what appears when an image fails to load. While a web developer intend for these to be used with screen readers worst case scenario, search engines use these for indexing images within a search engine. If you fail to include alt text with images in your website, this will hurt your search engine position. If you include alt-text and ensure it's relevant to your content, this can help you
+Alt Text is what appears when an image fails to load. While a web developer may intend for these tags to be used with screen readers worst case scenario, search engines use these for indexing images within a search engine. If you fail to include alt text with images in your website, this will hurt your search engine position. If you include alt-text and ensure it's relevant to your content, this can help you
 
 #### URL Structure
 
