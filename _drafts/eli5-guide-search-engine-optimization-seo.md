@@ -27,19 +27,6 @@ To better understand the decay that occurs from high position pages to low posit
 * Top three position results get 75.1% of all clicks
 * Second page results get only 0.78% of all clicks (Yikes!)
 
-In another study, Ignite Visibility found that clickthrough rates (CTR) dramatically decreased depending on where a webpage was positioned.
-
-* Position 1: 43.32%
-* Position 2: 37.36%
-* Position 3: 29.90%
-* Position 4: 19.38%
-* Position 5: 10.95%
-* Position 6: 10%
-* Position 7: 5.28%
-* Position 8: 4.13%
-* Position 9: 4.13%
-* Position 10: 3.11%
-
 In short, good search engine rankings have a huge impact on traffic! By understanding how these are calculated, you can have an upper hand on your competitors.
 
 ## On-page SEO and Off-page SEO
@@ -135,15 +122,13 @@ Schema markup is code that can help search engines understand your content in wa
 
 **Open Graph Protocol**
 
-Open Graph protocol was developed by Facebook to better allow sharing webpages on social media. Social media platforms like Twitter and Linkedin use this as the basis for images like the screenshot below.
+Open Graph protocol was developed by Facebook to allow social media sites to share rich data posts like the example below. 
 
-<iframe src="[https://www.linkedin.com/embed/feed/update/urn:li:share:6688864139005227008](https://www.linkedin.com/embed/feed/update/urn:li:share:6688864139005227008 "https://www.linkedin.com/embed/feed/update/urn:li:share:6688864139005227008")" height="441" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6688864139005227008" height="441" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+  
 **Twitter Card**
 
 Similar to Open Graph protocol, Twitter cards are used to create 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don&#39;t be scared of content marketing anymore! I have created the three stage content marketing lifecycle that can be easily customized to your organization or project. <a href="[https://twitter.com/hashtag/MarketingStrategy?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/MarketingStrategy?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/MarketingStrategy?src=hash&amp;ref_src=twsrc%5Etfw")">#MarketingStrategy</a> <a href="[https://twitter.com/hashtag/contentmarketing?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/contentmarketing?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/contentmarketing?src=hash&amp;ref_src=twsrc%5Etfw")">#contentmarketing</a> <a href="[https://twitter.com/hashtag/strategy?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/strategy?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/strategy?src=hash&amp;ref_src=twsrc%5Etfw")">#strategy</a> <a href="[https://twitter.com/hashtag/Entrepreneur?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/Entrepreneur?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/Entrepreneur?src=hash&amp;ref_src=twsrc%5Etfw")">#Entrepreneur</a> <a href="[https://twitter.com/hashtag/lifecycle?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/lifecycle?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/lifecycle?src=hash&amp;ref_src=twsrc%5Etfw")">#lifecycle</a> <a href="[https://twitter.com/hashtag/businesstips?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/businesstips?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/businesstips?src=hash&amp;ref_src=twsrc%5Etfw")">#businesstips</a> <a href="https://t.co/JquNECtzsf">https://t.co/JquNECtzsf</a></p>&mdash; Mark Fleming (@markdfleming2) <a href="[https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw](https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw "https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw")">July 29, 2020</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
 
 · **Security**
 
