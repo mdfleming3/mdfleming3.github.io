@@ -133,7 +133,7 @@ Schema markup is code that helps search engines understand content in ways  meta
 
 Open Graph protocol was developed by Facebook to allow social media sites to share rich data posts like the example below.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6694266573319901184" height="100%" width="90%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6694266573319901184" height="400px" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 Like schema markup, page tags like title, author, description, etc. are added to an open graph snippet that is stored in the <head> section of your website. Failure to include this will ensure that your posts will not format correctly when shared on social media. This will hurt your ranking.
 
