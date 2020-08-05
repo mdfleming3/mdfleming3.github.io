@@ -13,6 +13,46 @@ tags: seo website digital-marketing strategy analytics
 ---
 Search engine optimization – yes, that fancy phrase you’ve heard for years. You know it’s important, but do you really know how it works for your website and Google Search engine success? In this ELI5 guide (ELI5 = “Explain like I am 5”), I will explain everything you need to know to get started with SEO. My goal is for this guide to be a practical reference to help you better understand the jargon and marketing concepts used in this blog.
 
+**Table of Contents**
+
+* [What is SEO?](#what-is-seo-)
+* [Why are search engine rankings important?](#why-are-search-engine-rankings-important-)
+* [On-page SEO and Off-page SEO](#on-page-seo-and-off-page-seo)
+* [On Page SEO Checklist:](#on-page-seo-checklist-)
+  * [Content Factors](#content-factors)
+    * [Title Tag](#title-tag)
+    * [Meta Description](#meta-description)
+    * [Heading tags](#heading-tags)
+    * [Good Content](#good-content)
+    * [Image Alt Text](#image-alt-text)
+    * [URL Structure](#url-structure)
+    * [Internal Links](#internal-links)
+    * [Broken Links](#broken-links)
+  * [Indexing](#indexing)
+    * [Sitemap and robots.txt](#sitemap-and-robotstxt)
+  * [Mobile](#mobile)
+    * [Mobile Friendliness](#mobile-friendliness)
+  * [Structured Data](#structured-data)
+    * [Schema Markup](#schema-markup)
+  * [Security](#security)
+    * [SSL Certificate and HTTPS Protocol](#ssl-certificate-and-https-protocol)
+  * [Performance](#performance)
+    * [Page Speed](#page-speed)
+    * [Google Analytics](#google-analytics)
+    * [Favicon](#favicon)
+    * [404 Page](#404-page)
+    * [Domain](#domain)
+* [Off-Page Factors:](#off-page-factors-)
+  * [Backlinks](#backlinks)
+    * [Domain Authority of Linking site](#domain-authority-of-linking-site)
+    * [# Pages linking to website](#--pages-linking-to-website)
+    * [Content Relevance](#content-relevance)
+    * [DoFollow / NoFollow Links](#dofollow---nofollow-links)
+    * [Anchor text of link](#anchor-text-of-link)
+  * [Traffic](#traffic)
+    * [Overall traffic (social, direct, email, organic, paid, etc.)](#overall-traffic--social--direct--email--organic--paid--etc-)
+    * [Social Profiles](#social-profiles)
+
 ## What is SEO?
 
 SEO is short for “search engine optimization.” This is a fancy word for the process of improving your webpage’s position on search results. With millions of results for every search engine query, SEO helps your page rank correctly and higher than your competitors. Unlike Search Engine Marketing campaigns (SEM) that involve managing paid advertisements, SEO is an “organic” or an unpaid process. This means that you cannot pay for a higher position; it is determined by playing by the search engine’s rules.
@@ -132,7 +172,7 @@ Like schema markup, page tags like title, author, description, etc. are added to
 
 Twitter cards are a sharing tool created by Twitter that allows for rich sharing of webpage content. Like Schema markup and Open Graph profile, twitter card code should be added to the <head> section of your website.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don&#39;t be scared of content marketing anymore! I have created the three stage content marketing lifecycle that can be easily customized to your organization or project. <a href="[https://twitter.com/hashtag/MarketingStrategy?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/MarketingStrategy?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/MarketingStrategy?src=hash&amp;ref_src=twsrc%5Etfw")">#MarketingStrategy</a> <a href="[https://twitter.com/hashtag/contentmarketing?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/contentmarketing?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/contentmarketing?src=hash&amp;ref_src=twsrc%5Etfw")">#contentmarketing</a> <a href="[https://twitter.com/hashtag/strategy?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/strategy?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/strategy?src=hash&amp;ref_src=twsrc%5Etfw")">#strategy</a> <a href="[https://twitter.com/hashtag/Entrepreneur?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/Entrepreneur?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/Entrepreneur?src=hash&amp;ref_src=twsrc%5Etfw")">#Entrepreneur</a> <a href="[https://twitter.com/hashtag/lifecycle?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/lifecycle?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/lifecycle?src=hash&amp;ref_src=twsrc%5Etfw")">#lifecycle</a> <a href="[https://twitter.com/hashtag/businesstips?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/businesstips?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/businesstips?src=hash&amp;ref_src=twsrc%5Etfw")">#businesstips</a> <a href="https://t.co/JquNECtzsf">https://t.co/JquNECtzsf</a></p>&mdash; Mark Fleming (@markdfleming2) <a href="[https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw](https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw "https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw")">July 29, 2020</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don't be scared of content marketing anymore! I have created the three stage content marketing lifecycle that can be easily customized to your organization or project. <a href="[https://twitter.com/hashtag/MarketingStrategy?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/MarketingStrategy?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/MarketingStrategy?src=hash&ref_src=twsrc%5Etfw")">#MarketingStrategy</a> <a href="[https://twitter.com/hashtag/contentmarketing?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/contentmarketing?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/contentmarketing?src=hash&ref_src=twsrc%5Etfw")">#contentmarketing</a> <a href="[https://twitter.com/hashtag/strategy?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/strategy?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/strategy?src=hash&ref_src=twsrc%5Etfw")">#strategy</a> <a href="[https://twitter.com/hashtag/Entrepreneur?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/Entrepreneur?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/Entrepreneur?src=hash&ref_src=twsrc%5Etfw")">#Entrepreneur</a> <a href="[https://twitter.com/hashtag/lifecycle?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/lifecycle?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/lifecycle?src=hash&ref_src=twsrc%5Etfw")">#lifecycle</a> <a href="[https://twitter.com/hashtag/businesstips?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/businesstips?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/businesstips?src=hash&ref_src=twsrc%5Etfw")">#businesstips</a> <a href="https://t.co/JquNECtzsf">https://t.co/JquNECtzsf</a></p>— Mark Fleming (@markdfleming2) <a href="[https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw](https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw "https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw")">July 29, 2020</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
 
 ### Security
 
@@ -146,7 +186,7 @@ These are typically provided by domain providers or content delivery networks li
 
 #### Page Speed
 
-This is simply how quickly a desktop or mobile page loads when someone opens a URL from your website. This can be tested with a tool like [Google's PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/). 
+This is simply how quickly a desktop or mobile page loads when someone opens a URL from your website. This can be tested with a tool like [Google's PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/).
 
 While maximizing page speed can get quite technical, a general rule of thumb is that the more stuff you add to a webpage (i.e. plugins, photos, videos, heavy design, etc.), the slower your website will be. Google highly prioritizes this, so always keep in mind while building and upgrading websites.
 
@@ -156,7 +196,7 @@ Since Google is the biggest search engine of them all, users who use Google Anal
 
 #### Favicon
 
-A favicon is the small graphic that appears in the tabs of a webpage. This is a branding opportunity for your website, but it also improved user experience, since 
+A favicon is the small graphic that appears in the tabs of a webpage. This is a branding opportunity for your website, but it also improved user experience, since
 
 #### 404 Page
 
@@ -164,13 +204,13 @@ As mentioned in the Broken Link section, sometimes pages break. Sometimes users 
 
 #### Domain
 
-While not as complex of an issue as some of the content factors, search engines consider several elements related to domain names. In creating a domain, your domain name should be consistent with how you refer to your company in the site title, footer, about page, etc. 
+While not as complex of an issue as some of the content factors, search engines consider several elements related to domain names. In creating a domain, your domain name should be consistent with how you refer to your company in the site title, footer, about page, etc.
 
 Additionally, Google takes into consideration the age of the domain name and how long the domain is registered in advance. While this will not be a make-or-break for new websites, Google wants to ensure that it is not recommending websites that are bound to fall victim to the burnout I discussed in my [Three Stage Content Marketing Lifecycle](https://markdfleming.com/streamline-your-content-marketing-strategy-with-the-three-stage-lifecycle/) article.
 
 ## Off-Page Factors:
 
-After digging deep into factors 
+After digging deep into factors
 
 ### Backlinks
 
@@ -208,7 +248,7 @@ Nowadays, nofollow links appear in many formats (i.e. social media links), but o
 
 #### Anchor text of link
 
-When you create a link like this: [Mark Fleming Blog](https://markdfleming.com/), the anchor text (Mark Fleming Blog) is what appears on a website. Search engines consider this when evaluating backlinks. 
+When you create a link like this: [Mark Fleming Blog](https://markdfleming.com/), the anchor text (Mark Fleming Blog) is what appears on a website. Search engines consider this when evaluating backlinks.
 
 ### Traffic
 
@@ -219,6 +259,4 @@ When you create a link like this: [Mark Fleming Blog](https://markdfleming.com/)
 **Further Reading:**
 
 * [Google Search Engine Optimization (SEO) Starter Guide](https://support.google.com/webmasters/answer/7451184)
-
-
 * [Moz SEO Glossary](https://moz.com/beginners-guide-to-seo/seo-glossary))
