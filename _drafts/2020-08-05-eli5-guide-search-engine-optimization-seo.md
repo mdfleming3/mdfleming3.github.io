@@ -41,16 +41,16 @@ On the other hand, Off-page SEO occurs _outside your website’s code_, where yo
 
 ### Content Factors
 
-As discussed in the previous section, on-page SEO is what you control. As so, content factors are very important for SEO rankings and for distinguishing yourself competitors and getting searchers to click on your page.
+As discussed in the previous section, on-page SEO is what you control. As so, content factors are very important for SEO rankings, distinguishing yourself from competitors, and getting searchers to click on your page.
 
 ![](assets/title-and-meta-tag.png)
 
 #### Title Tag
 
-A title tag is the title of the page. While it should hook users in, it must be _unique_ and _descriptive_ of the page contents. Here are some key considerations:
+A title tag is the title of the page. While it should hook users in, it must be _unique_ and _descriptive_ of page contents. Here are some key considerations:
 
-* **Keywords:** By including relevant keywords within the title, search engine will better understand your content. For example, the title “20 Best Men’s Shoes for Hiking in 2020 - Bob's Shoe Store” gives a very good idea of what an article will be about and includes keywords that will likely appear within the body of the article. That's a good title.
-* **Ideal length:** 50-60 characters. If a webpage is longer, Google will cut off the article at the points where it runs over the character limit. This make it hard to read the article, which decreases clickthrough.
+* **Keywords:** By including relevant keywords within the title, search engine will better understand your content. For example, the title “20 Best Men’s Shoes for Hiking in 2020 - Bob's Shoe Store” gives a very good idea of what an article will be about. It also includes keywords that will likely appear within the body of the article. That's a good title.
+* **Ideal length:** 50-60 characters. If a webpage is longer, Google will cut off the article at the points where it runs over the character limit. This make makes the title hard to read, which decreases clickthrough rates.
 * **Branding:** Many websites include branding at the end of their title tag (see "Bob's Shore Store" above. This helps improve your branding, but it also helps rank the page for search queries related to your brand.
 
 #### Meta Description
@@ -58,7 +58,7 @@ A title tag is the title of the page. While it should hook users in, it must be 
 A meta description is the description of the page. Think of this as a one sentence description for the page. Here are some key considerations:
 
 * **Keywords:** Like title tags, strategically use the keywords you want to target here, but also make sure they appear within the body of the page.
-* **Ideal Length:** 150-300 characters. Any shorter, you are missing out on keyword opportunities. Any longer, the search engine will cut you off.
+* **Ideal Length:** \~ 150 characters. If it's much shorter, you are missing out on including keywords. If it's too long, the search engine will cut you off like the Walt Disney example above.
 
 #### Heading tags
 
@@ -68,17 +68,17 @@ Use these heading tags to break content into sections and further embed keywords
 
 #### Good Content
 
-Every SEO guide will recommend writing good content as the #1 priority for a website. I agree. But what exactly makes "good" SEO content? At its core, this is writing content that users want to keep reading. That should be your goal first.
+Every SEO guide will recommend writing good content as the #1 priority for a website. I agree. But what exactly makes "good" SEO content? At its core, this is writing that is clear and makes users want to keep reading. Think of great articles or books you've read. That's what you should aim for first. 
 
 After that, you should consider keyword planning. Keyword planning involves using a tool like [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner") to identify keywords and keyword phrases with high traffic and low competition. By appropriately incorporating such keywords into your page, users can discover better content and your website can earn a higher position.
 
 * **Writing quality:** Employ proper grammar, punctuation, etc. Also, apply good style that can be understood by as many audiences as possible.
 * **Ideal Article Length:** Recommendations vary on this, but the sweet spot tends to be 500-2,000 words.
-* **Don't stuff keywords:** In the early 2000s, websites would cram hundreds of keywords into articles. This never really worked. Google can easily figure this out, and your website will be penalized. Just write good content.
+* **Don't stuff keywords:** In the early 2000s, websites would cram hundreds of keywords into articles. This never really worked. Google can easily figure this out, and your website will be penalized. Just write with the user's experience in mind.
 
 #### Image Alt Text
 
-Alt Text is what appears when an image fails to load or what is read for screen readers. Search engines use these for indexing images within a search engine. If you fail to include alt text with images in your website, this will hurt your search engine position. If you include alt text and ensure it's relevant to your content, this will boost your SEO and improve your user experience, particularly with disabled users that rely on screen readers.
+Alt Text is what appears when an image fails. Search engines use this text for indexing images and creating screen readers for disabled users. If you fail to include alt text with images on your website, this will hurt your search engine position. If you include alt text and ensure it's relevant to your content, however, this will boost your SEO and improve your user experience.
 
 #### URL Structure
 
@@ -87,6 +87,8 @@ Structured URLs are easy to understand and much better than unstructured URLs. I
     https://www.example.com/category-keyword/subcategory-keyword/primary-keyword
 
 #### Internal Links
+
+![URL Structure](url-structure.png)
 
 You will notice that nearly all websites have a menu bar at the top of every webpage that links to a variety of subpages and internal links. This is important because it:
 
@@ -123,7 +125,7 @@ To test if your website is mobile friendly, use [Google’s Mobile-Friendly Test
 
 Schema markup is code that helps search engines understand content in ways  metadata and title tags cannot. This markup, which is typically added to the <head> section of your code, adds additional information such as ratings, events, person information, social media, and other applicable content to a blog. See the examples below. To create this markup code, check out a tool like [Technical SEO's Markup Generator]().
 
-![](assets/schema-example.png)
+![Schema Example](schema-example.png)
 
 **Open Graph Protocol**
 
@@ -136,8 +138,6 @@ Like schema markup, page tags like title, author, description, etc. are added to
 **Twitter Card**
 
 Twitter cards are a sharing tool created by Twitter that allows for rich sharing of webpage content. Like Schema markup and Open Graph profile, twitter card code should be added to the <head> section of your website.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don't be scared of content marketing anymore! I have created the three stage content marketing lifecycle that can be easily customized to your organization or project. <a href="[https://twitter.com/hashtag/MarketingStrategy?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/MarketingStrategy?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/MarketingStrategy?src=hash&ref_src=twsrc%5Etfw")">#MarketingStrategy</a> <a href="[https://twitter.com/hashtag/contentmarketing?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/contentmarketing?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/contentmarketing?src=hash&ref_src=twsrc%5Etfw")">#contentmarketing</a> <a href="[https://twitter.com/hashtag/strategy?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/strategy?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/strategy?src=hash&ref_src=twsrc%5Etfw")">#strategy</a> <a href="[https://twitter.com/hashtag/Entrepreneur?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/Entrepreneur?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/Entrepreneur?src=hash&ref_src=twsrc%5Etfw")">#Entrepreneur</a> <a href="[https://twitter.com/hashtag/lifecycle?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/lifecycle?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/lifecycle?src=hash&ref_src=twsrc%5Etfw")">#lifecycle</a> <a href="[https://twitter.com/hashtag/businesstips?src=hash&ref_src=twsrc%5Etfw](https://twitter.com/hashtag/businesstips?src=hash&ref_src=twsrc%5Etfw "https://twitter.com/hashtag/businesstips?src=hash&ref_src=twsrc%5Etfw")">#businesstips</a> <a href="https://t.co/JquNECtzsf">https://t.co/JquNECtzsf</a></p>— Mark Fleming (@markdfleming2) <a href="[https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw](https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw "https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw")">July 29, 2020</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
 
 ### Security
 
