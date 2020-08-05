@@ -198,9 +198,17 @@ Black hat backlinks include purchasing links from a link farm, spamming website'
 
 Since search engines view links as endorsements, links from relevant websites boost off page SEO more than links from irrelevant websites. This means that receiving a link from a website that has similar keywords will be a bigger boost than a link from an obscure website. As so, it's a great idea to build connections with like-minded web authors.
 
-#### Follow / No Follow
+#### DoFollow / NoFollow Links
+
+In the early 2000s, comment sections of websites were spammed to oblivion with random website owners sharing links to their websites. They were doing this to increase backlinks on domains with high authorities. This ended up decreasing the user experience. As so, the rel="nofollow" code was introduced into links (see below). This ultimately prevent spammers from gaining links this way.
+
+    <a href="https://markdfleming.com" rel="nofollow">Anchor Text</a>
+
+Nowadays, nofollow links appear in many formats (i.e. social media links), but only links that do not include the rel="nofollow" text count as backlinks.
 
 #### Anchor text of link
+
+When you create a link like this: [Mark Fleming Blog](https://markdfleming.com/), the anchor text (Mark Fleming Blog) is what appears on a website. Search engines consider this when evaluating backlinks. 
 
 ### Traffic
 
@@ -212,4 +220,5 @@ Since search engines view links as endorsements, links from relevant websites bo
 
 * [Google Search Engine Optimization (SEO) Starter Guide](https://support.google.com/webmasters/answer/7451184)
 
-· \[Moz SEO Glossary\]( [https://moz.com/beginners-guide-to-seo/seo-glossary](https://moz.com/beginners-guide-to-seo/seo-glossary "https://moz.com/beginners-guide-to-seo/seo-glossary"))
+
+* [Moz SEO Glossary](https://moz.com/beginners-guide-to-seo/seo-glossary))
