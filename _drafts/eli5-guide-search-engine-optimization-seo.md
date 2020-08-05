@@ -46,7 +46,7 @@ As discussed in the previous section, on page SEO is what you control. With a we
 A title tag is the title of the page. It should hook users to the page, but it must be _unique_ and _descriptive_ of the page contents. Here are some key considerations:
 
 * **Keywords:** By including the keyword that your article is about will help the search engine figure out what the page is about. For example, “20 Best Men’s Shoes for Hiking in 2020” gives a very good idea of what an article will be about.
-* **Ideal length:** 50-60 characters. If a webpage is longer, Google will cut off the article (i.e. “List of Disney theatrical animated features | Disney Wiki ...”).
+* **Ideal length:** 50-60 characters. If a webpage is longer, Google will cut off the article (i.e. “List of Disney theatrical animated features | Disney Wiki ...”)
 * **Branding:** Many websites include branding at the end of their title tag. This helps improve your branding, but it also helps rank the page for search queries related to your brand.
 
 #### Meta Description
