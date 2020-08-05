@@ -3,18 +3,19 @@ layout: post
 title: " Streamline Your Content Marketing Strategy with the Three Stage Lifecycle"
 date: 2020-07-29
 author: Mark Fleming
-description: Understand how the three stage content marketing life cycle can simplify and improve any business’s content marketing strategy.
+description: Understand how the three stage content marketing life cycle can simplify
+  and improve any business’s content marketing strategy.
 image: assets/three-stage-content.png
-image-alt: "streamline-your-content-marketing-strategy-with-the-three-stage-lifecycle"
+image-alt: streamline-your-content-marketing-strategy-with-the-three-stage-lifecycle
 category: blog
 tags: content-marketing strategy workflow analytics
----
 
+---
 Many company’s blogs, video channels, and content-driven projects fizzle out after just half a dozen posts. This is the result of employing a strategy that does not align with a project’s scope. By applying the three stage content marketing lifecycle, marketers can avoid poorly realized strategies and design a practical framework that is flexible to an organization’s needs.
 
 ### What is a content marketing lifecycle?
 
-In biology, a [lifecycle]( https://en.wikipedia.org/wiki/Biological_life_cycle) is defined as, “a series of changes in form that an organism undergoes before returning to the starting state.” For content marketing, it is no different. Ideas become pieces of content that cause consumer engagement and ultimately future ideas.
+In biology, a [lifecycle](https://en.wikipedia.org/wiki/Biological_life_cycle) is defined as, “a series of changes in form that an organism undergoes before returning to the starting state.” For content marketing, it is no different. Ideas become pieces of content that cause consumer engagement and ultimately future ideas.
 
 As compared to a linear strategy – with a designated beginning, middle, and end – the lifecycle assumes content marketing is an ongoing concern. This is appropriate because evergreen content and repurposed posts are highly accessed pages for websites today. By creating and forgetting content with a linear strategy, marketers are missing opportunities that the content marketing lifecycle embraces.
 
@@ -56,7 +57,7 @@ This stage begins when content is distributed, and it ends once new ideas for re
 
 #### Simplification
 
-Many popular content marketing lifecycles lack practical application, because they are either [too specific]( https://www.i-scoop.eu/wp-content/uploads/2014/01/Typical-elements-of-a-content-marketing-strategy-%E2%80%93-source-Media-Crush1.png) or [too vague](https://www.smartinsights.com/wp-content/uploads/2013/01/contentstrategy.jpg). This causes strategies to inorganically try to mold to an incompatible template. This can lead to inefficiency and disorganization for a team.
+Many popular content marketing lifecycles lack practical application, because they are either [too specific](https://www.i-scoop.eu/wp-content/uploads/2014/01/Typical-elements-of-a-content-marketing-strategy-%E2%80%93-source-Media-Crush1.png) or [too vague](https://www.smartinsights.com/wp-content/uploads/2013/01/contentstrategy.jpg). This causes strategies to inorganically try to mold to an incompatible template. This can lead to inefficiency and disorganization for a team.
 
 By fitting actions into just three universal stages, the process is defined and simplified. Furthermore, this allows projects to scale slowly instead of diving headfirst into the deep end.
 
@@ -68,7 +69,7 @@ Content marketing is a marathon, not a sprint. With only a finite amount of time
 
 For example, if a team anticipates a heavy content revision process, it may be wise to allocate more time to the content creation stage (as noted above). As we will dig into deeper in the next section, the size of each stage can be highly tailored to the scope of the project.
 
-#### Customization 
+#### Customization
 
 ![Three Stage Content Marketing Lifecycle - Nested]({{ site.baseurl }}/assets/nested.png)
 
@@ -78,5 +79,5 @@ In the example above, I demonstrate a highly customized real-world approach. In 
 
 **Further Reading:**
 
-* [Creating Sunburst Chart in Tableau]( https://www.youtube.com/watch?v=goIAKkk-eFE)
-* [5 Ideas for Creating Killer Evergreen Content]( https://blog.hubspot.com/insiders/creating-evergreen-content)
+* [Creating Sunburst Chart in Tableau](https://www.youtube.com/watch?v=goIAKkk-eFE)
+* [5 Ideas for Creating Killer Evergreen Content](https://blog.hubspot.com/insiders/creating-evergreen-content)
