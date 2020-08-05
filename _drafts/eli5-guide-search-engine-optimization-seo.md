@@ -51,6 +51,8 @@ SEO is separated into two buckets: On-page SEO and Off-Page SEO. On page-SEO con
 
 ### **Content Factors**
 
+As discussed in the previous section, on page SEO is what you control. With a website, you have the greatest control over your content. As so, content factors are some of the most important SEO factors for distinguishing yourself from your competitors and getting searchers to actually click on your page.
+
 #### Title Tag
 
 A title tag is the title of the page. It should hook users to the page, but it must be _unique_ and _descriptive_ of the page contents. Here are some key considerations:
@@ -76,14 +78,16 @@ In a website, there are typically 6 levels of HTML heading tags that are used on
 
 Any SEO guide will recommend writing good content as the #1 priority for a website. I agree. But what exactly makes "good content" for SEO? At its core, this is writing content that users want to keep reading. That should be your goal first.
 
-After that, you should consider keyword planning. Keyword planning is not stuffing hundred of the same word into your article. Search engines discourage that. Rather, keyword planning involves using a tool like [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner") to identify keywords that a lot of people are searching for. By integrating these into your text in a user-friendly manner, users can discover great new content and you can gain a high position.
+After that, you should consider keyword planning. Keyword planning is not stuffing hundred of the same word into your article. Search engines have discouraged that since the early 2000s. Rather, keyword planning involves using a tool like [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner") to identify keywords and keyword phrases with high traffic and low competition. By integrating these into your text in a user-friendly manner, users can discover better content and your website can earn a high position.
 
 Here are a few overarching concepts:
 
 * Writing quality: Employ proper grammar, punctuation, etc. Also, apply good style that can be understood by as many audiences as possible.
-* Ideal Article Length: Recommendations vary on this, but most recommendations are between 500-2,000 words, with 1,600 words being the sweetspot.
+* Ideal Article Length: Recommendations vary on this, but most recommendations are between 500-2,000 words, with 1,600 words being the sweet spot.
 
 #### Image Alt Text
+
+Alt Text is what appears when an image fails to load. While a web developer intend for these to be used with screen readers worst case scenario, search engines use these for indexing images within a search engine. If you fail to include alt text with images in your website, this will hurt your search engine position. If you include alt-text and ensure it's relevant to your content, this can help you 
 
 #### URL Structure
 
@@ -94,6 +98,8 @@ URLs are easy to understand are much better than URLs that are not. If your URL 
 #### Internal Links
 
 #### Broken Links
+
+A broken link occurs when a URL has been removed or a page is not working correctly. Generally this creates a 404 error, which means a page cannot be found. This is bad for a user experience and bad for SEO. As so all website owners should ensure that their website is free of bad links by using a tool like [Dead Link Checker](https://www.deadlinkchecker.com/ "Dead Link Checker").
 
 ### Indexing
 
