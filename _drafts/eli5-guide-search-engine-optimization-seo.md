@@ -11,57 +11,41 @@ category: Blog
 tags: seo website digital-marketing strategy analytics
 
 ---
-Search engine optimization – yes, that fancy phrase you’ve heard for years. You know it’s important, but do you really know how it works for your website and Google Search engine success? In this ELI5 guide (ELI5 = “Explain like I am 5”), I will explain everything you need to know to get started with SEO. My goal is for this guide to be a practical reference to help you better understand the jargon and marketing concepts used in this blog.
-
-**Table of Contents**
-
-* [What is SEO?](#what-is-seo-)
-* [Why are search engine rankings important?](#why-are-search-engine-rankings-important-)
-* [On-page SEO and Off-page SEO](#on-page-seo-and-off-page-seo)
-* [On Page SEO Checklist:](#on-page-seo-checklist-)
-  * [Content Factors](#content-factors)
-  * [Indexing](#indexing)
-  * [Mobile](#mobile)
-  * [Structured Data](#structured-data)
-  * [Security](#security)
-  * [Performance](#performance)
-* [Off-Page Factors:](#off-page-factors-)
-  * [Backlinks](#backlinks)
-  * [Traffic](#traffic)
+Search engine optimization ... that fancy phrase you have heard about for years. You know it’s important, but do you really know how it works? In this "Explain like I am Five" (ELI5) Guide, I will explain everything you need to know to get your website SEO optimized. 
 
 ## What is SEO?
 
-SEO is short for “search engine optimization.” This is a fancy word for the process of improving your webpage’s position on search results. With millions of results for every search engine query, SEO helps your page rank correctly and higher than your competitors. Unlike Search Engine Marketing campaigns (SEM) that involve managing paid advertisements, SEO is an “organic” or an unpaid process. This means that you cannot pay for a higher position; it is determined by playing by the search engine’s rules.
+SEO is short for “search engine optimization.” Simply put, this is the process of improving your webpage’s search result visibility With millions of results for every search engine query, SEO helps your page rank for certain key word phrases. Unlike Search Engine Marketing campaigns (SEM) that involve managing paid advertisements, SEO is an “organic” or an unpaid process. This means that you cannot pay for a higher position; you have got to earn it by playing by the search engine’s rules.
 
 ## Why are search engine rankings important?
 
-Simply put, high position pages get a lot of more traffic than low position pages. More traffic = more sales and visibility.
+High ranked pages get a lot more traffic than low ranked pages. More traffic = more sales and visibility.
 
-To better understand the decay that occurs from high position pages to low position pages, let’s consider some research. In analyzing over 5 million SERPs, a Backlinko study found that:
+To better understand the decay that occurs from high position to low position pages, let’s consider some research. In analyzing over five million SERPs, a [Backlinko study](https://backlinko.com/google-ctr-stats) found that:
 
-* Top position results gets 31.7% of all clicks
+* Top position results get 31.7% of all clicks
 * Top three position results get 75.1% of all clicks
-* Second page results get only 0.78% of all clicks (Yikes!)
+* Second page results and beyond get only 0.78% of all clicks (Yikes!)
 
-In short, good search engine rankings have a huge impact on traffic! By understanding how these are calculated, you can have an upper hand on your competitors.
+Your search engine result has a huge influence on traffic. By understanding how these positions are determined, you can give yourself the competitive advantage over less savvy competitors.
 
 ## On-page SEO and Off-page SEO
 
-Now that we know what SEO is and why it’s important, you may be wondering: what factors influence SEO? Let’s lift the hood and look around.
+Now that we know what SEO is and why it’s important, you may be wondering: what factors influence SEO? Let’s lift the hood up and look around.
 
-SEO is separated into two buckets: On-page SEO and Off-Page SEO. On page-SEO consists of factors that occur _within your website’s code_. You have lots of control over these factors, and optimizing these factors will improve how users experience your website. On the other hand, Off-page SEO occurs _outside your website’s code_, where you have less control. This balance of highly controlled on-page SEO factors and uncontrolled off-page SEO factors check and balance one another. If your strategy does not consider both of these categories, your website will not earn a top position for highly accessed keywords.
+SEO is separated into two buckets: On-page SEO and Off-Page SEO. On-page SEO consists of factors _within your website’s code_. You have lots of control over these factors, and optimizing these factors will improve how users experience your website. On the other hand, Off-page SEO occurs _outside your website’s code_, where you have less control. This balance of highly-controlled on-page SEO and uncontrolled off-page SEO factors check and balance one another. If your strategy does not consider both of these categories, your website is less likely to earn that elusive top position.
 
-## On Page SEO Checklist:
+## On-Page SEO Checklist:
 
 ### Content Factors
 
-As discussed in the previous section, on page SEO is what you control. With a website, you have the greatest control over your content. As so, content factors are some of the most important SEO factors for distinguishing yourself from your competitors and getting searchers to actually click on your page.
+As discussed in the previous section, on-page SEO is what you control. With a website, you have the greatest control over your content. As so, content factors are very important for SEO rankings and for distinguishing yourself from a competitor. To get a searcher to click on your page, you must tailor content appropriately.
 
 #### Title Tag
 
-A title tag is the title of the page. It should hook users to the page, but it must be _unique_ and _descriptive_ of the page contents. Here are some key considerations:
+A title tag is the title of the page. It should hook users into the page, but it must be _unique_ and _descriptive_ of the page contents. Here are some key considerations:
 
-* **Keywords:** By including the keyword that your article is about will help the search engine figure out what the page is about. For example, “20 Best Men’s Shoes for Hiking in 2020” gives a very good idea of what an article will be about.
+* **Keywords:** By including the keyword that your article is about will help the search engine figure out what the page is about. For example, the title “20 Best Men’s Shoes for Hiking in 2020” gives a very good idea of what an article will be about.
 * **Ideal length:** 50-60 characters. If a webpage is longer, Google will cut off the article (i.e. “List of Disney theatrical animated features | Disney Wiki ...”) .
 * **Branding:** Many websites include branding at the end of their title tag. This helps improve your branding, but it also helps rank the page for search queries related to your brand.
 
@@ -70,7 +54,7 @@ A title tag is the title of the page. It should hook users to the page, but it m
 A meta description is the description of the page. Think of this as a description of your page in one sentence. Here are some key considerations:
 
 * **Keywords:** Like title tags, strategically use the keywords you want to target here, but also make sure they appear within the body of the page.
-* **Ideal Length:** 150-300 characters. Any shorter, you're missing out on keyword opportunities. Any longer, the search engine will cut you off.
+* **Ideal Length:** 150-300 characters. Any shorter, you are missing out on keyword opportunities. Any longer, the search engine will cut you off.
 
 #### Heading tags
 
@@ -101,7 +85,7 @@ URLs are easy to understand are much better than URLs that are not. If your URL 
 
 #### Internal Links
 
-You'll notice that nearly all websites have a menu bar that exists at the top of a webpage that links to a variety of categories and subpages and internal links. This is important because it:
+You will notice that nearly all websites have a menu bar that exists at the top of a webpage that links to a variety of categories and subpages and internal links. This is important because it:
 
 1. Improves user experience
 2. Helps search engines develop and internal hierarchy of the website
@@ -184,7 +168,7 @@ While not as complex of an issue as some of the content factors, search engines 
 
 Additionally, Google takes into consideration the age of the domain name and how long the domain is registered in advance. While this will not be a make-or-break for new websites, Google wants to ensure that it is not recommending websites that are bound to fall victim to the burnout I discussed in my [Three Stage Content Marketing Lifecycle](https://markdfleming.com/streamline-your-content-marketing-strategy-with-the-three-stage-lifecycle/) article.
 
-## Off-Page Factors:
+## Off-Page Checklist:
 
 After digging deep into factors
 
@@ -206,13 +190,13 @@ Receiving a link from a website with high domain authority is like receiving a g
 
 #### # Pages linking to website
 
-This is simple the overall number of links to a webpage. The more you have, the better, but don't stray to the dark side of gaining back links.
+This is simple the overall number of links to a webpage. The more you have, the better, but do not stray to the dark side of gaining back links.
 
 Black hat backlinks include purchasing links from a link farm, spamming website's comment sections with your page, and generating other unnatural URLs. This may give your website a boost in the short run, but it is not sustainable. Google will heavily penalize your website if it catches you doing this.
 
 #### Content Relevance
 
-Since search engines view links as endorsements, links from relevant websites boost off page SEO more than links from irrelevant websites. This means that receiving a link from a website that has similar keywords will be a bigger boost than a link from an obscure website. As so, it's a great idea to build connections with like-minded web authors.
+Since search engines view links as endorsements, links from relevant websites boost off-page SEO more than links from irrelevant websites. This means that receiving a link from a website that has similar keywords will be a bigger boost than a link from an obscure website. As so, it's a great idea to build connections with like-minded web authors.
 
 #### DoFollow / NoFollow Links
 
@@ -224,15 +208,17 @@ Nowadays, nofollow links appear in many formats (i.e. social media links), but o
 
 #### Anchor text of link
 
-When you create a link like this: [Mark Fleming Blog](https://markdfleming.com/), the anchor text (Mark Fleming Blog) is what appears on a website. Search engines consider this when evaluating backlinks.
+When you create a link like this: [Mark Fleming Blog](https://markdfleming.com/), the anchor text (Mark Fleming Blog) is what appears on a website. Search engines consider this when evaluating backlinks. This will help you improve your position for keywords included in the anchor text.
 
 ### Traffic
 
 #### Overall traffic (social, direct, email, organic, paid, etc.)
 
-#### Social Profiles
+Last but certainly not least, we must remember that organic traffic does not exist in a vacuum. It is only one stream of traffic to our website. Other paths such as social, direct, email, paid, etc. are lucrative paths that can make or break a business.
+
+Search engines consider the overall traffic a page receives and the traffic related social media accounts. As so, make sure to balance your marketing efforts. Spend time and resources in improving your weakest links, and SEO success will be a step closer.
 
 **Further Reading:**
 
 * [Google Search Engine Optimization (SEO) Starter Guide](https://support.google.com/webmasters/answer/7451184)
-* [Moz SEO Glossary](https://moz.com/beginners-guide-to-seo/seo-glossary))
+* [Moz's Beginner Start Guide to SEO](https://moz.com/beginners-guide-to-seo)
