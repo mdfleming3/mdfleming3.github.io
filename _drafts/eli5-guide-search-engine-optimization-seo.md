@@ -83,8 +83,8 @@ After that, you should consider keyword planning. Keyword planning is not stuffi
 
 Here are a few overarching concepts:
 
-* Writing quality: Employ proper grammar, punctuation, etc. Also, apply good style that can be understood by as many audiences as possible.
-* Ideal Article Length: Recommendations vary on this, but most recommendations are between 500-2,000 words, with 1,600 words being the sweet spot.
+* **Writing quality:** Employ proper grammar, punctuation, etc. Also, apply good style that can be understood by as many audiences as possible.
+* **Ideal Article Length:** Recommendations vary on this, but most recommendations are between 500-2,000 words, with 1,600 words being the sweet spot.
 
 #### Image Alt Text
 
@@ -123,11 +123,9 @@ The second page that is essential is a sitemap. This page expands on the robots.
 
 #### Mobile Friendliness
 
-At the time this article was published, over 50% of internet users are using mobile phones. Those numbers are consistent with the traffic I have noticed with this website. Google’s algorithm gives preference to websites that have mobile-friendly websites. To test if your website is mobile friendly, use \[Google’s Mobile-Friendly Test\]( [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly "https://search.google.com/test/mobile-friendly"))
+At the time this article was published, over 50% of internet users are using mobile phones. Those numbers are consistent with the traffic I have noticed with this website. Google’s algorithm gives preference to websites that have mobile-friendly websites. Good web designers will have a deep understanding of factors  like text readability and tap targets that help determine mobile friendliness.
 
-* Tap Targets:
-* Readability:
-* Mobile Viewport:
+To test if your website is mobile friendly, use \[Google’s Mobile-Friendly Test\]( [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly "https://search.google.com/test/mobile-friendly"))
 
 ### Structured Data
 
@@ -137,7 +135,15 @@ Schema markup is code that can help search engines understand your content in wa
 
 **Open Graph Protocol**
 
+Open Graph protocol was developed by Facebook to better allow sharing webpages on social media. Social media platforms like Twitter and Linkedin use this as the basis for images like the screenshot below.
+
+<iframe src="[https://www.linkedin.com/embed/feed/update/urn:li:share:6688864139005227008](https://www.linkedin.com/embed/feed/update/urn:li:share:6688864139005227008 "https://www.linkedin.com/embed/feed/update/urn:li:share:6688864139005227008")" height="441" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 **Twitter Card**
+
+Similar to Open Graph protocol, Twitter cards are used to create 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don&#39;t be scared of content marketing anymore! I have created the three stage content marketing lifecycle that can be easily customized to your organization or project. <a href="[https://twitter.com/hashtag/MarketingStrategy?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/MarketingStrategy?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/MarketingStrategy?src=hash&amp;ref_src=twsrc%5Etfw")">#MarketingStrategy</a> <a href="[https://twitter.com/hashtag/contentmarketing?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/contentmarketing?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/contentmarketing?src=hash&amp;ref_src=twsrc%5Etfw")">#contentmarketing</a> <a href="[https://twitter.com/hashtag/strategy?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/strategy?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/strategy?src=hash&amp;ref_src=twsrc%5Etfw")">#strategy</a> <a href="[https://twitter.com/hashtag/Entrepreneur?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/Entrepreneur?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/Entrepreneur?src=hash&amp;ref_src=twsrc%5Etfw")">#Entrepreneur</a> <a href="[https://twitter.com/hashtag/lifecycle?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/lifecycle?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/lifecycle?src=hash&amp;ref_src=twsrc%5Etfw")">#lifecycle</a> <a href="[https://twitter.com/hashtag/businesstips?src=hash&amp;ref_src=twsrc%5Etfw](https://twitter.com/hashtag/businesstips?src=hash&amp;ref_src=twsrc%5Etfw "https://twitter.com/hashtag/businesstips?src=hash&amp;ref_src=twsrc%5Etfw")">#businesstips</a> <a href="https://t.co/JquNECtzsf">https://t.co/JquNECtzsf</a></p>&mdash; Mark Fleming (@markdfleming2) <a href="[https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw](https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw "https://twitter.com/markdfleming2/status/1288501664421478401?ref_src=twsrc%5Etfw")">July 29, 2020</a></blockquote> <script async src="[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js "https://platform.twitter.com/widgets.js")" charset="utf-8"></script>
 
 · **Security**
 
