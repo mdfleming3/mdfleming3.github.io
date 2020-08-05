@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELI5 Guide: Search Engine Optimization'
-date: 2020-08-05 05:00:00 +0000
+date: 2020-08-05T05:00:00.000+00:00
 author: Mark Fleming
 description: The ELI5 guide to search engine optimization is the complete beginner's
   guide to understanding on page and off page SEO factors.
