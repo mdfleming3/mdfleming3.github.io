@@ -5,13 +5,13 @@ date: 2020-08-05 05:00:00 +0000
 author: Mark Fleming
 description: The ELI5 guide to search engine optimization is the complete beginner's
   guide to understanding on page and off page SEO factors.
-image: "/assets/eli5-seo.png"
+image: assets/eli5-seo.png
 image-alt: ELI5 SEO
 category: Blog
 tags: seo website digital-marketing strategy analytics
 
 ---
-Search engine optimization ... that fancy phrase you have heard about for years. You know it’s important, but do you really know how it works? In this "Explain like I am Five" (ELI5) Guide, I will explain everything you need to know to get your website SEO optimized. 
+Search engine optimization ... that fancy phrase you have heard about for years. You know it’s important, but do you really know how it works? In this "Explain like I am Five" (ELI5) Guide, I will explain everything you need to know to get your website SEO optimized.
 
 ## What is SEO?
 
