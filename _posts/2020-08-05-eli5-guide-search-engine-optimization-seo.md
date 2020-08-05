@@ -33,7 +33,7 @@ Your search engine result position has a huge impact on traffic. By understandin
 
 Now that we know what SEO is and why it’s important, you may be wondering: what factors influence SEO? Let’s lift the hood up and look around.
 
-SEO is separated into two buckets: On-page SEO and Off-Page SEO. On-page SEO consists of factors _within your website’s code_. You have lots of control over these factors, and optimizing these them will improve how users experience your website.
+SEO is separated into two buckets: On-page SEO and Off-Page SEO. On-page SEO consists of factors _within your website’s code_. You have lots of control over these factors, and optimizing them will improve how users experience your website.
 
 On the other hand, Off-page SEO occurs _outside your website’s code_, where you have less control. This balance of controlled on-page and uncontrolled off-page factors check and balance one another. If your strategy does not consider both of these categories, your website is less likely to earn that elusive top position.
 
