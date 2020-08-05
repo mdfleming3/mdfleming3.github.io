@@ -142,31 +142,33 @@ In Chrome, you will notice a padlock next to a webpage URL, this means that the 
 
 These are typically provided by domain providers or content delivery networks like [Cloudflare](https://www.cloudflare.com/ "Cloudflare").
 
-#### Performance
+### Performance
 
-o Page Speed
+#### Page Speed
 
-o Asset Compression
+This is simply how quickly a desktop or mobile page loads when someone opens a URL from your website. This can be tested with a tool like [Google's PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/). 
 
-· Technology
+While maximizing page speed can get quite technical, a general rule of thumb is that the more stuff you add to a webpage (i.e. plugins, photos, videos, heavy design, etc.), the slower your website will be. Google highly prioritizes this, so always keep in mind while building and upgrading websites.
 
-o Google Analytics
+#### Google Analytics
 
-· Branding
+Since Google is the biggest search engine of them all, users who use Google Analytics receive a slight bump in search engine ranking. Google Analytics is a phenomenal analytics tool and pretty easy to integrate into all types of websites. This one is a no-brainer.
 
-o Favicon
+#### Favicon
 
-o 404 Page
+A favicon is the small graphic that appears in the tabs of a webpage. This is a branding opportunity for your website, but it also improved user experience, since 
 
-· Domain
+404 Page
 
-o Domain Age
+### Domain
 
-o Registration Length
+While not as complex of an issue as some of the content factors, search engines consider several elements related to domain names. In creating a domain, your domain name should be consistent with how you refer to your company in the site title, footer, about page, etc. 
 
-Off-Page Factors:
+Additionally, Google takes into consideration the age of the domain name and how long the domain is registered in advance. While this will not be a make-or-break for new websites, Google wants to ensure that it is not recommending websites that are bound to fall victim to the burnout I discussed in my [Three Stage Content Marketing Lifecycle](https://markdfleming.com/streamline-your-content-marketing-strategy-with-the-three-stage-lifecycle/) article.
 
-· Backlinks
+## Off-Page Factors:
+
+Backlinks
 
 o Authority of Linking site
 
@@ -182,24 +184,12 @@ o Overall traffic (social, direct, email, organic, paid, etc.)
 
 · Social Profiles
 
-\*_Remember!_* On-page = within your website; high control.
-
-Here are some very important factors:
-
-**Crawlability:**
-
-When
-
-**Mobile-Friendly:**
-
-Page Load Speed:
-
 Off-Page SEO Factors
 
 In the early 2000s, there were websites that found success by using word strings (better known as keywords) hundreds of on a page in a technique known as keyword stuff. Search engines squashed this
 
-Further Reading:
+**Further Reading:**
 
-· \[Google Search Engine Optimization (SEO) Starter Guide\]( [https://support.google.com/webmasters/answer/7451184](https://support.google.com/webmasters/answer/7451184 "https://support.google.com/webmasters/answer/7451184"))
+* [Google Search Engine Optimization (SEO) Starter Guide](https://support.google.com/webmasters/answer/7451184)
 
 · \[Moz SEO Glossary\]( [https://moz.com/beginners-guide-to-seo/seo-glossary](https://moz.com/beginners-guide-to-seo/seo-glossary "https://moz.com/beginners-guide-to-seo/seo-glossary"))
