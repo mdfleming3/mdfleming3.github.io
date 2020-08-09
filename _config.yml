@@ -19,6 +19,10 @@ google_analytics: UA-172446520-1
 # Excerpts
 show_excerpts: true # set to true to show excerpts on the homepage
 
+# paginate
+paginate: 3
+paginate_path: "/blog/page:num/"
+
 # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
 masthead: logo.png
 
@@ -75,6 +79,7 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-paginate
 
 gems:
  - jekyll-sitemap
