@@ -148,6 +148,11 @@
   @include relative-font-size(1);
 }
 
+.col-footer {
+    margin:auto;
+    width: 50%;
+}
+
 .footer-col {
   margin-bottom: $spacing-unit / 2;
 }
