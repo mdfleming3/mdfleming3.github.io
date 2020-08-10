@@ -39,8 +39,6 @@ ISO Republic offers thousands of free photos and videos. It has a useful collect
 
 While you all have likely used Google’s image search, you may not know that you can filter images by usage rights to find images labeled for reuse. This allows you to filter royalty-free images. Of all the options on this list, this will return the largest volume of photos per search, but many may be low-quality. However, if you are searching for niche content, this is an amazing choice.
 
-![google-image-search]({{ site.baseurl }}/assets/google-images.png)
-
 {% include youtube.html id='H923pFvU9qo' %}
 
 ## 7. [Burst](https://burst.shopify.com/)
