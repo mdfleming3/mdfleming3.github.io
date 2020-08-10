@@ -41,6 +41,8 @@ While you all have likely used Google’s image search, you may not know that yo
 
 ![google-image-search]({{ site.baseurl }}/assets/google-images.png)
 
+{% include youtube.html id='H923pFvU9qo' %}
+
 ## 7. [Burst](https://burst.shopify.com/)
 
 Burst only offers free photos in the public domain, so you will not see any iStock ads or premium listings while searching for photos. The website has strong collections for flat lays, business, and desktop and mobile backgrounds.
