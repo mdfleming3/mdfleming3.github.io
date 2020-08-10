@@ -12,3 +12,19 @@ tags: email-marketing strategy lead-generation workflow digital-marketing
 
 ---
 Unsubscribes are a part of email marketing, and 
+
+## Reasons for Subscribing
+
+### Exclusive Value
+
+### Brand News and Announcements
+
+### Valuable Content
+
+## Reasons for Unsubscribing
+
+### Exclusive Value Obtained
+
+### Too much Frequency
+
+### Lack of Overall Value or Relevancy
