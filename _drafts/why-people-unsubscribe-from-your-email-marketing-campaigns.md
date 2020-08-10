@@ -17,9 +17,17 @@ Unsubscribes are a part of email marketing, and
 
 ### Exclusive Value
 
-### Brand News and Announcements
+Several weeks ago, I needed to buy a new pair of running shoes. I discovered that Dick's Sporting Goods has a deal where you can subscribe to its mailing list and receive a 20% off coupon. I subscribed, received a coupon, and bought a pair of sneakers much lower than the market average. It was an exclusive value that justified my decision to subscribe to the mailing list.
+
+To offer this value proposition to customers, you can offer a lot more than coupons for sneakers. Incentives for subscribing to the mailing list could include access to apps, exclusive content or insights, membership access, etc.
 
 ### Valuable Content
+
+This is the dream scenario for marketers and salespeople. Prospects subscribe to your content, because they are interested in your blog posts and content. They are eager to learn more and read your content. 
+
+### Brand News and Announcements
+
+Many clients, investors, and prospects are interested in following company news. By subscribing to company news and announcements, you are likely receiving it as early as possible. 
 
 ## Reasons for Unsubscribing
 
