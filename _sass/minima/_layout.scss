@@ -150,6 +150,8 @@
 
 .footer-col {
   margin-bottom: $spacing-unit / 2;
+  margin: auto;
+  text-align: center;
 }
 
 .footer-col-1,
@@ -159,8 +161,6 @@
 
 .footer-col-3 {
   width: calc(100% - (#{$spacing-unit} / 2));
-  margin: 0 auto;
-  text-align: center;
 }
 
 @media screen and (min-width: $on-large) {
