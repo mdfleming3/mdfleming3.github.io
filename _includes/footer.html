@@ -6,13 +6,15 @@
     <div class="social-links">
       {%- include social.html -%}
     </div>
-    <p class="feed-subscribe">
-      <a href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>RSS</span></a> |
-      <a href="{{ 'sitemap.xml' | relative_url }}"><span>Sitemap</span></a> |
-      <a href="https://www.iubenda.com/privacy-policy/84813188">Privacy</a>
-    </p>
-    <p>
-      © <script type="text/javascript">document.write(new Date().getFullYear());</script> Mark Fleming. All rights reserved.
-    </p>
+    <div class="col-footer">
+      <p class="feed-subscribe">
+        <a href="{{ 'feed.xml' | relative_url }}"><span>RSS</span></a> |
+        <a href="{{ 'sitemap.xml' | relative_url }}"><span>Sitemap</span></a> |
+        <a href="https://www.iubenda.com/privacy-policy/84813188"><span>Privacy<span></a>
+        </p>
+        <p>
+          © <script type="text/javascript">document.write(new Date().getFullYear());</script> Mark Fleming. All rights reserved.
+        </p>
+    </div>
   </div>
 </footer>
