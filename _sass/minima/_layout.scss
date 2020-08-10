@@ -147,6 +147,7 @@
     text-align: center;
     margin:auto;
     width: 50%;
+    margin-top: $spacing-unit / 2;
 }
 
 .footer-col {
@@ -195,13 +196,6 @@
       padding-left: $spacing-unit / 2;
     }
   }
-}
-
-/*  SECTIONS  */
-.section {
-	clear: both;
-	padding: 0px;
-	margin: 0px;
 }
 
 /**
