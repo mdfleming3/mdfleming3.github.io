@@ -125,6 +125,7 @@
 .site-footer {
   background-color: $border-color-01;
   padding: $spacing-unit 0;
+  text-align: center;
 }
 
 .footer-heading {
@@ -146,12 +147,11 @@
 .col-footer {
     text-align: center;
     margin-top: $spacing-unit / 4;
+    margin: auto;
 }
 
 .footer-col {
   margin-bottom: $spacing-unit / 2;
-  margin: auto;
-  text-align: center;
 }
 
 .footer-col-1,
