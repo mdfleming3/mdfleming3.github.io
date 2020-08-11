@@ -11,33 +11,33 @@ category: Blog
 tags: email-marketing strategy lead-generation workflow digital-marketing
 
 ---
-Unsubscribes are a part of email marketing, and
+Anyone who has dipped their toes in email marketing understands that unsubscribes are a part of the business. However, it is deflating to see a once-promising lead unsubscribe from your campaign. When this happens, marketers are left scratching their heads and wondering what went wrong. That's where this framework comes in handy. It explains the motivations behind unsubscribes in an effort to help you create more engaging email marketing campaigns.
 
 ## Reasons for Subscribing
 
+### Valuable Content
+
+This is the most basic reason. People subscribe because they find a company's content to be educational, insightful, relevant, or even entertaining. Subscribing to receive this content is more economical than contacting a business representative, searching a company website, or scanning social media. The valuable content is free, direct, and accessible.
+
 ### Exclusive Value
 
-Several weeks ago, I needed to buy a new pair of running shoes. I discovered that Dick's Sporting Goods has a deal where you can subscribe to its mailing list and receive a 20% off coupon. I subscribed, received a coupon, and bought a pair of sneakers much lower than the market average. It was an exclusive value that justified my decision to subscribe to the mailing list.
+Several weeks ago, I needed to buy a new pair of running shoes. I discovered that Dick's Sporting Goods has a deal where first-time mailing list subscribers receive a 20% off coupon. Great! I subscribed, got my coupon, and bought a pair of sneakers for a huge discount. It was an exclusive value that justified my decision to subscribe.
 
-To offer this value proposition to customers and generate leads, you can offer a lot more than coupons for sneakers. Incentives for subscribing to the mailing list could include:
+People subscribe to email campaigns to get something they cannot get elsewhere. Common types of this incentive include:
 
 * App or paywall access (i.e. "submit your email address to download")
 * Exclusive content or insights (i.e. white papers, guides, etc.)
 * Membership or account creation
 * Incentives (i.e. giveaways, coupons, discounts, etc.)
 
-### Valuable Content
-
-This is the dream scenario for marketers, influencers, and salespeople. Prospects subscribe to your content, because they are interested in your insights, content, and brand. They find your content relevant and are eager to learn more and read your content.
-
 ### Brand News and Announcements
 
-Many clients, investors, and prospects are interested in following company news. By subscribing to company news and announcements, you are likely receiving it as early as possible.
+If someone wants to know about a company's brand, receiving company email alerts is one method in the toolbox. These types of individuals could include clients, investors,  media members, and even competitors who are trying to stay updated with your company's happenings. This is essential to the business function, but it is a great opportunity for cross selling and building awareness for particular products and services.
 
 ## Reasons for Unsubscribing
 
-### Exclusive Value Obtained
-
 ### Too much Frequency
+
+### Exclusive Value Obtained
 
 ### Lack of Overall Value or Relevancy
