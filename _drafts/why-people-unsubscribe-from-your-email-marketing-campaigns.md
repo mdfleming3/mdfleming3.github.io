@@ -32,7 +32,7 @@ People subscribe to email campaigns to get something they cannot get elsewhere. 
 
 ### Brand News and Announcements
 
-If someone wants to know about a company's brand, receiving company email alerts is one method in the toolbox. These types of individuals could include clients, investors,  media members, and even competitors who are trying to stay updated with your company's happenings. This is essential to the business function, but it is a great opportunity for cross selling and building awareness for particular products and services.
+If someone wants to know about a company's brand, receiving company email alerts is one method for the toolbox. These types of individuals could include clients, investors,  media members, and even competitors who are trying to stay updated with your company's happenings. These email alerts are essential to the business function, but they provide a great opportunity for cross-selling and building awareness for particular products and services.
 
 ## Reasons for Unsubscribing
 
