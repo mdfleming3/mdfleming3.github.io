@@ -38,6 +38,10 @@ If someone wants to know about a company's brand, receiving company email alerts
 
 ### Too much Frequency
 
+### Lack of Overall Value or Relevancy
+
 ### Exclusive Value Obtained
 
-### Lack of Overall Value or Relevancy
+Remember my Dick's Sporting Goods story from earlier? After I received my coupon for discounted running shoes, I was subscribed to the company's mailing list. The next email I received from the company was for softball gear. I've never played softball, and I have no intention of starting anytime soon. The only interest I had in Dick's products were the coupon I received by signing up for the list. As so, I unsubscribed.
+
+This is a common problem for companies that build mailing lists by obtaining exclusive one-time offers. After a user subscribes, they get their value and bolt for the door. While there is no way to fully stop this behavior, there are ways to curb it.
