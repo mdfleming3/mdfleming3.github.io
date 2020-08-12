@@ -46,7 +46,7 @@ In the curves above, engagement rate is on the Y-axis and overall traffic is on 
 
 ### Lack of Overall Value or Relevancy
 
-Why would your leads take time out of their busy day to read your content? How will it help them? If you were busy, would you come back to read this email later in the day? If you don't have a strong response to any of these questions, your content is probably not as valuable as you think it is. 
+Why would your leads take time out of their busy day to read your content? How will it help them? If you were busy, would you come back to read this email later in the day? If you don't have a strong response to any of these questions, your content is probably not as valuable as you think it is.
 
 Furthermore, what is the common thread between contacts on your mailing lists? Are they segmented by location, industry, or interest? Does the content you are sending apply to all of them or just some of them? A big problem for many company's email marketing strategies is that creating and sending the content is highly automated and efficient, but the segmentation is lacking. This means that individuals are receiving content that is not necessarily bad—it is just not relevant to them. That is a quick way to seem like **spam** and to lose a lead.
 
@@ -54,13 +54,13 @@ Furthermore, what is the common thread between contacts on your mailing lists? A
 
 Remember my Dick's Sporting Goods story from earlier? After I received my coupon for discounted running shoes, I was subscribed to the company's mailing list. The next email I received from the company was for softball gear. I've never played softball, and I have no intention of starting anytime soon. The only interest I had in Dick's products were the coupon I received by signing up for the list. As so, I unsubscribed.
 
-This is a common problem for companies that build mailing lists by offering exclusive one-time offers. After a user subscribes, they get their incentive and bolt. 
+This is a common problem for companies that build mailing lists by offering exclusive one-time offers. After a user subscribes, they get their incentive and bolt.
 
 ## How to Reduce Unsubscribe Rates
 
 1. **Slow down the amount of content you are sending**. This will help you determine a baseline for your metrics. You can gradually increase these campaigns to identify your "sweet spot." (as shown in the graphic above)
 2. **Analyze Your Metrics.** Consider [the most important metrics for email campaigns](https://blog.hubspot.com/marketing/metrics-email-marketers-should-be-tracking) on both automated and non-automated campaigns. Filter this data for recent unsubscribes. Is there a trend worth considering?
-3. **Why is this content valuable?** Ask yourself why your clients want to read your content. Does it feel like spam or a sales pitch? Email marketing needs to finely balance subscriber value with selling your product.
+3. **Know why your content is valuable?** Ask yourself why your clients want to read your content. Does it feel like spam or a sales pitch? Email marketing needs to finely balance subscriber value with selling your product.
 4. **Re-evaluate Your Segmentation Strategy.** While most firms are segmenting data and conducting A/B testing, have you identified your lists with high unsubscribe rates? Consider how these can be better segmented to maximize relevancy.
 5. **Personalize, don't be creepy.** When you think of a personalized email, are you thinking "Hello <<NAME>>" or are you thinking of tailoring the content to the data you have on your client? Personalization should aim to provide value for your client, not show how much data you have on them.
 6. **Don't Spark Out.** When building your mailing list with exclusive values, don't build one-time strategies (like our Dick's example). Make sure that the value-added is an ongoing concern. If value is added over months, you will keep your subscribers hooked in.
