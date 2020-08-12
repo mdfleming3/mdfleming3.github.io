@@ -6,7 +6,7 @@ author: Mark Fleming
 description: The main reasons people subscribe and unsubscribe from your email marketing
   campaigns—plus strategies for improvement.
 image: assets/email-unsubscribe.png
-image-alt: Why People Unsubscribe from Your Email Marketing Campaigns
+image-alt: 7 Ways to Reduce Your Email Marketing Unsubscribe Rates
 category: Blog
 tags: email-marketing strategy lead-generation workflow digital-marketing
 
