@@ -17,7 +17,7 @@ Anyone who has dipped their toes in email marketing understands that unsubscribe
 
 ### Valuable Content
 
-This is the most basic reason. People subscribe because they find a company's content to be educational, insightful, relevant, or even entertaining. Subscribing to receive this content is more economical than contacting a business representative, searching a company website, or scanning social media. The valuable content is free, direct, and accessible.
+This is the most basic reason. People subscribe because they find a company's content to be educational, insightful, relevant, or even entertaining. Subscribing to receive this content is more economical than contacting a business representative, searching a company website, or scanning social media. The content is free, direct, accessible, thus, valuable.
 
 ### Exclusive Value
 
@@ -32,20 +32,36 @@ People subscribe to email campaigns to get something they cannot get elsewhere. 
 
 ### Brand News and Announcements
 
-If someone wants to know about a company's brand, receiving company email alerts is one method for the toolbox. These types of individuals could include clients, investors,  media members, and even competitors who are trying to stay updated with your company's happenings. These email alerts are essential to the business function, but they provide a great opportunity for cross-selling and building awareness for particular products and services.
+If someone wants to know about a company's brand, receiving company email alerts is one method for the toolbox. These types of individuals could include clients, investors,  media members, and even competitors who are trying to stay in touch with your company. These email alerts are essential to the business function, but they provide a great opportunity for cross-selling and building awareness for particular products and services.
 
 ## Reasons for Unsubscribing
 
 ### Too much Frequency
 
-We've all had it happen--you subscribe to a mailing list, and your inbox is full of 20+ emails the next day. Too much email frequency is the fastest track to having leads bolt. The million dollar question here is, "How many emails sent are too many?" Simply put, there is no clear answer to that, but the 
+We've all seen it happen—you subscribe to a mailing list, and next thing you know, your inbox is full of 20+ emails. Sending too many emails is the fastest track to having your leads bolt. The million dollar question here is, "How many emails should my company send?" There is no universal answer to that question. However, the theory behind unsubscribes is simply economics.
 
 ![Email Marketing Supply and Demand]({{ site.baseurl }}/assets/email-marketing-supply-no-demand.png)
 
+In the curves above, engagement rate is on the Y-axis and overall traffic is on the X-axis. The ideal frequency of emails is marked with the green dotted line; it maximizes both engagement rate and overall traffic. When a company sends too many emails, that equilibrium shifts (as marked in red). This results in greater overall traffic from emails, but less engagement per email. While the increase in traffic is desirable, the lowered engagement means that your subscribers are being hit with too many communications. If this over-communication increases or continues for an extended timeframe, this will cause unsubscribes.
+
 ### Lack of Overall Value or Relevancy
+
+Why would your leads take time out of their busy day to read your content? How will it help them? If you were busy, would you come back to read this email later in the day? If you don't have a strong response to any of these questions, your content is probably not as valuable as you think it is. 
+
+Furthermore, what is the common thread between contacts on your mailing lists? Are they segmented by location, industry, interest? Does the content you are sending apply to all of them or just some of them? A big problem for many company's email marketing strategies is that creating and sending the content is highly automated and efficient, but the segmentation is lacking. This means that individuals are receiving content that is not necessarily bad—it is just not relevant to them. That is a quick way to lose a lead.
 
 ### Exclusive Value Obtained
 
 Remember my Dick's Sporting Goods story from earlier? After I received my coupon for discounted running shoes, I was subscribed to the company's mailing list. The next email I received from the company was for softball gear. I've never played softball, and I have no intention of starting anytime soon. The only interest I had in Dick's products were the coupon I received by signing up for the list. As so, I unsubscribed.
 
 This is a common problem for companies that build mailing lists by obtaining exclusive one-time offers. After a user subscribes, they get their value and bolt for the door. While there is no way to fully stop this behavior, there are ways to curb it.
+
+## How to Reduce Unsubscribe Rates
+
+* Analyze your Analytics
+  * CTR, open rate, identify where is your equilibrium
+* Segmentation
+  * A/B Testing
+* Continued exclusive content
+* Double opt-in
+* Personalization
