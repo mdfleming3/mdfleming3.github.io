@@ -48,7 +48,7 @@ In the curves above, engagement rate is on the Y-axis and overall traffic is on 
 
 Why would your leads take time out of their busy day to read your content? How will it help them? If you were busy, would you come back to read this email later in the day? If you don't have a strong response to any of these questions, your content is probably not as valuable as you think it is. 
 
-Furthermore, what is the common thread between contacts on your mailing lists? Are they segmented by location, industry, interest? Does the content you are sending apply to all of them or just some of them? A big problem for many company's email marketing strategies is that creating and sending the content is highly automated and efficient, but the segmentation is lacking. This means that individuals are receiving content that is not necessarily bad—it is just not relevant to them. That is a quick way to lose a lead.
+Furthermore, what is the common thread between contacts on your mailing lists? Are they segmented by location, industry, interest? Does the content you are sending apply to all of them or just some of them? A big problem for many company's email marketing strategies is that creating and sending the content is highly automated and efficient, but the segmentation is lacking. This means that individuals are receiving content that is not necessarily bad—it is just not relevant to them. That is a quick way to seem like **spam** to lose a lead.
 
 ### Exclusive Value Obtained
 
@@ -56,7 +56,10 @@ Remember my Dick's Sporting Goods story from earlier? After I received my coupon
 
 This is a common problem for companies that build mailing lists by obtaining exclusive one-time offers. After a user subscribes, they get their value and bolt for the door. While there is no way to fully stop this behavior, there are ways to curb it.
 
-## How to Reduce Unsubscribe Rates
+## 10 Ways to Reduce Unsubscribe Rates
+
+1. **Slow down the amount of content you are sending** - this will help you determine a baseline for your metrics (i.e. open rate, click through rate, etc.). You can gradually increase these campaigns to identify your "sweet spot." (as shown in the graphic above)
+2. Analyze  
 
 * Analyze your Analytics
   * CTR, open rate, identify where is your equilibrium
