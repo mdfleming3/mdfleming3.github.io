@@ -38,6 +38,10 @@ If someone wants to know about a company's brand, receiving company email alerts
 
 ### Too much Frequency
 
+We've all had it happen--you subscribe to a mailing list, and your inbox is full of 20+ emails the next day. Too much email frequency is the fastest track to having leads bolt. The million dollar question here is, "How many emails sent are too many?" Simply put, there is no clear answer to that, but the 
+
+![](assets/email-marketing-supply-no-demand.png)
+
 ### Lack of Overall Value or Relevancy
 
 ### Exclusive Value Obtained
