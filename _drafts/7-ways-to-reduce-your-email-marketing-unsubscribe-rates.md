@@ -56,7 +56,7 @@ Remember my Dick's Sporting Goods story from earlier? After I received my coupon
 
 This is a common problem for companies that build mailing lists by offering exclusive one-time offers. After a user subscribes, they get their incentive and bolt. 
 
-## 7 Ways to Reduce Unsubscribe Rates
+## How to Reduce Unsubscribe Rates
 
 1. **Slow down the amount of content you are sending**. This will help you determine a baseline for your metrics. You can gradually increase these campaigns to identify your "sweet spot." (as shown in the graphic above)
 2. **Analyze Your Metrics.** Consider [the most important metrics for email campaigns](https://blog.hubspot.com/marketing/metrics-email-marketers-should-be-tracking) on both automated and non-automated campaigns. Filter this data for recent unsubscribes. Is there a trend worth considering?
