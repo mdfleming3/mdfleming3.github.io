@@ -10,3 +10,16 @@ category: Blog
 tags: social-media analytics influencer-marketing
 
 ---
+Abnormal Historical Growth / Engagement
+
+Declining Momentum
+
+Low Comment Quality
+
+Follow / Unfollow Method
+
+Inconsistency Across Platforms
+
+Low Engagement Rate
+
+Understanding Following and Reason for Popularity
