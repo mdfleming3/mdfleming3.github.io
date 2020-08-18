@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Spot a B.S. Instagram Influencer
+title: How to Spot a Fake Instagram Influencer
 date: 2020-08-19 10:00:00 -0500
 author: Mark Fleming
 description: ''
