@@ -16,14 +16,19 @@ This year, influencer marketing is expected to become a nearly $10 billion marke
 
 Analyzing historical growth rates for instagram accounts provides great insight into 
 
-Declining Momentum
+## Declining Momentum
 
-Low Comment Quality
+## Low Comment Quality
 
-Follow / Unfollow Method
+## Follow / Unfollow Method
 
-Inconsistency Across Platforms
+## Inconsistency Across Platforms
 
-Low Engagement Rate
+## Low Engagement Rate
 
-Understanding Following and Reason for Popularity
+## Understanding Following and Reason for Popularity
+
+**Further Reading:**
+
+* [The State of Influencer Marketing 2020: Benchmark Report](https://influencermarketinghub.com/influencer-marketing-benchmark-report-2020/ "The State of Influencer Marketing 2020: Benchmark Report")
+* 
