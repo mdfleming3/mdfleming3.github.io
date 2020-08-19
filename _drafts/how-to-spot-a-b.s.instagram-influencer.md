@@ -14,17 +14,15 @@ Influencer marketing is expected to become a nearly $10 billion market this year
 
 ## Abnormal Historical Growth / Engagement
 
-[Social Blade](https://socialblade.com/ "Social Blade") is my favorite tool for determining if an influencer is legitimate. It provides powerful, FREE insights into an Instagram account. Its most powerful feature is its ability to see historical insights from a social media account. As compared to seeing a simple metric like engagement rate, this digs deeper into the growth of an influencers account. You can correlate spikes in growth with certain actions. Let's look at Roger Federer's account.
+[Social Blade](https://socialblade.com/ "Social Blade") is my favorite FREE tool for determining if an influencer is legitimate. Its most powerful feature is its ability to see historical insights from a social media account. As compared to seeing a simple metric like engagement rate, this digs deeper into the historical growth of an influencers account. You can correlate spikes in growth with certain actions. Let's look at [Roger Federer's](http://instagram.com/rogerfederer "Roger Federer Instagram") account.
 
 ![]({{ site.baseurl }}/assets/roger-federer-total-growth.png)
 
-As we can 
-
 ![Roger Federer Social Growth]({{ site.baseurl }}/assets/roger-federer-social-grow.png "Roger Federer Social Growth")
 
-It looks as if there is steady growth with 
+Federer's account is consistently growing and his weekly growth is always positive with  occasional jumps in account growth. Since there are no abnormalities in this traffic, this is a portrait of a healthy legitimate account. This makes sense because Federer is one of the most recognizable athletes in the world with many endorsements; manipulating his following on instagram wouldn't make sense.
 
-Tools like  can provide powerful insight into an Instagram account. Of all the metrics these tools can provide, you should first consider historical account growth and account engagement. This gives you a much more nuanced analysis than simply looking at the highly relative engagement rate.
+On the otherhand
 
 ## Declining Momentum
 
@@ -41,4 +39,4 @@ Tools like  can provide powerful insight into an Instagram account. Of all the m
 **Further Reading:**
 
 * [The State of Influencer Marketing 2020: Benchmark Report](https://influencermarketinghub.com/influencer-marketing-benchmark-report-2020/ "The State of Influencer Marketing 2020: Benchmark Report")
-*
+* 
