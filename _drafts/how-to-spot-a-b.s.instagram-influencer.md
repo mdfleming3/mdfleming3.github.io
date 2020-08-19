@@ -10,7 +10,7 @@ category: Blog
 tags: social-media analytics influencer-marketing branding
 
 ---
-Influencer marketing is expected to become a nearly $10 billion market this year as companies increase influencer marketing spends and creators come of age. Despite this growth, many small businesses do not have effective practices in place for vetting influencers. This results in both companies and customers being fooled by creators that are not as popular as they may seem. A study by CBS News claims that 15% of corporate dollars spent on influencer marketing is lost to targeting fake followers. To avoid such fraud, I have assembled metrics you should consider to determine the authenticity of an Instagram influencer.
+Influencer marketing is expected to become a nearly $10 billion market this year with companies increasing influencer spends and creators coming of age. Despite this growth, many small businesses do not have effective practices in place for vetting influencers. This results in both companies and customers being fooled by creators that are not as popular as they may seem. For example, a study by CBS News claims that 15% of corporate dollars spent on influencer marketing is lost to targeting fake followers. To avoid such fraud, I have assembled metrics you should consider to determine the authenticity of an Instagram influencer.
 
 ## Abnormal Historical Growth / Engagement
 
