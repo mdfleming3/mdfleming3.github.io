@@ -14,7 +14,7 @@ Influencer marketing is expected to become a nearly $10 billion market this year
 
 ## Abnormal Historical Growth / Engagement
 
-[Social Blade](https://socialblade.com/ "Social Blade") is my favorite FREE tool for determining if an influencer is legitimate. Its most powerful feature is its ability to see historical insights from a social media account. As compared to seeing a simple metric like engagement rate, this digs deeper into the historical growth of an influencers account. You can correlate spikes in growth with certain actions. Let's look at [Roger Federer's](http://instagram.com/rogerfederer "Roger Federer Instagram") account.
+[Social Blade](https://socialblade.com/ "Social Blade") is my favorite FREE tool for determining if an influencer is legitimate. I will use it for all analysis done in this article. Its most powerful feature is its ability to see historical insights from a social media account. As compared to seeing a simple metric like engagement rate, this digs deeper into the historical growth of an influencers account. You can correlate spikes in growth with certain actions. Let's look at [Roger Federer's](http://instagram.com/rogerfederer "Roger Federer Instagram") account.
 
 ![Roger Federer Total Social Growth]({{ site.baseurl }}/assets/roger-federer-total-growth.png)
 
