@@ -40,7 +40,11 @@ In the example above, the account goes through cycles of high growth and cycles 
 
 ## Low Comment Quality
 
-While Instagram comment sections are not exactly Shakespeare, extremely low comment quality may indicate that many of an accounts followers are bots. Let's consider this example:
+While Instagram comment sections are not exactly Shakespeare, extremely low comment quality may indicate that many of an accounts followers are bots. Let's consider an example where none of the comments have anything to do with the post. 
+
+![Low Quality Comments]({{ site.baseurl }}/assets/comments.png)
+
+High quality influencers' posts typically have substantial dialogue. Influencers who have low quality comments likely have low quality engagement propelled by bots or individuals that likely will not convert to sales. 
 
 ## Follow / Unfollow Method
 
