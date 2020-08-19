@@ -24,9 +24,11 @@ Federer's account is consistently growing and his weekly growth is always positi
 
 On the other hand, let's look at an account with abnormal traffic. I stumbled across an account that was affiliated with one of the largest influencer marketing agencies. When I dug into the traffic, I noticed several red flags.
 
+![Phony Influencer Total Social Growth]({{ site.baseurl }}/assets/smaniotto-total-followers.png)
+
 ![Phony Influencer Weekly Social Growth]({{ site.baseurl }}/assets/gabriel-smaniotto-followers.png)
 
-![Phony Influencer Total Social Growth]({{ site.baseurl }}/assets/smaniotto-total-followers.png)
+
 
 ## Declining Momentum
 
