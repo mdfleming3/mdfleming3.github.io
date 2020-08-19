@@ -50,13 +50,21 @@ High quality influencers' posts typically have substantial dialogue. Influencers
 
 On Instagram, there is a curtesy where you generally follow individuals who follow you. For some of the largest accounts, the follower / following ratio is hugely disproportionate, which may mislead users to think an account is hugely influential. In actuality, its pretty easy to gain followers using the Follow/Unfollow Method.
 
-This method is where you follow a large number of users, either manually or though automation. A certain percentage of these users will follow you back (likely because they are active in the [#followforfollowback](https://www.instagram.com/explore/tags/followforfollowback/ "#followforfollowback") community. Once a user has accumulated a large following, they will unfollow all the individuals that intially followed them. This gives the impression they are very popular.
+This method is where you follow a large number of users, either manually or though automation. A certain percentage of these users will follow you back (likely because they are active in the [#followforfollowback](https://www.instagram.com/explore/tags/followforfollowback/ "#followforfollowback") community. Once a user has accumulated a large following, they will unfollow all the individuals that initially followed them. This gives the impression they are very popular.
 
 While this method can give high engagement, its problem is many of the followers are not genuinely interested in the influencer. They were only interested in growing their own following, and they will likely hurt your conversion rate.
 
 ## Inconsistency Across Platforms
 
-## Low Engagement Rate
+Kylie Jenner is one of Instagrams biggest influencers as she approached nearly 200 million followers at the time of this article. Many outlets frequently beg the question of how many of these followers are real vs. bots, dead accounts, unengaged followers, etc. It's a fair question that is very hard to answer.
+
+An easy way to survey this traffic is by comparing traffic across social media platforms. For Kylie Jenner, she has many millions of followers across Facebook, Twitter, YouTube, etc. Even if she has several million fake followers, he influence is immense.
+
+This may not be the case for mid size and micro influencers. Before hiring 
+
+## Engagement Rate
+
+Engagement rate can be skewed by manner factors such as total number of followers and frequency of posts. As so, this will 
 
 ## Understanding Following and Reason for Popularity
 
