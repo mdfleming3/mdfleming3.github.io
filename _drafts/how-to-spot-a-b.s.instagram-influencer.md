@@ -40,13 +40,19 @@ In the example above, the account goes through cycles of high growth and cycles 
 
 ## Low Comment Quality
 
-While Instagram comment sections are not exactly Shakespeare, extremely low comment quality may indicate that many of an accounts followers are bots. Let's consider an example where none of the comments have anything to do with the post. 
+While Instagram comment sections are not exactly Shakespeare, extremely low comment quality may indicate that engagers are only bots or low-engagement users. Let's consider an example where none of the comments have anything to do with the post.
 
 ![Low Quality Comments]({{ site.baseurl }}/assets/comments.png)
 
-High quality influencers' posts typically have substantial dialogue. Influencers who have low quality comments likely have low quality engagement propelled by bots or individuals that likely will not convert to sales. 
+High quality influencers' posts typically have substantial dialogue. Influencers who have low quality comments likely have low quality engagement propelled by bots or individuals that likely will not convert to sales.
 
 ## Follow / Unfollow Method
+
+On Instagram, there is a curtesy where you generally follow individuals who follow you. For some of the largest accounts, the follower / following ratio is hugely disproportionate, which may mislead users to think an account is hugely influential. In actuality, its pretty easy to gain followers using the Follow/Unfollow Method.
+
+This method is where you follow a large number of users, either manually or though automation. A certain percentage of these users will follow you back (likely because they are active in the [#followforfollowback](https://www.instagram.com/explore/tags/followforfollowback/ "#followforfollowback") community. Once a user has accumulated a large following, they will unfollow all the individuals that intially followed them. This gives the impression they are very popular.
+
+While this method can give high engagement, its problem is many of the followers are not genuinely interested in the influencer. They were only interested in growing their own following, and they will likely hurt your conversion rate.
 
 ## Inconsistency Across Platforms
 
@@ -57,4 +63,4 @@ High quality influencers' posts typically have substantial dialogue. Influencers
 **Further Reading:**
 
 * [The State of Influencer Marketing 2020: Benchmark Report](https://influencermarketinghub.com/influencer-marketing-benchmark-report-2020/ "The State of Influencer Marketing 2020: Benchmark Report")
-*
+* 
