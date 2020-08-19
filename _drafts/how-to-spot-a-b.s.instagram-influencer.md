@@ -28,7 +28,7 @@ On the other hand, let's look at an account with abnormal traffic. I stumbled ac
 
 ![Phony Influencer Weekly Social Growth]({{ site.baseurl }}/assets/gabriel-smaniotto-followers.png)
 
-
+Firstly, these statistics are from a verified Instagram account with over 600,000 followers at the time of this post. It appears to be affiliated with one of the largest influencer marketing agencies in the world. In the total follower traffic, this account appears to be losing 5,000 followers per week. In the second graphic, this account appears to have gained over 280,000 followers in the week of June 10, 2019. Given that the account only gain 600 followers the week before and lost over 8,000 two weeks after, something fishy is going on here.
 
 ## Declining Momentum
 
@@ -45,4 +45,4 @@ On the other hand, let's look at an account with abnormal traffic. I stumbled ac
 **Further Reading:**
 
 * [The State of Influencer Marketing 2020: Benchmark Report](https://influencermarketinghub.com/influencer-marketing-benchmark-report-2020/ "The State of Influencer Marketing 2020: Benchmark Report")
-*
+* 
