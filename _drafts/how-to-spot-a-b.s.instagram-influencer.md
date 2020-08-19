@@ -22,7 +22,11 @@ Influencer marketing is expected to become a nearly $10 billion market this year
 
 Federer's account is consistently growing and his weekly growth is always positive with  occasional jumps in account growth. Since there are no abnormalities in this traffic, this is a portrait of a healthy legitimate account. This makes sense because Federer is one of the most recognizable athletes in the world with many endorsements; manipulating his following on instagram wouldn't make sense.
 
-On the otherhand
+On the other hand, let's look at an account with abnormal traffic. I stumbled across an account that was affiliated with one of the largest influencer marketing agencies. When I dug into the traffic, I noticed several red flags.
+
+![](assets/gabriel-smaniotto-followers.png)
+
+![](assets/smaniotto-total-followers.png)
 
 ## Declining Momentum
 
