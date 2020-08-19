@@ -12,7 +12,7 @@ tags: social-media analytics influencer-marketing branding
 ---
 Influencer marketing is expected to become a nearly $10 billion market this year with companies increasing influencer spends and creators coming of age. Despite this growth, many small businesses do not have effective practices in place for vetting influencers. This results in both companies and customers being fooled by creators that are not as popular as they may seem. For example, a study by CBS News claims that 15% of corporate dollars spent on influencer marketing is lost to targeting fake followers. To avoid such fraud, I have assembled metrics you should consider to determine the authenticity of an Instagram influencer.
 
-## Abnormal Historical Growth / Engagement
+## Abnormal Historical Growth and Engagement
 
 [Social Blade](https://socialblade.com/ "Social Blade") is my favorite FREE tool for determining if an influencer is legitimate. I will use it for all analysis done in this article. Its most powerful feature is its ability to see historical insights from a social media account. As compared to seeing a simple metric like engagement rate, this digs deeper into the historical growth of an influencers account. You can correlate spikes in growth with certain actions. Let's look at [Roger Federer's](http://instagram.com/rogerfederer "Roger Federer Instagram") account.
 
@@ -46,7 +46,7 @@ While Instagram comment sections are not exactly Shakespeare, extremely low comm
 
 High quality influencers' posts typically have substantial dialogue. Influencers who have low quality comments likely have low quality engagement propelled by bots or individuals that likely will not convert to sales.
 
-## Follow / Unfollow Method
+## Follow/Unfollow Method
 
 On Instagram, there is a curtesy where you generally follow individuals who follow you. For some of the largest accounts, the follower / following ratio is hugely disproportionate, which may mislead users to think an account is hugely influential. In actuality, its pretty easy to gain followers using the Follow/Unfollow Method.
 
@@ -62,11 +62,15 @@ An easy way to survey this traffic is by comparing traffic across social media p
 
 This may not be the case for mid size and micro influencers. Before hiring 
 
-## Engagement Rate
+## Be Careful with Engagement Rate
 
-Engagement rate can be skewed by manner factors such as total number of followers and frequency of posts. As so, this will 
+High and low engagement rates are not a tell-tale measurement of good influencer vs. a bad influencer. My Instagram is modest with only several dozen followers, yet it has an engagement rate that is many times the size of Roger Federer and Kylie Jenner. Does that mean companies should hire me over them? No. It means there are other considerations in play. 
 
-## Understanding Following and Reason for Popularity
+Engagement can be skewed high and low by factors like follower size, post frequency, and hashtag usage. As so, influencers with low engagement should not necessarily be removed from consideration. Rather, you should try to understand why engagement is high or low. 
+
+## Key Takeaways
+
+In analyzing influencers, marketers need to determine if an influencer will be a good fit for their brand. To determine this, companies should consider content, transparency, but most importantly why the influencer is influential. Does shady metrics in the past provide clues? Are they increasing in popularity? Have they engaged in low quality approaches to gain followers? These are all crucial questions to ask. The best influencers will pass all of these with flying colors. Those are creators a company should target as partners.
 
 **Further Reading:**
 
