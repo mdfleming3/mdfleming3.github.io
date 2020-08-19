@@ -3,11 +3,12 @@ layout: post
 title: How to Spot a Phony Instagram Influencer
 date: 2020-08-19 10:00:00 -0500
 author: Mark Fleming
-description: ''
+description: How can you tell whether an Instagram influencer is legitimate or fake?
+  Use these free metrics and signs to identify red flags.
 image: assets/bs-influencer.png
-image-alt: ''
+image-alt: How to Spot a Phony Instagram Influencer
 category: Blog
-tags: social-media analytics influencer-marketing branding
+tags: social-media analytics influencer-marketing branding digital-marketing
 
 ---
 Influencer marketing is expected to become a nearly $10 billion industry this year. Despite this growth, many small businesses do not have effective practices in place for vetting influencers. This results in both companies and consumers being fooled by creators that are not as popular as they may seem. To further support this point, a 2019 CBS News study claimed that 15% of corporate dollars spent on influencer marketing is lost by targeting fake followers. To avoid such fraud, I have assembled several FREE tactics for determining the authenticity of an Instagram influencer.
