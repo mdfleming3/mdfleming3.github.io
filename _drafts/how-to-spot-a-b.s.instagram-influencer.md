@@ -32,7 +32,15 @@ Firstly, these statistics are from a verified Instagram account with over 600,00
 
 ## Declining Momentum
 
+Many influencers run paid advertisements to increase their total followings and overall engagement rates. The fact that influencers are running paid campaigns should not be a dealbreaker for the company; its a common and healthy practice for growing followers. This becomes a problem when paid campaigns are the only drivers of account growth, where engagement ends when paid campaigns end. By analyzing historical growth, companies can see patterns in the traffic and avoid influencers who are in periods of declining momentum.
+
+![](assets/jayde-heiser-weekly-followers.png)
+
+In the example above, the account goes through cycles of high growth and cycles of negative growth. Before collaborating with such an influencer, a company will want to understand what is causing the cyclical nature of growth. If the driver is simply paid campaigns, the company may be better off paying for ads than paying an influencer.
+
 ## Low Comment Quality
+
+While Instagram comment sections are not exactly Shakespeare, extremely low comment quality may indicate that many of an accounts followers are bots. Let's consider this example:
 
 ## Follow / Unfollow Method
 
