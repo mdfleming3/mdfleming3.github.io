@@ -50,27 +50,27 @@ High-quality influencers' posts will contain comments that are substantial or at
 
 On Instagram, there is a unwritten courtesy where you generally follow individuals who follow you. Influencers with many more followers than following have an air of importance. Take Mark Cuban for consideration, how could he possibly have the time to follow 1.4 million people?
 
+![Mark Cuban Instagram]({{ site.baseurl }}/assets/cuban-instagram.png)
 
+To achieve such massive followings, phony influencers either purchase followers from [growth services](https://www.influencive.com/instagram-growth-service "Instagram Growth Services") or use the follow/unfollow method.
 
-To try to achieve such massive followings, phony influencers either purchase followers from growth services or use the follow/unfollow method.
+The follow/unfollow method is where you follow a large number of users manually or through automation. A certain percentage of these users will follow you back (likely because they are active in the [#followforfollowback](https://www.instagram.com/explore/tags/followforfollowback/ "#followforfollowback") community). Once a user has accumulated a large following, they will unfollow all the individuals that initially followed them. This gives the impression they are very popular.
 
-This method is where you follow a large number of users, either manually or through automation. A certain percentage of these users will follow you back (likely because they are active in the [#followforfollowback](https://www.instagram.com/explore/tags/followforfollowback/ "#followforfollowback") community). Once a user has accumulated a large following, they will unfollow all the individuals that initially followed them. This gives the impression they are very popular.
-
-While this method can give high engagement, its problem is many of the followers are not genuinely interested in the influencer. They were only interested in growing their own following, and they will likely hurt your conversion rate.
+While growth services and follow tactics can create massive followings and even massive engagement, it's problematic. Followers of phony accounts are either low-engagement or not genuinely interested in the influencer. This does not lead to any conversion for companies that partner with such influencers.
 
 ## Inconsistency Across Platforms
 
-Kylie Jenner is one of Instagrams biggest influencers as she approaches nearly 200 million followers at the time of this article. Many outlets frequently beg the question of how many of these followers are real vs. bots, dead accounts, unengaged followers, etc. It's a fair question that is very hard to answer.
+Kylie Jenner is one of Instagram's biggest influencers with nearly 200 million followers at the time of this article. Many outlets frequently question how many of her followers are real vs. bots, dead accounts, unengaged followers, etc. It's a fair question that is unfortunately very hard to answer.
 
-An easy way to survey this traffic is by comparing traffic across social media platforms. For Kylie Jenner, she has many millions of followers across Facebook, Twitter, YouTube, etc. Even if she has several million fake followers, her influence is immense.
+An easy way to survey this traffic is by comparing traffic across social media platforms. For Kylie Jenner, she has many millions of followers across Facebook, Twitter, YouTube, etc. Even if she has several million fake followers, her influence is immense across platforms.
 
-This may not be the case for mid size and micro influencers. Before hiring an influencer, companies must audit all of an influencers accounts. Disproportionate followings for a single account may be a red flag.
+This may not be the case for phony mid-size and micro influencers. Before hiring an influencer, companies must audit all of an influencer's accounts. Disproportionate followings for a single account may be a red flag.
 
 ## Be Careful with Engagement Rate
 
-High and low engagement rates are not a tell-tale measurement of good influencer vs. a bad influencer. My Instagram is modest with only several dozen followers, yet it has an engagement rate that is many times the size of Roger Federer and Kylie Jenner. Does that mean companies should hire me over them? No. It means there are other considerations in play. 
+High and low engagement rates are not a tell-tale measurement of a good influencer vs. a bad influencer. My Instagram is modest with only several dozen followers, yet its engagement rate is many times larger than both Roger Federer and Kylie Jenner. Does that mean companies should hire me over them? No. It means there are other considerations in play.
 
-Engagement can be skewed high and low by factors like follower size, post frequency, and hashtag usage. As so, influencers with low engagement should not necessarily be removed from consideration. Rather, you should try to understand why engagement is high or low. 
+Engagement can be skewed high and low by factors like follower size, post frequency, and hashtag usage. As so, influencers with low engagement should not necessarily be removed from a company's shortlist of potential partners. Rather, companies should try to understand why engagement is high or low for an influencer.
 
 ## Key Takeaways
 
