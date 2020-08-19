@@ -31,6 +31,8 @@ Now let's look at an account with abnormal traffic.
 
 These statistics are from a verified Instagram account with over 600,000 followers at the time of this post. This account is affiliated with one of the largest influencer marketing agencies in the world. In the total follower traffic, this account appears to be losing 5,000 followers per week. In an analysis of weekly growth, this account appears to have gained over 280,000 followers in the week of June 10, 2019. Given that the account only gain 600 followers the week before and lost over 8,000 two weeks after, something fishy is going on here.
 
+{% include youtube.html id='jfpFJLlXueg' %}
+
 ## Declining Momentum
 
 Many influencers run paid advertisements to increase their total followings and overall engagement rates. Paid campaigns are not necessarily a bad thing. They can supercharge an account's growth. Paid campaigns only become problematic when they become an account's only driver of growth and engagement. By analyzing historical growth, companies can see patterns in the traffic and avoid influencers who are in periods of declining momentum.
