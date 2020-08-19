@@ -14,15 +14,15 @@ Influencer marketing is expected to become a nearly $10 billion market this year
 
 ## Abnormal Historical Growth and Engagement
 
-[Social Blade](https://socialblade.com/ "Social Blade") is my favorite FREE tool for determining if an influencer is legitimate. I will use it for all analysis done in this article. Its most powerful feature is its ability to see historical insights from a social media account. As compared to seeing a simple metric like engagement rate, this digs deeper into the historical growth of an influencers account. You can correlate spikes in growth with certain actions. Let's look at [Roger Federer's](http://instagram.com/rogerfederer "Roger Federer Instagram") account.
+[Social Blade](https://socialblade.com/ "Social Blade") is my favorite FREE tool for determining if an influencer is legitimate. I will use it for all analysis done in this article. Its most powerful feature is its ability to see historical insights from a social media account. As compared to seeing a simple metric like engagement rate, this digs deeper into the historical growth of an influencer's account. You can correlate spikes in growth with certain actions. Let's look at [Roger Federer's](http://instagram.com/rogerfederer "Roger Federer Instagram") account.
 
 ![Roger Federer Total Social Growth]({{ site.baseurl }}/assets/roger-federer-total-growth.png)
 
 ![Roger Federer Weekly Social Growth]({{ site.baseurl }}/assets/roger-federer-social-grow.png "Roger Federer Social Growth")
 
-Federer's account is consistently growing and his weekly growth is always positive with  occasional jumps in account growth. Since there are no abnormalities in this traffic, this is a portrait of a healthy legitimate account. This makes sense because Federer is one of the most recognizable athletes in the world with many endorsements; manipulating his following on instagram wouldn't make sense.
+Federer's account is consistently growing, and his weekly growth is always positive with occasional jumps in account growth. Since there are no abnormalities in this traffic, this is a portrait of a legitimate account. This makes sense because Federer is one of the most recognizable athletes in the world.
 
-On the other hand, let's look at an account with abnormal traffic. I stumbled across an account that was affiliated with one of the largest influencer marketing agencies. When I dug into the traffic, I noticed several red flags.
+On the other hand, let's look at an account with abnormal traffic.
 
 ![Phony Influencer Total Social Growth]({{ site.baseurl }}/assets/smaniotto-total-followers.png)
 
@@ -32,11 +32,11 @@ Firstly, these statistics are from a verified Instagram account with over 600,00
 
 ## Declining Momentum
 
-Many influencers run paid advertisements to increase their total followings and overall engagement rates. The fact that influencers are running paid campaigns should not be a dealbreaker for the company; its a common and healthy practice for growing followers. This becomes a problem when paid campaigns are the only drivers of account growth, where engagement ends when paid campaigns end. By analyzing historical growth, companies can see patterns in the traffic and avoid influencers who are in periods of declining momentum.
+Many influencers run paid advertisements to increase their total followings and overall engagement rates. The fact that influencers are running paid campaigns should not be a dealbreaker for the company; it's a common and healthy practice for growing followers. However, this becomes a problem when paid campaigns are the only drivers of account growth, where engagement ends when paid campaigns end. By analyzing historical growth, companies can see patterns in the traffic and avoid influencers who are in periods of declining momentum.
 
 ![Cyclical Weekly Instagram Followers]({{ site.baseurl }}/assets/jayde-heiser-weekly-followers.png)
 
-In the example above, the account goes through cycles of high growth and cycles of negative growth. Before collaborating with such an influencer, a company will want to understand what is causing the cyclical nature of growth. If the driver is simply paid campaigns, the company may be better off paying for ads than paying an influencer.
+In the example above, the account goes through cycles of high growth and negative growth. Before collaborating with such an influencer, a company will want to understand what is causing the cyclical nature of growth. If the growth driver is simply paid campaigns, the company may be better off paying for ads than paying an influencer.
 
 ## Low Comment Quality
 
@@ -44,23 +44,23 @@ While Instagram comment sections are not exactly Shakespeare, extremely low comm
 
 ![Low Quality Comments]({{ site.baseurl }}/assets/comments.png)
 
-High quality influencers' posts typically have substantial dialogue. Influencers who have low quality comments likely have low quality engagement propelled by bots or individuals that likely will not convert to sales.
+High quality influencers' posts typically have substantial dialogue. Influencers who have low quality comments likely have low quality engagement that will not convert to sales.
 
 ## Follow/Unfollow Method
 
-On Instagram, there is a curtesy where you generally follow individuals who follow you. For some of the largest accounts, the follower / following ratio is hugely disproportionate, which may mislead users to think an account is hugely influential. In actuality, its pretty easy to gain followers using the Follow/Unfollow Method.
+On Instagram, there is a curtesy where you generally follow individuals who follow you. For some of the largest accounts, the follower/following ratio is disproportionate, which may mislead users to think an account is hugely influential. In actuality, its pretty easy to gain followers using the Follow/Unfollow Method.
 
-This method is where you follow a large number of users, either manually or though automation. A certain percentage of these users will follow you back (likely because they are active in the [#followforfollowback](https://www.instagram.com/explore/tags/followforfollowback/ "#followforfollowback") community. Once a user has accumulated a large following, they will unfollow all the individuals that initially followed them. This gives the impression they are very popular.
+This method is where you follow a large number of users, either manually or through automation. A certain percentage of these users will follow you back (likely because they are active in the [#followforfollowback](https://www.instagram.com/explore/tags/followforfollowback/ "#followforfollowback") community). Once a user has accumulated a large following, they will unfollow all the individuals that initially followed them. This gives the impression they are very popular.
 
 While this method can give high engagement, its problem is many of the followers are not genuinely interested in the influencer. They were only interested in growing their own following, and they will likely hurt your conversion rate.
 
 ## Inconsistency Across Platforms
 
-Kylie Jenner is one of Instagrams biggest influencers as she approached nearly 200 million followers at the time of this article. Many outlets frequently beg the question of how many of these followers are real vs. bots, dead accounts, unengaged followers, etc. It's a fair question that is very hard to answer.
+Kylie Jenner is one of Instagrams biggest influencers as she approaches nearly 200 million followers at the time of this article. Many outlets frequently beg the question of how many of these followers are real vs. bots, dead accounts, unengaged followers, etc. It's a fair question that is very hard to answer.
 
-An easy way to survey this traffic is by comparing traffic across social media platforms. For Kylie Jenner, she has many millions of followers across Facebook, Twitter, YouTube, etc. Even if she has several million fake followers, he influence is immense.
+An easy way to survey this traffic is by comparing traffic across social media platforms. For Kylie Jenner, she has many millions of followers across Facebook, Twitter, YouTube, etc. Even if she has several million fake followers, her influence is immense.
 
-This may not be the case for mid size and micro influencers. Before hiring 
+This may not be the case for mid size and micro influencers. Before hiring an influencer, companies must audit all of an influencers accounts. Disproportionate followings for a single account may be a red flag.
 
 ## Be Careful with Engagement Rate
 
@@ -75,4 +75,4 @@ In analyzing influencers, marketers need to determine if an influencer will be a
 **Further Reading:**
 
 * [The State of Influencer Marketing 2020: Benchmark Report](https://influencermarketinghub.com/influencer-marketing-benchmark-report-2020/ "The State of Influencer Marketing 2020: Benchmark Report")
-* 
+* [Influencer marketing fraud will cost brands $1.3 billion in 2019](https://www.cbsnews.com/news/influencer-marketing-fraud-costs-companies-1-3-billion/)
