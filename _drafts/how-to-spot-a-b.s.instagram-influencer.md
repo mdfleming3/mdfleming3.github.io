@@ -74,9 +74,10 @@ Engagement can be skewed high and low by factors like follower size, post freque
 
 ## Key Takeaways
 
-In analyzing influencers, marketers need to determine if an influencer will be a good fit for their brand. To determine this, companies should consider content, transparency, but most importantly why the influencer is influential. Does shady metrics in the past provide clues? Are they increasing in popularity? Have they engaged in low quality approaches to gain followers? These are all crucial questions to ask. The best influencers will pass all of these with flying colors. Those are creators a company should target as partners.
+In analyzing influencers, marketers must determine if an influencer will be a good fit for their brand. As so, companies should consider content, transparency, but most importantly why the influencer is influential. Do they have red flags in their historical metrics? Are they increasing in popularity? Have they engaged in low quality approaches to gain followers? These are all crucial questions to ask to prevent your company from wasting its spend. The best influencers will pass all of these audits with flying colors. Those are creators a company should target as partners.
 
 **Further Reading:**
 
+* [Social Blade](https://socialblade.com/ "Social Blade")
 * [The State of Influencer Marketing 2020: Benchmark Report](https://influencermarketinghub.com/influencer-marketing-benchmark-report-2020/ "The State of Influencer Marketing 2020: Benchmark Report")
 * [Influencer marketing fraud will cost brands $1.3 billion in 2019](https://www.cbsnews.com/news/influencer-marketing-fraud-costs-companies-1-3-billion/)
