@@ -10,7 +10,7 @@ category: Blog
 tags: content-marketing strategy workflow analytics
 
 ---
-As discussed in [my article on the three stage content marketing life cycle](https://markdfleming.com/streamline-your-content-marketing-strategy-with-the-three-stage-lifecycle/ "my article on the three stage content marketing life cycle"), your company’s content strategy is always presenting new opportunities for high quality content. Unfortunately, most content fail to capitalize because they do not have S.M.A.R.T. ways for recognizing these opportunities. This ends up leading to either blasé content or ideas that are inconsistent with your blog's brand. Yawn! In this post, I will discuss what S.M.A.R.T. ways are out there and how they can help your identify hundreds of high ROI ideas in just minutes.
+As discussed in [my article on the three stage content marketing lifecycle](https://markdfleming.com/streamline-your-content-marketing-strategy-with-the-three-stage-lifecycle/ "my article on the three stage content marketing lifecycle"), your company’s content strategy is always presenting new opportunities for high quality content. Unfortunately, most content creators fail to capitalize because they do not have S.M.A.R.T. ways for recognizing these opportunities. This ends up leading to either blasé content or ideas that are inconsistent with your blog's brand. Yuck! In this post, I will discuss what S.M.A.R.T. ways are out there and how they can help you find hundreds of high ROI ideas in just minutes.
 
 ## What is the S.M.A.R.T. way for finding ideas?
 
@@ -24,13 +24,19 @@ Simply put, S.M.A.R.T. stands for the following:
 
 ## Survey Your Customers
 
-Whenever you create content, you should remember that it's not about you, but its about your customers and readers. What do they want to know more about? What problems are they facing? What do you know that can help them and drive them to other products that you offer? To answer these questions, you should either engage with your customers or conduct a survey.
+This is the good old fashioned way of asking your customers what they want to read. It's easy, but effective. That's because the content you create should not be about you, but all about your customers. What do they want to know more about? What problems are they facing? How can your products help them out? By asking your customer these questions in person or through a survey, you will get great ideas first hand from the people that matter most.
 
-If you are you operating email campaigns or social campaigns, notice who is engaging with your content. The next time you talk with them or email them, ask them how they are enjoying the content. If you want to collect a larger litmus test, consider using a tool like [Survey Monkey](https://www.surveymonkey.com/ "Survey Monkey") that can be easily integrated into many networks. This will allow you to attach numbers to your content.
+To do this, track who is engaging with your content in email, social, or through your website, etc. The next time you interact with these readers, ask them what they have enjoyed about the blog and what they want to know more about. If you want to collect a larger litmus test, consider using a tools like [Google Forms](https://www.google.com/forms/about/ "Google Forms") or [Survey Monkey](https://www.surveymonkey.com/ "Survey Monkey"). 
 
 ## Manage Your Feed
 
+There are dozens of RSS Reader apps on the internet; I prefer [Feedly](https://feedly.com/ "Feedly"). These feeds are powerful because they allow you to directly collect daily content from websites and news sources. These are great if you want to consolidate all your news sources instead of slogging through Linkedin or Facebook. These feeds are even better if you want to streamline your competitive analysis.
+
+By incorporating all your business competitors as well as SEO competitors (those who are taking the top spot from you on target keywords), you can funnel all competitor content into one place. This is highly useful for identifying what your competitors are covering and how you can create content that one-ups them.
+
 ## Analytics, Baby!
+
+I have worked with many business leaders that are impressed with 
 
 ## Research your keywords for Ideas
 
