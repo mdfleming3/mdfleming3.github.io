@@ -3,7 +3,8 @@ layout: post
 title: The S.M.A.R.T Way to Find Content Ideas for Your Blog
 date: 2020-08-26 11:00:00 -0500
 author: Mark Fleming
-description: ''
+description: Trouble finding ideas for your blog posts? The S.M.A.R.T. way can help
+  bloggers easily find hundreds of high ROI ideas in minutes.
 image: assets/ideas.png
 image-alt: the-SMART-way-to-find-content-ideas-for-your-blog
 category: Blog
