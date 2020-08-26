@@ -40,4 +40,8 @@ I have worked with many business leaders that are impressed with
 
 ## Research your keywords for Ideas
 
+Keyword research is the process of finding keywords that will help your web page rank higher. This tactic can be helpful for developing ideas because it gives the content creator insight into how searchers and potential readers are searching for content. Keyword can also help you find niche topics that are related to your content, but not necessarily
+
+With tools like Google Keyword Planner and Ubersuggest, content writers can discover similar keywords and search volume for the ideas in which they are interested.
+
 ## Track all of your ideas with Google Sheets
