@@ -53,3 +53,5 @@ With tools like [Google Keyword Planner](https://ads.google.com/home/tools/keywo
 ![Googe's Search Autopopulate]({{ site.baseurl }}/assets/google-autofill.png)
 
 ## Track all of your ideas with Google Sheets
+
+It has been said that many great authors and musicians keep a pen and paper next to their bed, because they get some of their best ideas while they are dreaming. 
