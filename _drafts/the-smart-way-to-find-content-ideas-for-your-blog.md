@@ -54,4 +54,6 @@ With tools like [Google Keyword Planner](https://ads.google.com/home/tools/keywo
 
 ## Track all of your ideas with Google Sheets
 
-It has been said that many great authors and musicians keep a pen and paper next to their bed, because they get some of their best ideas while they are dreaming. 
+It has been said that many great authors and musicians keep a pen and paper next to their bed, because they get some of their best ideas while they are dreaming. The key takeaway here is that you will never know when a great idea or a great content idea will arrive. As a recommendation for life, always have a way for documenting these moments of brilliance before they vaporize.
+
+For tracking content, I prefer to use [Google Sheets](https://www.google.com/sheets/about/ "Google Sheets"), because it is free and has all the functionality of Excel. Additionally, since it is web-based, you can access it from your computer or cell phone (with the Google Sheets mobile app). As such, keeping a spreadsheet with the content's title, category, and description will go a long way for building a repository of ideas.
