@@ -42,7 +42,11 @@ By incorporating both your business competition and SEO competition (those compe
 
 ## Analytics, Baby!
 
-I have worked with many business leaders that are impressed with
+![](assets/content-balanced.png)
+
+A central part of the [three stage content marketing lifecycle](https://markdfleming.com/streamline-your-content-marketing-strategy-with-the-three-stage-lifecycle/) is analysis. This is the stage where you determine what works vs. what does not work. The problem I've noticed with many business leaders is that they are content with the initial success an article receive. After the initial spike, all subsequent success is often overlooked. 
+
+As a content creator, take into consider your Google Analytics and social media metrics. What posts and keywords are consistently performing well. Using this analytics-based decision making can lead to content ideas that you may not initially consider.  
 
 ## Research your keywords for Ideas
 
