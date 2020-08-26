@@ -5,7 +5,7 @@ date: 2020-08-26 11:00:00 -0500
 author: Mark Fleming
 description: ''
 image: assets/ideas.png
-image-alt: The-SMART-Way-to-Find-Content-ideas-for-Your-Blog
+image-alt: the-SMART-way-to-find-content-ideas-for-your-blog
 category: Blog
 tags: content-marketing strategy workflow analytics
 
