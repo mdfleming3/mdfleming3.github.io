@@ -51,7 +51,7 @@ As a content creator, take into consideration your Google Analytics and social m
 
 ## Research your keywords for Ideas
 
-Keyword research is the process of finding keywords that will help your web page rank higher. This tactic can be helpful for developing ideas because it gives the content creator insight into how searchers and potential readers are looking for content. Keyword can also help you find niche topics that are related to your content, but not necessarily
+Keyword research is the process of finding keywords that will help your web page rank higher. This tactic can be helpful for developing ideas because it gives the content creator insight into how searchers and potential readers are looking for content. Keyword research can also help you find niche topics that are related to your content.
 
 With tools like [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner"), [Ubersuggest](https://neilpatel.com/ubersuggest/ "Ubersuggest"), and Google's auto-populate search feature, content writers can discover similar keywords and search volume for the ideas in which they are most interested.
 
