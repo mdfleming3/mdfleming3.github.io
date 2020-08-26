@@ -40,6 +40,8 @@ There are dozens of RSS (really simple syndication) reader apps; I prefer [Feedl
 
 By incorporating both your business competition and SEO competition (those competing with you for target keywords), you can funnel all competitor content into one place. This can allow you to manage your feed in a more efficient manner, so it's easier to source new ideas and outdo your competition.
 
+![Googe's Search Autopopulate]({{ site.baseurl }}/assets/google-autofill.png)
+
 ## Analytics, Baby!
 
 I have worked with many business leaders that are impressed with
