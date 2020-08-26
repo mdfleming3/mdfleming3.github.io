@@ -40,8 +40,6 @@ There are dozens of RSS (really simple syndication) reader apps; I prefer [Feedl
 
 By incorporating both your business competition and SEO competition (those competing with you for target keywords), you can funnel all competitor content into one place. This can allow you to manage your feed in a more efficient manner, so it's easier to source new ideas and outdo your competition.
 
-![Googe's Search Autopopulate]({{ site.baseurl }}/assets/google-autofill.png)
-
 ## Analytics, Baby!
 
 I have worked with many business leaders that are impressed with
@@ -52,6 +50,6 @@ Keyword research is the process of finding keywords that will help your web page
 
 With tools like [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner"), [Ubersuggest](https://neilpatel.com/ubersuggest/ "Ubersuggest"), and Google's auto-populate search feature, content writers can discover similar keywords and search volume for the ideas in which they are interested.
 
-![](assets/google-autofill.png)
+![Googe's Search Autopopulate]({{ site.baseurl }}/assets/google-autofill.png)
 
 ## Track all of your ideas with Google Sheets
