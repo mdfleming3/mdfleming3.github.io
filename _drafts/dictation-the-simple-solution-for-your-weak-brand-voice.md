@@ -10,6 +10,6 @@ category: Blog
 tags: branding strategy content marketing copywriting
 
 ---
-Brand voice is a business’s style of communication. It’s what makes your brand unique or gives it brand personality. It’s the style of communicating that makes a silk-stocking law firm different than a bungie jumping company. Brand voice comes naturally for small businesses where there are only a few company leaders. In mid-size and large companies, however, brand voice becomes more difficult to maintain. Don’t believe me? Ask any department at your company what your company does; you’ll surely hear the same answer in half a dozen ways. This is a sign of a weak brand voice. Luckily, there is a simple marketing solution.
+Brand voice is a business’s style of communication. It’s what makes a brand unique or gives it personality. It’s what makes a silk-stocking law firm's communication different than that of a bungie jumping company. Brand voice often comes naturally for small businesses with a vision that is understood by the few employees. In mid-size and large companies, however, brand voice becomes more difficult to maintain. Don’t believe me? Ask five different people at a large company what the company does. If you hear the same answer in five different ways, the company likely has a weak brand voice. Luckily, there is a simple marketing solution.
 
 Understanding Brand Voice
