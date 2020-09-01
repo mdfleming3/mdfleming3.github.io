@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'Dictation: The Simple Solution for Your Weak Brand Voice'
-date: 2020-09-02 11:00:00 -0500
+date: 2020-09-02T11:00:00.000-05:00
 author: Mark Fleming
 description: ''
-image: ''
+image: assets/brand-voice.png
 image-alt: dictation-the-simple-solution-for-your-weak-brand-voice
 category: Blog
 tags: branding strategy content marketing copywriting
