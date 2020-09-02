@@ -27,12 +27,12 @@ _Image courtesy of Content Marketing Institute_
 
 ## The Problem of Saying vs. Doing
 
-While the approach below can get your marketing materials and website in order, it rarely 
+The approach above is a great tool in the goal setting stage of designing your brand voice, but the actual content creation stage of building a brand voice simply relies on a writer hammering out content you can use for landing pages, campaigns, etc. 
 
 ## What Is Dictation
 
-How Dictation Can Help You Overcome the Saying vs. Doing Problem
+## Using Dictation to Build Your Brand Voice
 
-How To Use Dictation in Word and Google Docs
+## Dictation in Word and Google Docs
 
-Further Reading:
+### Further Reading:
