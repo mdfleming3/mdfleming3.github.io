@@ -45,11 +45,17 @@ Leverag
 
 ### Using the Tool to Collect Stories
 
-Some of the most successful marketers I know have the ability to turn business leaders' statements and buzz words into great pieces of content. Think about it. Did anybody use the terms "speaking offline" or "bandwidth" before starting their careers? No. Some leader coined the phrase and it has spread throughout the working world.
+Some of the most successful marketers I know have the ability to turn business leaders' statements and buzz words into great pieces of content. Think about it. Did anybody use the terms "speaking offline" or "bandwidth" before starting their careers? No. Some businessperson once said this, and the rest is history. For your brand, try to find these types of phrases while speaking with the leaders at your company. Why these phrases are used can provide great insight into company culture, history, and the brand story.
 
-In building your brand voice, you need to find these types of phrases. They provide great insight into culture and story. They can also be incredibly useful for product descriptions, landing pages, email campaigns, etc. 
+**Practice Tip:** Interview company leaders on crucial topics with Google Doc's dictation tool running in the background. The leaders' speech will be transcribed into writing. What words are emphasized consistently? How are products described? Are there inconsistencies? What's the general tone? This is a simple way to source authentic brand voice without needing
 
 ### Will People Talk Like This?
+
+Every time I say, "To the left," I think of that Beyonce song. I can say I have never sought out that song, but it is forever engrained in my head. Why is that? It's a phrase that is commonly and easily used. While developing your brand voice, you need to phrases that can be easily adopted by everyone in your organization. Hammering out long-winded, heavy handed prose will not work. 
+
+By using dictation in my own writing, I have found that this dashes my wordiest sentences. When I speak, it tends to be choppier with easy-to-digest, direct statements. To the left. That's the way people will talk. That's content that people can use. 
+
+**Practice Tip:** Type a piece of branded content. Step away from that content for at least 30 minutes. Use dictation to speak the same content from memory. Compare the two. What's different? Why is that different? 
 
 ### Dictation in Word and Google Docs
 
