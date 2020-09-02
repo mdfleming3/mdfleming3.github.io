@@ -3,7 +3,8 @@ layout: post
 title: How Dictation Can Strengthen Your Brand Voice
 date: 2020-09-02 11:00:00 -0500
 author: Mark Fleming
-description: ''
+description: Dictation is a simple and creative tool for building your company's brand
+  voice. This article provides several tips for making your content more authentic.
 image: assets/brand-voice.png
 image-alt: dictation-the-simple-solution-for-your-weak-brand-voice
 category: Blog
