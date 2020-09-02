@@ -10,7 +10,7 @@ category: Blog
 tags: branding strategy content-marketing copywriting
 
 ---
-Brand voice is a business’s style of communication. It makes a brand unique or gives it personality. It’s what makes the language of a silk-stocking law firm different than that of a bungie jumping company. Its goal is to tell the story and culture of a company. At many compoanies though, there is a disconnect between the brand voice that is used in marketing materials and the voice used when interacting with clients. This is a sign of a weak brand voice. How can a company strengthen this? Dictation is a simple, but creative solution. 
+Brand voice is a business’s style of communication. It makes a brand unique or gives it personality. It’s what makes the language of a silk-stocking law firm different than that of a bungie jumping company. Its goal is to tell the story and culture of a company. At many compoanies though, there is a disconnect between the brand voice that is used in marketing materials and the voice used when interacting with clients. This is a sign of a weak brand voice. How can a company strengthen this? Dictation is a simple, but creative solution.
 
 ## How Brand Voices Are Typically Developed
 
@@ -70,3 +70,6 @@ Below is a brief instructions for using dictation in both Word and Google Docs.
 ![dictation-in-google-docs]({{ site.baseurl }}/assets/docs-speech.png)
 
 **Further Reading:**
+
+* [How to Define Your Unique Brand Voice](https://coschedule.com/marketing-strategy/brand-voice/)
+* [Use dictation to talk instead of type on your PC](https://support.microsoft.com/en-us/help/4042244/windows-10-use-dictation)
