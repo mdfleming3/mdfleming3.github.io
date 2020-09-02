@@ -7,7 +7,7 @@ description: ''
 image: assets/brand-voice.png
 image-alt: dictation-the-simple-solution-for-your-weak-brand-voice
 category: Blog
-tags: branding strategy content marketing copywriting
+tags: branding strategy content-marketing copywriting
 
 ---
 Brand voice is a business’s style of communication. It’s what makes a brand unique or gives it personality. It’s what makes a silk-stocking law firm's communication different than that of a bungie jumping company. Brand voice often comes naturally for small businesses with a vision that is understood by the few employees. In mid-size and large companies, however, brand voice becomes more difficult to maintain. Don’t believe me? Ask five different people at a large company what the company does. If you hear the same answer in five different ways, the company likely has a weak brand voice. Luckily, there is a simple marketing solution.
@@ -21,7 +21,7 @@ Content Marketing Institute has written an informative [article on defining a co
 3. Have writers understand and put the voice into action
 4. Revisit the chart as company's voice changes over time
 
-![](assets/brand-voice-chart.jpg)
+![brand-voice-chart]({{ site.baseurl }}/assets/brand-voice-chart.jpg)
 
 _Image courtesy of Content Marketing Institute_
 
@@ -30,3 +30,4 @@ _Image courtesy of Content Marketing Institute_
 While approach
 
 How Dictation
+
