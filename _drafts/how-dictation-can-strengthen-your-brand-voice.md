@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Dictation can Strengthen Your Brand Voice
+title: How Dictation Can Strengthen Your Brand Voice
 date: 2020-09-02T11:00:00.000-05:00
 author: Mark Fleming
 description: ''
@@ -41,7 +41,11 @@ Voice dictation is a speech recognition technology that types words as you say t
 
 ### The Middle Ground Between Writing and Speaking
 
-Leverag
+There are great speakers who are awful writers, and great writers who are terrible speakers. With brand voice, it needs to translate well to both writing and speech. This is why it is so challenging to create a voice that is adopted universally at a company.
+
+A similar craft that walks this fine line between speech and writing is screenwriting. A screenplay must be written well enough to attract producer’s attention, but translate well to film to win the hearts of audiences. Many screenwriters speak their dialogue out loud, in character as they write. This allows them to differentiate voice between characters and trim the fat that comes naturally with writing vs. speaking. Copywriters should consider this approach.
+
+**Practice Tip:** Type a piece of branded content. Step away from that content for at least 30 minutes. Use dictation to speak the same content from memory. Compare the two. What's different? Why is that different?
 
 ### Using the Tool to Collect Stories
 
@@ -51,14 +55,14 @@ Some of the most successful marketers I know have the ability to turn business l
 
 ### Will People Talk Like This?
 
-Every time I say, "To the left," I think of that Beyonce song. I can say I have never sought out that song, but it is forever engrained in my head. Why is that? It's a phrase that is commonly and easily used. While developing your brand voice, you need to phrases that can be easily adopted by everyone in your organization. Hammering out long-winded, heavy handed prose will not work. 
+Every time I say, "To the left," I think of that Beyonce song. I can say I have never sought out that song, but it is forever engrained in my head. Why is that? It's a phrase that is commonly and easily used. While developing your brand voice, you need to phrases that can be easily adopted by everyone in your organization. Hammering out long-winded, heavy handed prose will not work.
 
-By using dictation in my own writing, I have found that this dashes my wordiest sentences. When I speak, it tends to be choppier with easy-to-digest, direct statements. To the left. That's the way people will talk. That's content that people can use. 
+By using dictation in my own writing, I have found that this dashes my wordiest sentences. When I speak, it tends to be choppier with easy-to-digest, direct statements. That's the way people will talk. That's content that people can use.
 
-**Practice Tip:** Type a piece of branded content. Step away from that content for at least 30 minutes. Use dictation to speak the same content from memory. Compare the two. What's different? Why is that different? 
+Practice Tip: With the same content you wrote earlier, have someone at your organization read the content. After reading the content, ask them to explain the content with dictation running. How is there speech different than yours? What did they leave out? What did they include?
 
 ### Dictation in Word and Google Docs
 
-Below are short tutorials on how to use dictations
+Below is a brief video tutorial for using dictation in Word and Google Docs.
 
-### Further Reading:
+**Further Reading:**
