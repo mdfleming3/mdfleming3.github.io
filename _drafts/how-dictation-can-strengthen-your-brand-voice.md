@@ -65,4 +65,8 @@ By using dictation in my own writing, I have found that this dashes my wordiest 
 
 Below is a brief instructions for using dictation in both Word and Google Docs.
 
+![](assets/word-dictation.png)
+
+![](assets/docs-speech.png)
+
 **Further Reading:**
