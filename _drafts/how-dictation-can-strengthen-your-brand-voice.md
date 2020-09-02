@@ -31,17 +31,9 @@ _Image courtesy of Content Marketing Institute_
 
 While the framework above is excellent for setting goals for a company's brand voice design, it doesn't provide any insight into actually how to create the voice. Is a writer supposed to take creative liberty under this framework? Should we reuse successful pieces of content to make a brand voice Frankenstein? Should we throw something against the wall and revise until analytics show something that is working?
 
-The process of designing a brand voice needs to consider the story of the company. Ask yourself who are the people within your company that make it what it is today? For a small 
+The biggest problem with building a brand voice is the "problem of authenticity." This is where a marketing team or consultant creates a brand voice that does not match the way that individuals in the company speak with clients and speak with each other. An excellent way to test this at your company is to ask several different leaders what the company does and what it values. If you're hearing dramatically different responses, the company's brand voice and messaging may be unclear.
 
-Many companies use it to identify their brand voice before employing a writer to create content under these loose guidelines. While this may result it great content, it does not address the problem of authenticity. 
-
-The problem of authenticity is that content writers are only a single perspective within a company. Whether it's noticeable of not, a writer's voice takes on his or her own voice. This can become problematic, because every key player in a company has such a voice. The leaders speak a certain way. The salespeople speak another way. The product builder speak...you guessed it...in their own way. A strong brand has the ability to tie in all of these languages into a powerful
-
-While this may result in great content, the process does not address the issue that brand voice flows throughout an organization. Simply 
-
-However, it does little for actually creating an authentic voice. That is, having a team of writers come up with buzz words and 
-
- of designing your brand voice, but the actual content creation stage of building a brand voice simply relies on a writer hammering out content you can use for landing pages, campaigns, etc. 
+To build a strong brand voice, writers need to understand the story of a company. Any story is composed of characters. These characters overcome challenges. Who are the main characters in your company? What problems has the company solved? Why are these triumphs important? And most importantly for brand voice, how do these individuals at your firm answer these questions? Their tone, keywords, characteristic -- those will give you everything you need to create an authentic brand.
 
 ## What Is Dictation
 
