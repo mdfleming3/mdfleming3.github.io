@@ -59,7 +59,7 @@ Every time I say, "To the left," I think of that Beyonce song. I can say I have 
 
 By using dictation in my own writing, I have found that this dashes my wordiest sentences. When I speak, it tends to be choppier with easy-to-digest, direct statements. That's the way people will talk. That's content that people can use.
 
-Practice Tip: With the same content you wrote earlier, have someone at your organization read the content. After reading the content, ask them to explain the content with dictation running. How is there speech different than yours? What did they leave out? What did they include?
+**Practice Tip:** With the same content you wrote earlier, have someone at your organization read the content. After reading the content, ask them to explain the content with dictation running. How is there speech different than yours? What did they leave out? What did they include?
 
 ### Dictation in Word and Google Docs
 
