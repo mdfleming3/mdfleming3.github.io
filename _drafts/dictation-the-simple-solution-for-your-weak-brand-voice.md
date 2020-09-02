@@ -18,16 +18,21 @@ Content Marketing Institute has written an informative [article on defining a co
 
 1. Describe the brand in three words (i.e. Passionate, Quirky, and Authentic)
 2. Create a brand voice chart (see below)
-3. Have writers understand and put the voice into action
+3. Have writers put the voice into action using this chart
 4. Revisit the chart as company's voice changes over time
 
 ![brand-voice-chart]({{ site.baseurl }}/assets/brand-voice-chart.jpg)
 
 _Image courtesy of Content Marketing Institute_
 
-## The Problem With This Approach
+## The Problem of Saying vs. Doing
 
-While approach
+While the approach below can get your marketing materials and website in order, it rarely 
 
-How Dictation
+## What Is Dictation
 
+How Dictation Can Help You Overcome the Saying vs. Doing Problem
+
+How To Use Dictation in Word and Google Docs
+
+Further Reading:
