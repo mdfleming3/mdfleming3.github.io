@@ -63,6 +63,6 @@ Practice Tip: With the same content you wrote earlier, have someone at your orga
 
 ### Dictation in Word and Google Docs
 
-Below is a brief video tutorial for using dictation in Word and Google Docs.
+Below is a brief instructions for using dictation in both Word and Google Docs.
 
 **Further Reading:**
