@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dictation: The Simple Solution to Strengthen Your Brand Voice'
+title: How Dictation can Strengthen Your Brand Voice
 date: 2020-09-02T11:00:00.000-05:00
 author: Mark Fleming
 description: ''
@@ -14,7 +14,9 @@ Brand voice is a business’s style of communication. It’s what makes a brand 
 
 ## How Brand Voices Are Typically Developed
 
-Content Marketing Institute has written an informative [article on defining a companies brand voice](https://contentmarketinginstitute.com/2015/10/define-brand-voice/). Any marketers looking to build their company's brand voice should consider this as a starting point. A high level summary of this process is as follows:
+Brand voice is defined as a company's style of communication. It's the non-human voice that shows customers how this company is different. It's the company's persona. 
+
+Content Marketing Institute has written an informative [article on defining a companies brand voice](https://contentmarketinginstitute.com/2015/10/define-brand-voice/). Any marketer looking to build their company's brand voice should consider this as a starting point. A high level summary of this process is as follows:
 
 1. Describe the brand in three words (i.e. Passionate, Quirky, and Authentic)
 2. Create a brand voice chart (see below)
@@ -25,9 +27,21 @@ Content Marketing Institute has written an informative [article on defining a co
 
 _Image courtesy of Content Marketing Institute_
 
-## The Problem of Saying vs. Doing
+## The Problem of Authenticity
 
-The approach above is a great tool in the goal setting stage of designing your brand voice, but the actual content creation stage of building a brand voice simply relies on a writer hammering out content you can use for landing pages, campaigns, etc. 
+While the framework above is excellent for setting goals for a company's brand voice design, it doesn't provide any insight into actually how to create the voice. Is a writer supposed to take creative liberty under this framework? Should we reuse successful pieces of content to make a brand voice Frankenstein? Should we throw something against the wall and revise until analytics show something that is working?
+
+The process of designing a brand voice needs to consider the story of the company. Ask yourself who are the people within your company that make it what it is today? For a small 
+
+Many companies use it to identify their brand voice before employing a writer to create content under these loose guidelines. While this may result it great content, it does not address the problem of authenticity. 
+
+The problem of authenticity is that content writers are only a single perspective within a company. Whether it's noticeable of not, a writer's voice takes on his or her own voice. This can become problematic, because every key player in a company has such a voice. The leaders speak a certain way. The salespeople speak another way. The product builder speak...you guessed it...in their own way. A strong brand has the ability to tie in all of these languages into a powerful
+
+While this may result in great content, the process does not address the issue that brand voice flows throughout an organization. Simply 
+
+However, it does little for actually creating an authentic voice. That is, having a team of writers come up with buzz words and 
+
+ of designing your brand voice, but the actual content creation stage of building a brand voice simply relies on a writer hammering out content you can use for landing pages, campaigns, etc. 
 
 ## What Is Dictation
 
