@@ -35,12 +35,14 @@ The biggest problem with building a brand voice is the "problem of authenticity.
 
 To build a strong brand voice, writers need to understand the story of a company. Every story is composed of characters. These characters overcome challenges. Who are the main characters at your company? What problems has the company solved? Why are these triumphs important? And most importantly for brand voice, how do these individuals at your firm answer these questions? Their tone, keywords, characteristic -- those will give you everything you need to create an authentic brand.
 
-## What Is Dictation
+## Using Dictation to Build Your Brand Voice
+
+### What Is Dictation
 
 Voice dictation is a speech recognition technology that types words as you say them out loud. It is a feature in Microsoft Word, Google Docs, and numerous other online tools. 
 
-## Using Dictation to Build Your Brand Voice
+### Dictation in Word and Google Docs
 
-## Dictation in Word and Google Docs
+Below are short tutorials on how to use dictations
 
 ### Further Reading:
