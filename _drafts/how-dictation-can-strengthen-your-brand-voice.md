@@ -31,11 +31,13 @@ _Image courtesy of Content Marketing Institute_
 
 While the framework above is excellent for setting goals for a company's brand voice design, it doesn't provide any insight into actually how to create the voice. Is a writer supposed to take creative liberty under this framework? Should we reuse successful pieces of content to make a brand voice Frankenstein? Should we throw something against the wall and revise until analytics show something that is working?
 
-The biggest problem with building a brand voice is the "problem of authenticity." This is where a marketing team or consultant creates a brand voice that does not match the way that individuals in the company speak with clients and speak with each other. An excellent way to test this at your company is to ask several different leaders what the company does and what it values. If you're hearing dramatically different responses, the company's brand voice and messaging may be unclear.
+The biggest problem with building a brand voice is the "problem of authenticity." This is where a marketing team or consultant creates a brand voice that is inconsistent with how a business speaks with clients. To test if your company has a problem of authenticity, ask several different leaders what the company does and what it values. If you're hearing different responses, the company's brand voice is going to be unclear.
 
-To build a strong brand voice, writers need to understand the story of a company. Any story is composed of characters. These characters overcome challenges. Who are the main characters in your company? What problems has the company solved? Why are these triumphs important? And most importantly for brand voice, how do these individuals at your firm answer these questions? Their tone, keywords, characteristic -- those will give you everything you need to create an authentic brand.
+To build a strong brand voice, writers need to understand the story of a company. Every story is composed of characters. These characters overcome challenges. Who are the main characters at your company? What problems has the company solved? Why are these triumphs important? And most importantly for brand voice, how do these individuals at your firm answer these questions? Their tone, keywords, characteristic -- those will give you everything you need to create an authentic brand.
 
 ## What Is Dictation
+
+Voice dictation is a speech recognition technology that types words as you say them out loud. It is a feature in Microsoft Word, Google Docs, and numerous other online tools. 
 
 ## Using Dictation to Build Your Brand Voice
 
