@@ -1,7 +1,7 @@
 ---
 layout: Post
 title: Best Free SEO Tools for Marketers in 2020
-date: 2020-09-08 12:00:00 -0500
+date: 2020-09-03 12:00:00 -0500
 author: Mark Fleming
 description: The best SEO tools in 2020 for analytics, on page, off page, links, keyword
   research, performance, and business success.
