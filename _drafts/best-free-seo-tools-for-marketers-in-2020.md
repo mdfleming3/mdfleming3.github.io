@@ -35,19 +35,13 @@ Google Search Console allows webmasters to optimize page visibility, track linki
 
 ### SEOlyzer
 
-SEOlyzer is a crawler and log analysis tool that 
+SEOlyzer is a crawler and log analysis tool that gives an in depth analysis of your website structure. It 
 
-* SEOlyzer
-* Spyfu
+### [SpyFu](https://www.spyfu.com/)
 
-On-Page SEO
+SpyFu is a great tool for competitive analysis when gaining quick intel on your competitors. It can quickly deliver results for top keywords, PPC, shared voice, etc.
 
-* Woorank
-* Browseo
-
-Off-Page Tools:
-
-Keyword Research:
+## Keyword Research:
 
 * Google Keyword Planner
 * Moz Keyword Explorer
