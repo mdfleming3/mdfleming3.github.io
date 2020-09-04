@@ -5,7 +5,7 @@ date: 2020-09-08 12:00:00 -0500
 author: Mark Fleming
 description: The best SEO tools in 2020 for analytics, on page, off page, links, keyword
   research, performance, and business success.
-image: assets/seo-tools-1.png
+image: ''
 image-alt: best-seo-tools-of-2020
 category: blog
 tags: seo digital-marketing analytics
