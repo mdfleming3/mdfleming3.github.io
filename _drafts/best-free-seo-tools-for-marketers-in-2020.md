@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Best Free SEO Tools for Marketers in 2020
 date: 2020-09-03 12:00:00 -0500
 author: Mark Fleming
