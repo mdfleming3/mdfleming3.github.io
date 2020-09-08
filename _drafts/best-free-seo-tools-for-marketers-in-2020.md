@@ -63,15 +63,17 @@ Similar to Google Keyword Planner, this tool outputs keyword search volume. Why 
 
 In my article, "[The S.M.A.R.T Way to Find Content Ideas for Your Blog](https://markdfleming.com/the-smart-way-to-find-content-ideas-for-your-blog/ "The S.M.A.R.T Way to Find Content Ideas for Your Blog")," I discuss the power of paying attention to Google's fill-in feature. Answer the Public is like Google's fill-in feature on steroids. It visualizes consumers searches in a way that makes creating headings and blog posts a breeze.
 
-* Google Trends
+### [Google Trends](https://trends.google.com/trends/ "Google Trends")
 
-Links
+Curious about what's trending? Google Trends provides visualizations of Google Search volume over time. While not as targeted as some of the keyword planner platforms, I think this is an essential tool for looking at the big picture when creating content.
+
+## Links
 
 * Ahref Backlink Checker [https://ahrefs.com/backlink-checker](https://ahrefs.com/backlink-checker "https://ahrefs.com/backlink-checker")
 * Broken Link Checker
 * Disavow [https://www.google.com/webmasters/tools/disavow-links-main](https://www.google.com/webmasters/tools/disavow-links-main "https://www.google.com/webmasters/tools/disavow-links-main")
 
-Specialty Tools:
+## Specialty Tools:
 
 * Local SEO: Google My Business
 * Page Speed: Google Page Speed Insights [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/ "https://developers.google.com/speed/pagespeed/insights/")
@@ -79,7 +81,7 @@ Specialty Tools:
 * Rich Results Test:
 * Tiny PNG
 
-Chrome Add-ons:
+## Chrome Add-ons:
 
 * MozBar
 * Ahrefs SEO Toolbar
