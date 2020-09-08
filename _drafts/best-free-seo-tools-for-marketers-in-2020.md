@@ -57,10 +57,10 @@ Similar to Google Keyword Planner, this tool outputs keyword search volume. Why 
 
 ### [Answer the Public](https://answerthepublic.com/ "Answer the Public")
 
-In my article, "[The S.M.A.R.T Way to Find Content Ideas for Your Blog](https://markdfleming.com/the-smart-way-to-find-content-ideas-for-your-blog/ "The S.M.A.R.T Way to Find Content Ideas for Your Blog")," I discuss the power of researching keywords for ideas. Answer the Public visualizes these ideas by showing what consumers are searching for.
+In my article, "[The S.M.A.R.T Way to Find Content Ideas for Your Blog](https://markdfleming.com/the-smart-way-to-find-content-ideas-for-your-blog/ "The S.M.A.R.T Way to Find Content Ideas for Your Blog")," I discuss the power of paying attention to Google's fill-in feature. Answer the Public is like Google's fill-in feature on steroids. It visualizes consumers searches in a way that makes creating headings and blog posts a breeze.
 
-* Ubersuggest
-* Google Search (fill-in)
+Ubersuggest
+
 * Google Trends
 
 Links
