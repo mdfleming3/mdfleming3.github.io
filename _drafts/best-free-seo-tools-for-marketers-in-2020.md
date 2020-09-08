@@ -21,7 +21,7 @@ Woorank is an analysis tool that provides simple and easy to interpret analysis 
 
 ### [Browseo](https://www.browseo.net/ "Browseo")
 
-Browseo is a no-frills program that collects the data that a search engine collects. It is an excellent tool for competitive research and troubleshooting SEO for individual pages.
+Browseo is a no-frills program that shows you what data a search engine is collecting from a webpage. It is an excellent tool for competitive research and troubleshooting SEO for individual pages.
 
 ## Analytics
 
@@ -29,22 +29,26 @@ Browseo is a no-frills program that collects the data that a search engine colle
 
 Google's flagship website tool that tracks everything you need to know. This is an essential tool. If you do not have this hooked up, you are not only missing out on valuable data, your SEO is likely penalized.
 
-### Google Search Console
+### [Google Search Console](https://search.google.com/search-console/about "Google Search Console")
 
-Google Search Console allows webmasters to optimize page visibility, track linking, and see indexing data for webpages. Since this data feeds directly into Google, this is another top tool.
-
-### SEOlyzer
-
-SEOlyzer is a crawler and log analysis tool that gives an in depth analysis of your website structure. It 
+Google Search Console allows webmasters to measure search traffic and performance, fix issues, and optimize indexing for webpages. Since this data directly impacts your search engine rank, this is another essential tool from Google.
 
 ### [SpyFu](https://www.spyfu.com/)
 
-SpyFu is a great tool for competitive analysis when gaining quick intel on your competitors. It can quickly deliver results for top keywords, PPC, shared voice, etc.
+SpyFu is a competitive analysis that allows you to search for competitors websites, see their traffic, and download their keywords. This can quickly help you spy on competitors PPC strategy and SEO tactics.
+
+### [SEOlyzer](https://seolyzer.io/ "SEOlyzer")
+
+SEOlyzer is a tool that allows you to visualize and analyze log analysis and monitor SEO KPIs in real time. 
 
 ## Keyword Research:
 
-* Google Keyword Planner
-* Moz Keyword Explorer
+### [Google Keyword Planner]( "Google Keyword Planner")
+
+This tool is typically used for keyword research when running PPC campaigns, but it can be hugely useful for content writers looking for long-string keywords. Search for a keyword idea, and you will receive a list of related keywords with average monthly searches and level of competition. This can all be easily exported.
+
+Moz Keyword Explorer
+
 * Ahrefs Keyword Generator
 * Answer the Public
 * Ubersuggest
@@ -63,7 +67,7 @@ Specialty Tools:
 * Page Speed: Google Page Speed Insights [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/ "https://developers.google.com/speed/pagespeed/insights/")
 * Mobile: Google Mobile Test
 * Rich Results Test:
-* Tiny Png
+* Tiny PNG
 
 Chrome Add-ons:
 
