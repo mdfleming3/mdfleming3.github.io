@@ -39,7 +39,7 @@ SpyFu is a competitive analysis that allows you to search for competitors websit
 
 ### [SEOlyzer](https://seolyzer.io/ "SEOlyzer")
 
-SEOlyzer is a tool that allows you to visualize and analyze log analysis and monitor SEO KPIs in real time. 
+SEOlyzer is a tool that allows you to visualize and analyze log analysis and monitor SEO KPIs in real time.
 
 ## Keyword Research:
 
@@ -53,9 +53,11 @@ This tool is typically used for keyword research when running PPC campaigns, but
 
 ### [Ahrefs Keyword Generator](https://ahrefs.com/keyword-generator "Ahrefs Keyword Generator")
 
-Similar to Google Keyword Planner, this tool outputs keyword search volume. Why this tool is essential is that you can segment keywords by Google, Bing, YouTube, and Amazon 
+Similar to Google Keyword Planner, this tool outputs keyword search volume. Why this tool is essential is that you can segment keywords by Google, Bing, YouTube, and Amazon
 
-Answer the Public
+### [Answer the Public](https://answerthepublic.com/ "Answer the Public")
+
+In my article, "[The S.M.A.R.T Way to Find Content Ideas for Your Blog](https://markdfleming.com/the-smart-way-to-find-content-ideas-for-your-blog/ "The S.M.A.R.T Way to Find Content Ideas for Your Blog")," I discuss the power of researching keywords for ideas. Answer the Public visualizes these ideas by showing what consumers are searching for.
 
 * Ubersuggest
 * Google Search (fill-in)
