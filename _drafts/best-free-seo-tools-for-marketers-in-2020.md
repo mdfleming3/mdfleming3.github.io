@@ -69,8 +69,12 @@ Curious about what's trending? Google Trends provides visualizations of Google S
 
 ## Links
 
-* Ahref Backlink Checker [https://ahrefs.com/backlink-checker](https://ahrefs.com/backlink-checker "https://ahrefs.com/backlink-checker")
-* Broken Link Checker
+### [Ahrefs Backlink Checker](https://ahrefs.com/backlink-checker "Ahrefs Backlink Checker")
+
+Backlinks are a very important part of SEO; the quality and quantity of links directed to your site is the fastest way to increase your domain authority. Along with Google Search Console, the best tool for checking these links is the Ahref Backlink Checker. 
+
+Broken Link Checker
+
 * Disavow [https://www.google.com/webmasters/tools/disavow-links-main](https://www.google.com/webmasters/tools/disavow-links-main "https://www.google.com/webmasters/tools/disavow-links-main")
 
 ## Specialty Tools:
