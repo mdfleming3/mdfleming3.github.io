@@ -47,19 +47,21 @@ SEOlyzer is a tool that allows you to visualize and analyze log analysis and mon
 
 Moz's Keyword Explorer allows users to explore search engine results by keywords. This allows you to see what pages are ranking for a set keyword and if it is possible for your website to even have a chance at ranking. Additionally, this Swiss Army knife of a tool allows for top notch keyword and link research.
 
+### [Ubersuggest](https://neilpatel.com/ubersuggest/ "Ubersuggest")
+
+Ubersuggest provides a traffic analyzer, SEO analyzer, and keywords/content idea generator tool. This makes the destination a great one-stop destination for keyword research and competitive analysis.
+
 ### [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner")
 
 This tool is typically used for keyword research when running PPC campaigns, but it can be hugely useful for content writers looking for long-string keywords. Search for a keyword idea, and you will receive a list of related keywords with average monthly searches and level of competition. This can all be easily exported.
 
 ### [Ahrefs Keyword Generator](https://ahrefs.com/keyword-generator "Ahrefs Keyword Generator")
 
-Similar to Google Keyword Planner, this tool outputs keyword search volume. Why this tool is essential is that you can segment keywords by Google, Bing, YouTube, and Amazon
+Similar to Google Keyword Planner, this tool outputs keyword search volume. Why this tool is essential is that you can segment keywords by Google, Bing, YouTube, and Amazon.
 
 ### [Answer the Public](https://answerthepublic.com/ "Answer the Public")
 
 In my article, "[The S.M.A.R.T Way to Find Content Ideas for Your Blog](https://markdfleming.com/the-smart-way-to-find-content-ideas-for-your-blog/ "The S.M.A.R.T Way to Find Content Ideas for Your Blog")," I discuss the power of paying attention to Google's fill-in feature. Answer the Public is like Google's fill-in feature on steroids. It visualizes consumers searches in a way that makes creating headings and blog posts a breeze.
-
-Ubersuggest
 
 * Google Trends
 
