@@ -37,6 +37,8 @@ Google Search Console allows webmasters to measure search traffic and performanc
 
 SpyFu is a competitive analysis that allows you to search for competitors websites, see their traffic, and download their keywords. This can quickly help you spy on competitors PPC strategy and SEO tactics.
 
+![Spyfu]({{ site.baseurl }}/assets/spyfu.png)
+
 ### [SEOlyzer](https://seolyzer.io/ "SEOlyzer")
 
 SEOlyzer is a tool that allows you to visualize and analyze log analysis and monitor SEO KPIs in real time.
@@ -99,7 +101,7 @@ This simply tests how fast a website operates and shows what is slowing down.
 
 Are there any errors with your mobile-friendly website? This will let you know.
 
-[Tiny PNG](https://tinypng.com/ "Tiny PNG")
+### [Tiny PNG](https://tinypng.com/ "Tiny PNG")
 
 One of the main reasons for a slow website is that your PNG and JPG files are not compressed for the web. This tool will compress your images without jeopardizing quality. I use it for every image I upload.
 
