@@ -51,6 +51,8 @@ Moz's Keyword Explorer allows users to explore search engine results by keywords
 
 Ubersuggest provides a traffic analyzer, SEO analyzer, and keywords/content idea generator tool. This makes the destination a great one-stop destination for keyword research and competitive analysis.
 
+![](assets/neil-patel.png)
+
 ### [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner")
 
 This tool is typically used for keyword research when running PPC campaigns, but it can be hugely useful for content writers looking for long-string keywords. Search for a keyword idea, and you will receive a list of related keywords with average monthly searches and level of competition. This can all be easily exported.
@@ -83,11 +85,21 @@ If you have many spammy links directed to your website, this can hurt your SEO r
 
 ## Specialty Tools:
 
-* Local SEO: Google My Business
-* Page Speed: Google Page Speed Insights [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/ "https://developers.google.com/speed/pagespeed/insights/")
-* Mobile: Google Mobile Test
-* Rich Results Test:
-* Tiny PNG
+Local SEO: Google My Business
+
+Page Speed: Google Page Speed Insights 
+
+![](assets/page-speed.png)
+
+[https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/ "https://developers.google.com/speed/pagespeed/insights/")
+
+Mobile: Google Mobile Test
+
+Rich Results Test:
+
+Tiny PNG
+
+Chrome Add-ons
 
 ## Chrome Add-ons:
 
