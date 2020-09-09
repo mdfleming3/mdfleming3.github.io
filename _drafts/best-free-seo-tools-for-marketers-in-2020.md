@@ -11,7 +11,7 @@ category: blog
 tags: seo digital-marketing analytics website
 
 ---
-In my [ELI5 Guide to SEO](https://markdfleming.com/eli5-guide-search-engine-optimization-seo/ "ELI5 Guide to SEO"), I discussed the factors that are important to a businesses on-page and off-page performance. MarTech companies are constantly pitching software that can improve these tools to small businesses. While many of these tools are excellent, there are hundreds of powerful FREE tools on the internet that can optimize your SEO performance. I will highlight the tools that I feel are your best resource in 2020.
+In my [ELI5 Guide to SEO](https://markdfleming.com/eli5-guide-search-engine-optimization-seo/ "ELI5 Guide to SEO"), I discussed the factors that are important to a business's on-page and off-page performance. MarTech companies are constantly pitching software that can improve these tools to small businesses. While many of these tools are excellent, there are hundreds of powerful FREE tools that can optimize your SEO performance. I will highlight the tools that I feel are your best resource in 2020.
 
 ## On-Page SEO
 
@@ -71,11 +71,15 @@ Curious about what's trending? Google Trends provides visualizations of Google S
 
 ### [Ahrefs Backlink Checker](https://ahrefs.com/backlink-checker "Ahrefs Backlink Checker")
 
-Backlinks are a very important part of SEO; the quality and quantity of links directed to your site is the fastest way to increase your domain authority. Along with Google Search Console, the best tool for checking these links is the Ahref Backlink Checker. 
+Backlinks are a very important part of SEO; the quality and quantity of links directed to your site is the fastest way to increase your domain authority. Along with Google Search Console, the best tool for checking these links is the Ahref Backlink Checker.
 
-Broken Link Checker
+### [Broken Link Checker](https://www.brokenlinkcheck.com/#)
 
-* Disavow [https://www.google.com/webmasters/tools/disavow-links-main](https://www.google.com/webmasters/tools/disavow-links-main "https://www.google.com/webmasters/tools/disavow-links-main")
+This tool allows you to identify which pages on your website have broken links. Since broken links penalize your SEO ranking, this tool allows you to run periodic audits.
+
+### [Disavow Links Tool](https://www.google.com/webmasters/tools/disavow-links-main "Disavow Links Tool")
+
+If you have many spammy links directed to your website, this can hurt your SEO ranking. Removing these links is not the easily task for a marketer, so Google Search Engine's Disavow tool allows you to easily remove unwanted links.
 
 ## Specialty Tools:
 
