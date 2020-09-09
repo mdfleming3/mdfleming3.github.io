@@ -11,7 +11,7 @@ category: blog
 tags: seo digital-marketing analytics website
 
 ---
-In my [ELI5 Guide to SEO](https://markdfleming.com/eli5-guide-search-engine-optimization-seo/ "ELI5 Guide to SEO"), I discussed the factors that are important to a business's on-page and off-page performance. MarTech companies are constantly pitching software that can improve these tools to small businesses. While many of these tools are excellent, there are hundreds of powerful FREE tools that can optimize your SEO performance. I will highlight the tools that I feel are your best resource in 2020.
+In my [ELI5 Guide to SEO](https://markdfleming.com/eli5-guide-search-engine-optimization-seo/ "ELI5 Guide to SEO"), I discussed the factors that are important to a business's on-page and off-page SEO performance. MarTech companies are constantly pitching software that can improve these tools to small businesses. While many of these tools are excellent, there are hundreds of powerful FREE tools that can optimize your SEO performance. I will highlight the tools that I feel are your best resources in 2020.
 
 ## On-Page SEO
 
@@ -27,7 +27,7 @@ Browseo is a no-frills program that shows you what data a search engine is colle
 
 ### [Google Analytics](https://analytics.google.com/ "Google Analytics")
 
-Google's flagship website tool that tracks everything you need to know. This is an essential tool. If you do not have this hooked up, you are not only missing out on valuable data, your SEO is likely penalized.
+Google's flagship website analytics tool tracks everything you need to know about your website's traffic. If you do not have this hooked up, you are not only missing out on valuable data, your SEO is likely penalized.
 
 ### [Google Search Console](https://search.google.com/search-console/about "Google Search Console")
 
@@ -35,7 +35,7 @@ Google Search Console allows webmasters to measure search traffic and performanc
 
 ### [SpyFu](https://www.spyfu.com/)
 
-SpyFu is a competitive analysis that allows you to search for competitors websites, see their traffic, and download their keywords. This can quickly help you spy on competitors PPC strategy and SEO tactics.
+SpyFu is a competitive analysis tool that allows you to search for competitors websites, see their traffic, and download their keywords. This can quickly help you spy on competitors PPC strategy and SEO tactics.
 
 ![Spyfu]({{ site.baseurl }}/assets/spyfu.png)
 
@@ -51,13 +51,13 @@ Moz's Keyword Explorer allows users to explore search engine results by keywords
 
 ### [Ubersuggest](https://neilpatel.com/ubersuggest/ "Ubersuggest")
 
-Ubersuggest provides a traffic analyzer, SEO analyzer, and keywords/content idea generator tool. This makes the destination a great one-stop destination for keyword research and competitive analysis.
+Ubersuggest provides a traffic analyzer, SEO analyzer, and keywords/content idea generator tool. This makes the destination a great one-stop stop for keyword research and competitive analysis.
 
 ![Ubersuggest]({{ site.baseurl }}/assets/neil-patel.png)
 
 ### [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner")
 
-This tool is typically used for keyword research when running PPC campaigns, but it can be hugely useful for content writers looking for long-string keywords. Search for a keyword idea, and you will receive a list of related keywords with average monthly searches and level of competition. This can all be easily exported.
+This tool is typically used for keyword research when running PPC campaigns, but it can be hugely useful for content writers looking for long-string keywords. Search for a keyword idea, and you will receive a list of related keywords with average monthly searches and level of competition. 
 
 ### [Ahrefs Keyword Generator](https://ahrefs.com/keyword-generator "Ahrefs Keyword Generator")
 
@@ -69,17 +69,17 @@ In my article, "[The S.M.A.R.T Way to Find Content Ideas for Your Blog](https://
 
 ### [Google Trends](https://trends.google.com/trends/ "Google Trends")
 
-Curious about what's trending? Google Trends provides visualizations of Google Search volume over time. While not as targeted as some of the keyword planner platforms, I think this is an essential tool for looking at the big picture when creating content.
+Curious about what's trending? Google Trends provides visualizations of Google Search volume over time. While not as targeted as some of the keyword planner platforms, I think this is an essential tool for looking at the big picture when creating in demand content.
 
 ## Links
 
 ### [Ahrefs Backlink Checker](https://ahrefs.com/backlink-checker "Ahrefs Backlink Checker")
 
-Backlinks are a very important part of SEO; the quality and quantity of links directed to your site is the fastest way to increase your domain authority. Along with Google Search Console, the best tool for checking these links is the Ahref Backlink Checker.
+Backlinks are a very important part of SEO; the quality and quantity of links directed to your site is the fastest way to increase your domain authority. Along with Google Search Console, the best tool for checking these links is the Ahrefs Backlink Checker.
 
 ### [Broken Link Checker](https://www.brokenlinkcheck.com/#)
 
-This tool allows you to identify which pages on your website have broken links. Since broken links penalize your SEO ranking, this tool allows you to run periodic audits.
+This tool allows you to identify which pages on your website have dead links. Since broken links penalize your SEO ranking, this tool allows you to run periodic audits.
 
 ### [Disavow Links Tool](https://www.google.com/webmasters/tools/disavow-links-main "Disavow Links Tool")
 
@@ -89,11 +89,11 @@ If you have many spammy links directed to your website, this can hurt your SEO r
 
 ### [Google My Business](https://www.google.com/business/ "Google My Business")
 
-Google's flagship tool for local SEO. While this a central component of many local destinations, restaurants, and attractions – operating a Google My Business profile will boost any business's SEO ranking.
+Google's flagship tool for local SEO. While this a central digital component for many local destinations, restaurants, and attractions – operating a Google My Business profile will boost any business's SEO ranking.
 
 ### [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/ "Google PageSpeed Insights")
 
-This simply tests how fast a website operates and shows what is slowing down. 
+This simply tests how fast a website operates and what is preventing the site from performing at max speed.
 
 ![Google Page Speed]({{ site.baseurl }}/assets/page-speed.png)
 
@@ -103,7 +103,7 @@ Are there any errors with your mobile-friendly website? This will let you know.
 
 ### [Tiny PNG](https://tinypng.com/ "Tiny PNG")
 
-One of the main reasons for a slow website is that your PNG and JPG files are not compressed for the web. This tool will compress your images without jeopardizing quality. I use it for every image I upload.
+One of the main reasons for a slow website is that your PNG and JPG files are not compressed for the web. This tool will compress your images without jeopardizing quality. I use it for every image I upload to my blog.
 
 ### [Chrome Web Store Add-ons](https://chrome.google.com/webstore/search/SEO?hl=en "Chrome Web Store - SEO")
 
