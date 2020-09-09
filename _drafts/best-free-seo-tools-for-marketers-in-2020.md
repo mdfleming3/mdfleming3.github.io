@@ -41,7 +41,7 @@ SpyFu is a competitive analysis that allows you to search for competitors websit
 
 SEOlyzer is a tool that allows you to visualize and analyze log analysis and monitor SEO KPIs in real time.
 
-## Keyword Research:
+## Keyword Research
 
 ### [Moz Keyword Explorer](https://moz.com/explorer "Moz Keyword Explorer")
 
@@ -83,7 +83,7 @@ This tool allows you to identify which pages on your website have broken links. 
 
 If you have many spammy links directed to your website, this can hurt your SEO ranking. Removing these links is not the easily task for a marketer, so Google Search Engine's Disavow tool allows you to easily remove unwanted links.
 
-## Specialty Tools:
+## Specialty Tools
 
 Local SEO: Google My Business
 
