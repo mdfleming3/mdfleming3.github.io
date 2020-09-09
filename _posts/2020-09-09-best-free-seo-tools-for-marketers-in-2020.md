@@ -11,7 +11,7 @@ category: blog
 tags: seo digital-marketing analytics website
 
 ---
-In my [ELI5 Guide to SEO](https://markdfleming.com/eli5-guide-search-engine-optimization-seo/ "ELI5 Guide to SEO"), I discussed the factors that are important to a business's on-page and off-page SEO performance. MarTech companies are constantly pitching software that can improve these tools for small businesses. While many of these tools are excellent, there are hundreds of powerful FREE tools that can optimize your SEO performance. 
+In my [ELI5 Guide to SEO](https://markdfleming.com/eli5-guide-search-engine-optimization-seo/ "ELI5 Guide to SEO"), I discussed the factors that are important to a business's on-page and off-page SEO performance. MarTech companies are constantly pitching software that can improve these tools for small businesses. While many of these tools are excellent, there are hundreds of powerful FREE tools that can optimize your SEO performance.
 
 ## On-Page SEO
 
@@ -51,13 +51,13 @@ Moz Keyword Explorer allows users to explore search engine results by keywords. 
 
 ### [Ubersuggest](https://neilpatel.com/ubersuggest/ "Ubersuggest")
 
-Ubersuggest provides a traffic analyzer, SEO analyzer, and keywords/content idea generator tool. This makes the destination a great one-stop stop for keyword research and competitive analysis.
+Ubersuggest provides a traffic analyzer, SEO analyzer, and keywords/content idea generator tool. This makes the destination a great one-stop-shop for keyword research and competitive analysis.
 
 ![Ubersuggest]({{ site.baseurl }}/assets/neil-patel.png)
 
 ### [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner")
 
-Google Keyword Planner is typically used for keyword research when running PPC campaigns, but it can be useful for content writers that are searching for long-string keywords. Search for a keyword idea, and you will receive a list of related keywords with average monthly searches and level of competition. 
+Google Keyword Planner is typically used for keyword research when running PPC campaigns, but it can be useful for content writers that are searching for long-string keywords. Search for a keyword idea, and you will receive a list of related keywords with average monthly searches and level of competition.
 
 ### [Ahrefs Keyword Generator](https://ahrefs.com/keyword-generator "Ahrefs Keyword Generator")
 
@@ -65,7 +65,7 @@ Think of Google Keyword Planner with a big bonus – you can segment keywords by
 
 ### [Answer the Public](https://answerthepublic.com/ "Answer the Public")
 
-In my article, "[The S.M.A.R.T Way to Find Content Ideas for Your Blog](https://markdfleming.com/the-smart-way-to-find-content-ideas-for-your-blog/ "The S.M.A.R.T Way to Find Content Ideas for Your Blog")," I discuss the power of using Google's fill-in feature. Answer the Public is even more powerful. It visualizes consumers searches in a way that makes creating in demand headings and blog posts a breeze.
+In my article, "[The S.M.A.R.T Way to Find Content Ideas for Your Blog](https://markdfleming.com/the-smart-way-to-find-content-ideas-for-your-blog/ "The S.M.A.R.T Way to Find Content Ideas for Your Blog")," I discuss the power of using Google's fill-in feature. Answer the Public is even more powerful. It visualizes consumer searches in a way that makes creating in demand headings and blog posts a breeze.
 
 ### [Google Trends](https://trends.google.com/trends/ "Google Trends")
 
@@ -89,7 +89,7 @@ If you have too many spammy links directed to your website, this can hurt your S
 
 ### [Google My Business](https://www.google.com/business/ "Google My Business")
 
-Google's flagship tool for local SEO. While this a vital digital marketing component for many local destinations, restaurants, and attractions – operating a Google My Business profile will boost any business's SEO ranking.
+Google's flagship tool for local SEO. While this is a vital digital marketing component for many local destinations, restaurants, and attractions – operating a Google My Business profile will boost any business's SEO ranking.
 
 ### [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/ "Google PageSpeed Insights")
 
