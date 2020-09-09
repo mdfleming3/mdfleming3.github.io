@@ -11,17 +11,17 @@ category: blog
 tags: seo digital-marketing analytics website
 
 ---
-In my [ELI5 Guide to SEO](https://markdfleming.com/eli5-guide-search-engine-optimization-seo/ "ELI5 Guide to SEO"), I discussed the factors that are important to a business's on-page and off-page SEO performance. MarTech companies are constantly pitching software that can improve these tools to small businesses. While many of these tools are excellent, there are hundreds of powerful FREE tools that can optimize your SEO performance. I will highlight the tools that I feel are your best resources in 2020.
+In my [ELI5 Guide to SEO](https://markdfleming.com/eli5-guide-search-engine-optimization-seo/ "ELI5 Guide to SEO"), I discussed the factors that are important to a business's on-page and off-page SEO performance. MarTech companies are constantly pitching software that can improve these tools for small businesses. While many of these tools are excellent, there are hundreds of powerful FREE tools that can optimize your SEO performance. 
 
 ## On-Page SEO
 
 ### [Woorank](https://www.woorank.com/ "Woorank")
 
-Woorank is an analysis tool that provides simple and easy to interpret analysis of your on-page SEO data. If you are looking for a macro view of your website's performance, I feel this is the definitive tool.
+Woorank is an analysis tool that provides simple and easy-to-interpret analysis of your on-page SEO data. If you are looking for a macro view of your website's performance, this is the definitive tool.
 
 ### [Browseo](https://www.browseo.net/ "Browseo")
 
-Browseo is a no-frills program that shows you what data a search engine is collecting from a webpage. It is an excellent tool for competitive research and troubleshooting SEO for individual pages.
+Browseo is a no-frills program that shows you what data a search engine collects from a webpage. It is best used for competitive research and troubleshooting SEO for individual pages.
 
 ## Analytics
 
@@ -31,11 +31,11 @@ Google's flagship website analytics tool tracks everything you need to know abou
 
 ### [Google Search Console](https://search.google.com/search-console/about "Google Search Console")
 
-Google Search Console allows webmasters to measure search traffic and performance, fix issues, and optimize indexing for webpages. Since this data directly impacts your search engine rank, this is another essential tool from Google.
+Google Search Console allows webmasters to measure search traffic and performance, fix issues, and optimize indexing for webpages. Since this data directly impacts your search engine rank, this is another essential Google tool.
 
 ### [SpyFu](https://www.spyfu.com/)
 
-SpyFu is a competitive analysis tool that allows you to search for competitors websites, see their traffic, and download their keywords. This can quickly help you spy on competitors PPC strategy and SEO tactics.
+SpyFu is a competitive analysis tool that allows you to search for competitors' websites, see their traffic, and download their keywords. This can quickly help you spy on competitors' PPC strategy and SEO tactics.
 
 ![Spyfu]({{ site.baseurl }}/assets/spyfu.png)
 
@@ -47,7 +47,7 @@ SEOlyzer is a tool that allows you to visualize and analyze log analysis and mon
 
 ### [Moz Keyword Explorer](https://moz.com/explorer "Moz Keyword Explorer")
 
-Moz's Keyword Explorer allows users to explore search engine results by keywords. This allows you to see what pages are ranking for a set keyword and if it is possible for your website to even have a chance at ranking. Additionally, this Swiss Army knife of a tool allows for top notch keyword and link research.
+Moz Keyword Explorer allows users to explore search engine results by keywords. This allows you to see what pages are ranking for a set keyword and if it is possible for your website to even have a chance at ranking. Additionally, this do-it-all tool offers top notch keyword and link research.
 
 ### [Ubersuggest](https://neilpatel.com/ubersuggest/ "Ubersuggest")
 
@@ -57,39 +57,39 @@ Ubersuggest provides a traffic analyzer, SEO analyzer, and keywords/content idea
 
 ### [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner")
 
-This tool is typically used for keyword research when running PPC campaigns, but it can be hugely useful for content writers looking for long-string keywords. Search for a keyword idea, and you will receive a list of related keywords with average monthly searches and level of competition. 
+Google Keyword Planner is typically used for keyword research when running PPC campaigns, but it can be useful for content writers that are searching for long-string keywords. Search for a keyword idea, and you will receive a list of related keywords with average monthly searches and level of competition. 
 
 ### [Ahrefs Keyword Generator](https://ahrefs.com/keyword-generator "Ahrefs Keyword Generator")
 
-Similar to Google Keyword Planner, this tool outputs keyword search volume. Why this tool is essential is that you can segment keywords by Google, Bing, YouTube, and Amazon.
+Think of Google Keyword Planner with a big bonus – you can segment keywords by Google, Bing, YouTube, and Amazon.
 
 ### [Answer the Public](https://answerthepublic.com/ "Answer the Public")
 
-In my article, "[The S.M.A.R.T Way to Find Content Ideas for Your Blog](https://markdfleming.com/the-smart-way-to-find-content-ideas-for-your-blog/ "The S.M.A.R.T Way to Find Content Ideas for Your Blog")," I discuss the power of paying attention to Google's fill-in feature. Answer the Public is like Google's fill-in feature on steroids. It visualizes consumers searches in a way that makes creating headings and blog posts a breeze.
+In my article, "[The S.M.A.R.T Way to Find Content Ideas for Your Blog](https://markdfleming.com/the-smart-way-to-find-content-ideas-for-your-blog/ "The S.M.A.R.T Way to Find Content Ideas for Your Blog")," I discuss the power of using Google's fill-in feature. Answer the Public is even more powerful. It visualizes consumers searches in a way that makes creating in demand headings and blog posts a breeze.
 
 ### [Google Trends](https://trends.google.com/trends/ "Google Trends")
 
-Curious about what's trending? Google Trends provides visualizations of Google Search volume over time. While not as targeted as some of the keyword planner platforms, I think this is an essential tool for looking at the big picture when creating in demand content.
+Curious about what's trending? Google Trends provides visualizations of Google Search volume over time. While not as targeted as some keyword planner platforms, this is an essential tool for looking at the big picture of in demand content and keywords.
 
 ## Links
 
 ### [Ahrefs Backlink Checker](https://ahrefs.com/backlink-checker "Ahrefs Backlink Checker")
 
-Backlinks are a very important part of SEO; the quality and quantity of links directed to your site is the fastest way to increase your domain authority. Along with Google Search Console, the best tool for checking these links is the Ahrefs Backlink Checker.
+The quality and quantity of backlinks directed to your site is the fastest way to increase your domain authority. Along with Google Search Console, this is a must-have tool for analyzing a website's backlinks.
 
 ### [Broken Link Checker](https://www.brokenlinkcheck.com/#)
 
-This tool allows you to identify which pages on your website have dead links. Since broken links penalize your SEO ranking, this tool allows you to run periodic audits.
+This tool allows you to identify which pages on your website have dead links. Since broken links penalize your SEO ranking, this tool allows you to run periodic link audits.
 
 ### [Disavow Links Tool](https://www.google.com/webmasters/tools/disavow-links-main "Disavow Links Tool")
 
-If you have many spammy links directed to your website, this can hurt your SEO ranking. Removing these links is not the easily task for a marketer, so Google Search Engine's Disavow tool allows you to easily remove unwanted links.
+If you have too many spammy links directed to your website, this can hurt your SEO ranking. Google's Disavow Link Tool allows you to easily remove unwanted backlinks.
 
 ## Specialty Tools
 
 ### [Google My Business](https://www.google.com/business/ "Google My Business")
 
-Google's flagship tool for local SEO. While this a central digital component for many local destinations, restaurants, and attractions – operating a Google My Business profile will boost any business's SEO ranking.
+Google's flagship tool for local SEO. While this a vital digital marketing component for many local destinations, restaurants, and attractions – operating a Google My Business profile will boost any business's SEO ranking.
 
 ### [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/ "Google PageSpeed Insights")
 
@@ -103,11 +103,11 @@ Are there any errors with your mobile-friendly website? This will let you know.
 
 ### [Tiny PNG](https://tinypng.com/ "Tiny PNG")
 
-One of the main reasons for a slow website is that your PNG and JPG files are not compressed for the web. This tool will compress your images without jeopardizing quality. I use it for every image I upload to my blog.
+PNG and JPG images that are not compressed for the web will slow down your website. This tool will compress your images without jeopardizing quality. I use it for every image I upload to my blog to keep it operating at top speed.
 
 ### [Chrome Web Store Add-ons](https://chrome.google.com/webstore/search/SEO?hl=en "Chrome Web Store - SEO")
 
-If you are using the Chrome browser, which I would recommend for all SEO-focused marketers, test out some of the SEO add-ons. These can provide very powerful tools that you can access immediately. Many marketers have found great success with these; however, I have noticed they image your browser performance. Anyhow, here are a few popular tools:
+If you are using the Chrome browser, test out some of the SEO add-ons. Many marketers find great success with these; however, I have noticed they impact your browser performance. Popular tools I have enjoyed in the past include:
 
 * [MozBar](https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp?hl=en "MozBar")
 * [Ahrefs SEO Toolbar](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar/hgmoccdbjhknikckedaaebbpdeebhiei?hl=en "Ahrefs SEO")
