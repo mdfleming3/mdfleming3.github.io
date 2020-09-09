@@ -85,9 +85,13 @@ If you have many spammy links directed to your website, this can hurt your SEO r
 
 ## Specialty Tools
 
-Local SEO: Google My Business
+### [Google My Business](https://www.google.com/business/ "Google My Business")
 
-Page Speed: Google Page Speed Insights 
+Google's flagship tool for local SEO. While this a central component of many local destinations, restaurants, and attractions – operating a Google My Business profile will boost any business's SEO ranking.
+
+[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/ "Google PageSpeed Insights")
+
+This simply tests how fast your website operates and shows what is slowing down.
 
 ![Google Page Speed]({{ site.baseurl }}/assets/page-speed.png)
 
