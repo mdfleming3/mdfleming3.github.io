@@ -51,7 +51,7 @@ Moz's Keyword Explorer allows users to explore search engine results by keywords
 
 Ubersuggest provides a traffic analyzer, SEO analyzer, and keywords/content idea generator tool. This makes the destination a great one-stop destination for keyword research and competitive analysis.
 
-![](assets/neil-patel.png)
+![Ubersuggest]({{ site.baseurl }}/assets/neil-patel.png)
 
 ### [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/ "Google Keyword Planner")
 
@@ -89,7 +89,7 @@ Local SEO: Google My Business
 
 Page Speed: Google Page Speed Insights 
 
-![](assets/page-speed.png)
+![Google Page Speed]({{ site.baseurl }}/assets/page-speed.png)
 
 [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/ "https://developers.google.com/speed/pagespeed/insights/")
 
