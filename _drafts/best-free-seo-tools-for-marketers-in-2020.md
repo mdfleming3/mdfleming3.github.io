@@ -89,24 +89,24 @@ If you have many spammy links directed to your website, this can hurt your SEO r
 
 Google's flagship tool for local SEO. While this a central component of many local destinations, restaurants, and attractions – operating a Google My Business profile will boost any business's SEO ranking.
 
-[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/ "Google PageSpeed Insights")
+### [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/ "Google PageSpeed Insights")
 
-This simply tests how fast your website operates and shows what is slowing down.
+This simply tests how fast a website operates and shows what is slowing down. 
 
 ![Google Page Speed]({{ site.baseurl }}/assets/page-speed.png)
 
-[https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/ "https://developers.google.com/speed/pagespeed/insights/")
+### [Google Mobile-Friendly Test](https://search.google.com/test/mobile-friendly "Google Mobile-Friendly Test")
 
-Mobile: Google Mobile Test
+Are there any errors with your mobile-friendly website? This will let you know.
 
-Rich Results Test:
+[Tiny PNG](https://tinypng.com/ "Tiny PNG")
 
-Tiny PNG
+One of the main reasons for a slow website is that your PNG and JPG files are not compressed for the web. This tool will compress your images without jeopardizing quality. I use it for every image I upload.
 
-Chrome Add-ons
+### [Chrome Web Store Add-ons](https://chrome.google.com/webstore/search/SEO?hl=en "Chrome Web Store - SEO")
 
-## Chrome Add-ons:
+If you are using the Chrome browser, which I would recommend for all SEO-focused marketers, test out some of the SEO add-ons. These can provide very powerful tools that you can access immediately. Many marketers have found great success with these; however, I have noticed they image your browser performance. Anyhow, here are a few popular tools:
 
-* MozBar
-* Ahrefs SEO Toolbar
-* Alexa
+* [MozBar](https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp?hl=en "MozBar")
+* [Ahrefs SEO Toolbar](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar/hgmoccdbjhknikckedaaebbpdeebhiei?hl=en "Ahrefs SEO")
+* [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en "Alexa Traffic Rank")
