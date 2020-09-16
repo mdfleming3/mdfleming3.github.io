@@ -45,6 +45,8 @@ The text enclosed in the curly brackets is the variable that will be automated. 
 
 Once completed, save your document.
 
+{% include inline-contact.html %}
+
 ## Step 3: Creating Google Sheets Document:
 
 Go to [Google Sheets](https://docs.google.com/spreadsheets/?usp=mkt_sheets).
