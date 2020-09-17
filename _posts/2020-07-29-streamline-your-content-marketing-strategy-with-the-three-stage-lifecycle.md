@@ -53,6 +53,8 @@ This stage begins when content is distributed, and it ends once new ideas for re
 * Analysis of performance metrics
 * Cross-promotion with other posts
 
+{% include inline-contact.html %}
+
 ## Why the three stage content marketing lifecycle works
 
 ### Simplification
