@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best Free SEO Tools for Marketers in 2020
-date: 2020-09-09 07:00:00 -0500
+date: 2020-09-09T07:00:00.000-05:00
 author: Mark Fleming
 description: The best SEO tools in 2020 for analytics, on page, off page, links, keyword
   research, performance, and business success.
@@ -70,6 +70,8 @@ In my article, "[The S.M.A.R.T Way to Find Content Ideas for Your Blog](https://
 ### [Google Trends](https://trends.google.com/trends/ "Google Trends")
 
 Curious about what's trending? Google Trends provides visualizations of Google Search volume over time. While not as targeted as some keyword planner platforms, this is an essential tool for looking at the big picture of in demand content and keywords.
+
+{% include inline-contact.html %}
 
 ## Links
 
