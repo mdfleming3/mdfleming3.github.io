@@ -390,7 +390,8 @@ In-line Text
 .in-text-subscribe {
   background-color: $border-color-01;
   width: 90%;
-  padding: 5%;
+  padding: 2%;
+  border-radius:4px;
 }
 
 #mc_embed_signup form {display:block; position:relative; text-align:left; padding:10px 0 10px 3%}
@@ -418,7 +419,7 @@ In-line Text
 #mc_embed_signup .datefield label, #mc_embed_signup .phonefield-us label{display:none;}
 
 #mc_embed_signup .indicates-required {text-align:right; font-size:11px; margin-right:4%;}
-#mc_embed_signup .asterisk {color:#e85c41; font-size:150%; font-weight:normal; position:relative; top:5px;}     
+#mc_embed_signup .asterisk {color:#e85c41; font-size:150%; font-weight:normal; position:relative; top:5px;}
 #mc_embed_signup .clear {clear:both;}
 
 #mc_embed_signup .mc-field-group.input-group ul {margin:0; padding:5px 0; list-style:none;}
@@ -438,4 +439,3 @@ In-line Text
 
 #mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {display:inline-block; margin:2px 0 1em 0; padding:5px 10px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; font-size:14px; font-weight:normal; z-index:1; color:#e85c41;}
 #mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {border:2px solid #e85c41;}
-
