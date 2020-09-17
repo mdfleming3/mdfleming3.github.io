@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Dictation Can Strengthen Your Brand Voice
-date: 2020-09-02 11:00:00 -0500
+date: 2020-09-02T11:00:00.000-05:00
 author: Mark Fleming
 description: Dictation is a simple and creative tool for building your company's brand
   voice. This article provides several tips for making your content more authentic.
@@ -48,11 +48,13 @@ A similar craft that walks this fine line between speech and writing is screenwr
 
 **Practice Tip:** Type a piece of branded content. Step away from that content for at least 30 minutes. Use dictation to speak the same content from memory. Compare the two. What's different? Why is that different?
 
+{% include inline-contact.html %}
+
 ### Using the Tool to Collect Stories
 
 Some of the most successful marketers I know have the ability to turn business leaders' statements and buzz words into great pieces of content. Think about it. Did anybody use the terms "speaking offline" or "bandwidth" before starting their careers? No. Some businessperson once coined these phrases, and the rest is history. For your brand, try to find these types of phrases while speaking with the leaders at your company. These phrases can provide great insight into company culture, history, and the brand story.
 
-**Practice Tip:** Interview company leaders on crucial topics with Google Doc's dictation tool running in the background. The leaders' speech will be transcribed into writing. What words are emphasized consistently? How are products described? Are there inconsistencies? 
+**Practice Tip:** Interview company leaders on crucial topics with Google Doc's dictation tool running in the background. The leaders' speech will be transcribed into writing. What words are emphasized consistently? How are products described? Are there inconsistencies?
 
 This practice tips is an effective way of auditing the status quo of your company. If the tone of your current content does not match the text collected from dictation, you will have a rough sketch of what needs to be fixed.
 
