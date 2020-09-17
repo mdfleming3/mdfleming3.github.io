@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Spot a Phony Instagram Influencer
-date: 2020-08-19 10:00:00 -0500
+date: 2020-08-19T10:00:00.000-05:00
 author: Mark Fleming
 description: How can you tell whether an Instagram influencer is legitimate or fake?
   Use these free metrics and signs to identify red flags.
@@ -68,6 +68,8 @@ Kylie Jenner is one of Instagram's biggest influencers with nearly 200 million f
 An easy way to survey this traffic is by comparing traffic across social media platforms. For Kylie Jenner, she has many millions of followers across Facebook, Twitter, YouTube, etc. Even if she has several million fake followers, her influence is immense across platforms.
 
 This may not be the case for phony mid-size and micro influencers. Before hiring an influencer, companies should audit all of an influencer's accounts. Disproportionate followings for a single account may be a red flag.
+
+{% include inline-contact.html %}
 
 ## Be Careful with Engagement Rate
 
