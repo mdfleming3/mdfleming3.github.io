@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The S.M.A.R.T Way to Find Content Ideas for Your Blog
-date: 2020-08-26 11:00:00 -0500
+date: 2020-08-26T11:00:00.000-05:00
 author: Mark Fleming
 description: Trouble finding ideas for your blog posts? The S.M.A.R.T. way can help
   bloggers easily find hundreds of high ROI ideas in minutes.
@@ -40,6 +40,8 @@ To do this, track who is engaging with your content in email, social, or through
 There are dozens of RSS reader apps; I prefer [Feedly](https://feedly.com/ "Feedly"). These feeds are powerful because they allow you to access daily content from websites and news sources. These are great if you want to consolidate all your news sources into one automated place in lieu of slogging through Linkedin or Facebook. These feeds are even better if you want to streamline your competitive analysis.
 
 By incorporating both your business competition and SEO competition (those competing with you for target keywords), you can funnel all competitor content into one place. This can allow you to manage your feed in a more efficient manner, so it's easier to source new ideas and outdo your competition.
+
+{% include inline-contact.html %}
 
 ## Analytics, Baby!
 
