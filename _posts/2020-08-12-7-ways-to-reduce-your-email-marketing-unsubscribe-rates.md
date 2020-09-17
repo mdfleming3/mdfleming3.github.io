@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 Ways to Reduce Your Email Marketing Unsubscribe Rates
-date: 2020-08-12 00:00:00 -0500
+date: 2020-08-12T00:00:00.000-05:00
 author: Mark Fleming
 description: The main reasons people subscribe and unsubscribe from your email marketing
   campaigns—plus strategies for improvement.
@@ -55,6 +55,8 @@ Furthermore, what is the common thread between contacts on your mailing lists? A
 Remember my Dick's Sporting Goods story from earlier? After I received my coupon for discounted running shoes, I was subscribed to the company's mailing list. The next email I received from the company was for softball gear. I've never played softball, and I have no intention of starting anytime soon. The only interest I had in Dick's products were the coupon I received by signing up for the list. As so, I unsubscribed.
 
 This is a common problem for companies that build mailing lists by offering exclusive one-time offers. After a user subscribes, they get their incentive and bolt.
+
+{% include inline-contact.html %}
 
 ## How to Reduce Unsubscribe Rates
 
