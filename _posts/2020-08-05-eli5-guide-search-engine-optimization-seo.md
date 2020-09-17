@@ -121,6 +121,8 @@ At the time this article was published, over 50% of internet users are using mob
 
 To test if your website is mobile friendly, use [Google’s Mobile-Friendly Test](https://search.google.com/test/mobile-friendly).
 
+{% include inline-contact.html %}
+
 ### Structured Data
 
 #### Schema Markup
