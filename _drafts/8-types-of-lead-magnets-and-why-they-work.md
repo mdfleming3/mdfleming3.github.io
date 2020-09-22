@@ -7,9 +7,10 @@ description: ''
 image: assets/magnet.png
 image-alt: getting-started-with-lead-magnets
 category: blog
-tags: 'lead-generation content-marketing email-marketing '
+tags: lead-generation content-marketing email-marketing website
 
 ---
+
 ## What is a lead magnet?
 
 ## Common types of lead magnets?
