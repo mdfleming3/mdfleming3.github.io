@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Getting Started with Lead Magnets
 date: 2020-09-23 00:00:00 -0500
 author: Mark Fleming
