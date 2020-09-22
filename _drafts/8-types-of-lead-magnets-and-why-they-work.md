@@ -38,6 +38,8 @@ Companies frequently offer webinars that offer educational value, continuing edu
 * Consultation
 * Survey
 
+{% include inline-contact.html %}
+
 ## What are the traits of a good lead magnet?
 
 * Free
