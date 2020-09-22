@@ -12,7 +12,13 @@ tags: lead-generation content-marketing email-marketing website
 ---
 ## What is a lead magnet?
 
-A lead magnet is an incentive provided to potential customers for providing their contact information, such as name and email, through a company's website. This exchange works because both the company and the consumer gain something from the exchange. While the type of incentive can vary, there are common categories and traits that make some lead magnets better than others.
+A lead magnet is an incentive provided to potential customers for providing their contact information, such as name and email, through a company's website. This exchange works because both the company and the consumer gain something from the exchange. 
+
+The typical conversion path of a lead magnet looks like this:
+
+* Call to Action (CTA) - this is a tagline and a button that encourages customers to act on the lead magnet offer
+* Landing page - This is area where customers submit 
+* Thank You Page or Email - 
 
 ## Common types of lead magnets?
 
@@ -36,6 +42,8 @@ Companies frequently offer webinars that offer educational value, continuing edu
 
 This is your age old "7-day trial, if you don't like it you're aren't obligated to buy it" strategy. Customers get a free test run of a product, and the company obtains data on a more qualified lead than one that simply accessed content. With this lead magnet, companies must be careful not to give away full benefit of the product within the free trial timeframe. For example, I once used a thirty-day trial for Ancestry.com. For 30 days, I researched every one of my ancestors and exported all the dat. Once the 30 days were up, I never used the product again.
 
+{% include inline-contact.html %}
+
 ### Discount
 
 This is the exchange where someone subscribes to receive a monetary discount. For consumers this exchange of data for a discount is a great win and dollars saved. For marketers, this will generate many new leads, but they may not be long-lasting prospects as I discussed in my article, "[7 Ways to Reduce Your Email Marketing Unsubscribe Rates](https://markdfleming.com/7-ways-to-reduce-your-email-marketing-unsubscribe-rates/ "7 Ways to Reduce Your Email Marketing Unsubscribe Rates")."
@@ -48,11 +56,7 @@ As a sister to the free trial, the free consultation is a great option for leads
 
 Surveys can be used in many different ways. They can be used as a way for customers to submit a profile to the company, and they can be used for market research. In a research project I recently conducted, I shared a survey on social media and easily obtained several hundred names and emails. While I do not plan on using this data for lead generation, many companies do. Just make sure the contacts know this data will be used in the future.
 
-{% include inline-contact.html %}
-
 ## What are the traits of a good lead magnet?
-
-### Strong CTA
 
 Free
 
