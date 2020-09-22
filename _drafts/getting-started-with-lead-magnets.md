@@ -14,7 +14,13 @@ What is a lead magnet?
 
 Common types of lead magnets?
 
-Developing 
+* Free trial
+* Discount
+* Document / E-book / Case Study
+* Training
+* 
+
+Developing
 
 * Free
 * New
