@@ -6,8 +6,8 @@ author: Mark Fleming
 description: ''
 image: assets/magnet.png
 image-alt: getting-started-with-lead-magnets
-category: 'lead-generation content-marketing email-marketing '
-tags: blog
+category: blog
+tags: 'lead-generation content-marketing email-marketing '
 
 ---
 ## What is a lead magnet?
