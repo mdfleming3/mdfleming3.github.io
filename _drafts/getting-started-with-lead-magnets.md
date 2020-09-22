@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started with Lead Magnets
+title: 8 Types of Lead Magnets and Why they Work
 date: 2020-09-23 00:00:00 -0500
 author: Mark Fleming
 description: ''
@@ -14,11 +14,13 @@ tags: 'lead-generation content-marketing email-marketing '
 
 ## Common types of lead magnets?
 
-* Membership / App
+* App Permission
 * Training / Certification
-* Document / E-book / Case Study
+* Exclusive Access
+* Exclusive Content
 * Free trial
 * Discount
+* Consultation
 * Survey
 
 ## What are the traits of a good lead magnet?
@@ -26,6 +28,6 @@ tags: 'lead-generation content-marketing email-marketing '
 * Free
 * Exclusive / High Value
 * Functional
-* Immediate
+* Creates quick win
 * Evergreen / "Bookmarkable"
 * Trackable
