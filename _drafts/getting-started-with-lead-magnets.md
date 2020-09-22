@@ -10,22 +10,22 @@ category: 'lead-generation content-marketing email-marketing '
 tags: blog
 
 ---
-What is a lead magnet?
+## What is a lead magnet?
 
-Common types of lead magnets?
+## Common types of lead magnets?
 
+* Membership / App
+* Training / Certification
+* Document / E-book / Case Study
 * Free trial
 * Discount
-* Document / E-book / Case Study
-* Training
-* 
+* Survey
 
-Developing
+## What are the traits of a good lead magnet?
 
 * Free
-* New
+* Exclusive / High Value
 * Functional
-* Repeat Use
-* Evergreen
+* Immediate
+* Evergreen / "Bookmarkable"
 * Trackable
-* 
