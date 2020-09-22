@@ -22,7 +22,7 @@ The typical conversion path of a lead magnet looks like this:
 
 {% include inline-contact.html %}
 
-## Common types of lead magnets?
+## What are common types of lead magnets?
 
 ### App/Tool Permission
 
@@ -58,9 +58,13 @@ Surveys can be used in many different ways. They can be used as a way for custom
 
 ## What are the traits of a good lead magnet?
 
-Free
+### Free
+
+[Consumers are more skeptical of sharing their data]() than in years past, and they are savvy that lead magnets are designed to harvest this information. With this in mind, companies should not charge money for lead magnets, if they are hoping to get a big return on lead generation. The hurdle of getting a consumer to not only share information but then pay for some sort of information may cause a magnet to fail.
 
 Exclusive / High Value
+
+Lazy companies tend to recycle publicly available information into a lead magnet. This leads to a disappointing user experience for customers who shared their data. 
 
 Functional
 
