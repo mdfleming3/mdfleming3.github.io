@@ -17,8 +17,10 @@ A lead magnet is an incentive provided to potential customers for providing thei
 The typical conversion path of a lead magnet looks like this:
 
 * Call to Action (CTA) - this is a tagline and a button that encourages customers to act on the lead magnet offer
-* Landing page - This is area where customers submit 
+* Landing page - This is area where customers submit their information. This area can be combined withe the CTA (as done in my CTA below)
 * Thank You Page or Email - 
+
+{% include inline-contact.html %}
 
 ## Common types of lead magnets?
 
@@ -41,8 +43,6 @@ Companies frequently offer webinars that offer educational value, continuing edu
 ### Free trial
 
 This is your age old "7-day trial, if you don't like it you're aren't obligated to buy it" strategy. Customers get a free test run of a product, and the company obtains data on a more qualified lead than one that simply accessed content. With this lead magnet, companies must be careful not to give away full benefit of the product within the free trial timeframe. For example, I once used a thirty-day trial for Ancestry.com. For 30 days, I researched every one of my ancestors and exported all the dat. Once the 30 days were up, I never used the product again.
-
-{% include inline-contact.html %}
 
 ### Discount
 
