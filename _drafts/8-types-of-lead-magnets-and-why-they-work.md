@@ -40,7 +40,7 @@ Companies frequently offer webinars that offer educational value, continuing edu
 
 "Sign up to read the full article." How many times have you seen this paywall? This is a type of exclusive access that is used to generate subscription revenue or at a minimum lead information. Not all exclusive access is a pesky paywall. Many websites offer free tools, exclusive content, and other valuable features in these member's only areas.
 
-![](assets/lead-magnet-infographic.png)
+![lead-magnet-types-infographic]({{ site.baseurl }}/assets/lead-magnet-infographic.png)
 
 ### Free trial
 
