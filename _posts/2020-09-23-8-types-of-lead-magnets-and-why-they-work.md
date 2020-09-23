@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8 Types of Lead Magnets and Why they Work
-date: 2020-09-23 00:00:00 -0500
+date: 2020-09-23 07:00:00 -0500
 author: Mark Fleming
 description: Lead magnets can grow your new subscribers and customers. Here are the
   essential leads magnets and the common traits that make them great.
