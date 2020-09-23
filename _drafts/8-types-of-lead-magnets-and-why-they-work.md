@@ -40,7 +40,7 @@ Companies frequently offer webinars that offer educational value, continuing edu
 
 "Sign up to read the full article." How many times have you seen this? Exclusive access sections are frequently used to generate subscription revenue or at a minimum lead information. It's worth noting that this type of lead is not always a paywall. Many websites offer free tools, exclusive content, and other valuable features in these member's only areas.
 
-![](assets/lead-magnet-infographic-1.png)
+![lead-magnet-types-infographic]({{ site.baseurl }}/assets/lead-magnet-infographic-1.png)
 
 ### Free trial
 
