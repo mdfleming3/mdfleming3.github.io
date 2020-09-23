@@ -16,7 +16,7 @@ The typical conversion path for a lead magnet contains the following:
 
 * **Call to Action (CTA)** - this is a tagline and a button that encourages customers to act on the lead magnet offer
 * **Landing page** - This is area where customers submit their information. This area can be combined withe the CTA (as done in my CTA below)
-* **Thank You Action** - Once the customer submits his or her information, he or she will be redirected to another landing page or receive a download or email containing the incentive. 
+* **Thank You Action** - Once the customer submits his or her information, he or she will be redirected to another landing page or receive a download or email containing the incentive.
 
 For creating such lead magnets, there are [dozens of popular third party tools](https://instapage.com/blog/landing-page-software). With some coding savvy, these can easily be created on websites as well.
 
@@ -66,14 +66,20 @@ Surveys can be used as a way for customers to submit profiles to the company or 
 
 ### Exclusive / High Value
 
-Lazy companies recycle publicly available content into a lead magnet. When consumers access this content or tool, this leads to an underwhelming experience. If consumers feel underwhelmed about the magnet, this may impact the perception of the company's brand and the likelihood that they convert to a sale. As so, ensure that lead magnets are truly exclusive and of high value.
+Lazy companies recycle publicly available content into a lead magnet. When consumers access this content or tool, this leads to an underwhelming experience. If consumers feel underwhelmed about the magnet, this may impact the perception of the company's brand and the likelihood that they will convert to a sale. That's not good. To maximize lead experience, ensure that your magnets are truly exclusive and high quality. If the insights are high quality and unique, the conversion is bound to increase.
 
 ### Functional
 
-Lead magnets should aim to create a quick win. They need to solve a singular problem you have identified for your target market. 
+Lead magnets should aim to create a singular, quick win for consumers, and the CTA should clearly communicate this function. I like to think of a great lead magnet as something you will bookmark, because you are going to use it frequently.
 
-Transparent
+### Transparent
 
-Evergreen / "Bookmarkable"
+A recurring theme throughout this article is that consumers are skeptical of how and where they share their data. For lead magnets to work, consumers must feel confident sharing their data. Consumer's least favorite lead magnets are the ones that surprisingly require a credit card number on the final step of the submission path. For businesses to be successful, consider only requiring the minimum information at firm (email or name and email) before building that trust in later communications. If your lead magnet is designed to acquire more personal information, make this apparent in the CTA, so there are no surprises that may cause your lead to bolt.
 
-Trackable
+### Evergreen
+
+Lead magnets take time to create. If you do a little research, some companies dump big bucks into creating lead magnets that are so good they can put some lesser products out of business. With this in mind, focus on creating a tool or piece of content that is evergreen will stand the test of time. If you can get extended mileage out of a magnet, it will save your company on R&D as well as investment into the product.
+
+### Trackable
+
+Before your team 
