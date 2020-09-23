@@ -12,13 +12,13 @@ tags: lead-generation content-marketing email-marketing website
 ---
 ## What is a lead magnet?
 
-A lead magnet is an incentive given to potential customers for providing their contact information, such as name and email, through a company's website. This exchange works because both the company and the consumer gain something in the exchange. 
+A lead magnet is an incentive given to potential customers for providing their contact information, such as name and email, through a company's website. This exchange works because both the company and the consumer gain something in the exchange.
 
 The typical conversion path of a lead magnet looks like this:
 
 * Call to Action (CTA) - this is a tagline and a button that encourages customers to act on the lead magnet offer
 * Landing page - This is area where customers submit their information. This area can be combined withe the CTA (as done in my CTA below)
-* Thank You Page or Email - 
+* Thank You Page or Email -
 
 {% include inline-contact.html %}
 
@@ -40,7 +40,7 @@ Companies frequently offer webinars that offer educational value, continuing edu
 
 "Sign up to read the full article." How many times have you seen this paywall? This is a type of exclusive access that is used to generate subscription revenue or at a minimum lead information. Not all exclusive access is a pesky paywall. Many websites offer free tools, exclusive content, and other valuable features in these member's only areas.
 
-![lead-magnet-types-infographic]({{ site.baseurl }}/assets/lead-magnet-infographic.png)
+![lead-magnet-types-infographic]({{ site.baseurl }}/assets/lead-magnet-infographic-1.png)
 
 ### Free trial
 
@@ -66,7 +66,7 @@ Surveys can be used in many different ways. They can be used as a way for custom
 
 Exclusive / High Value
 
-Lazy companies tend to recycle publicly available information into a lead magnet. This leads to a disappointing user experience for customers who shared their data. 
+Lazy companies tend to recycle publicly available information into a lead magnet. This leads to a disappointing user experience for customers who shared their data.
 
 Functional
 
