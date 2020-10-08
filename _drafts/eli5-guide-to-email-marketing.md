@@ -49,13 +49,13 @@ While there is a lot to cover on the fundamentals of design, I won't go to in-de
 
 ### Types of Email Campaigns
 
-Email marketing campaigns can be broken into two distinct bins, manual campaigns and automated campaigns. 
+Email marketing campaigns are broken into two distinct bins: manual and automated. 
 
 #### Manual Campaigns
 
 For manual campaigns, these are similar to sending a regular email. You need draft and design content, enter that content into the email platform, select recipients, and send the email. While this process takes longer, it gives you greater control of the content you are distributing. In particular, manual campaigns are used when the content cannot be easily replicated. As so, emails such as nonrecurring event invitations and company announcements are common campaigns that are manually distributed.
 
-Automated Campaigns
+#### Automated Campaigns
 
 On the other hand, 
 
