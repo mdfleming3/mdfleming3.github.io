@@ -32,6 +32,21 @@ In this guide, we will dissect each of these buckets.
 
 ## Sending Content
 
+### Email Design
+
+With popular email platforms like Mailchimp, Hubspot, and Constant Contact -- there are few limitations to what your email's design can look like. Many of these platforms come with templates that allow you to drag and drop photos, text, links, etc. Across platforms, reoccurring features within an email include:
+
+* **Subject Line** - the title of your email
+* **Preview** - the pre-header that shows in your email inbox
+* **From Address** - the name and email the email is coming fox (i.e. Mark Fleming mark@markdfleming.com)
+* **Email body** - this is the bread and butter of the email; where all the content lives
+
+To improve workflow, these platforms allow marketers to create email templates that can be reused or use HTML code to fully customize the type of layout. This means that you can create an email that looks like it's a professionally designed print flyer or you can keep the email as simple plain text. Both emails have a purpose and appeal to audiences.
+
+While there is a lot to cover on the fundamentals of design, I won't go to in-depth in this guide (keep an eye out for future blog posts). However, here are some great articles on the matter:
+
+* [Mailchimp's Types of Email Templates](https://mailchimp.com/help/types-of-templates/)
+
 ### Types of Email Campaigns
 
 * Automated / Drip
@@ -39,7 +54,7 @@ In this guide, we will dissect each of these buckets.
 
 ### Understanding Triggers
 
-### Email Design
+### 
 
 ## Managing Data
 
