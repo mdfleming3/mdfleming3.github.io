@@ -23,10 +23,10 @@ Email marketing is the act of sending automated or mass distributed email conten
 
 While some executives think email marketing is simply just sending emails to clients, it's a little more complicated than that. I like to segment email marketing/marketing automation into four separate actions that are running at the same time:
 
-* Sending Content
-* Driving Action
-* Measuring Results
-* Managing Data
+* **Sending Content**
+* **Driving Action**
+* **Measuring Results**
+* **Managing Data**
 
 In this guide, we will dissect each of these buckets.
 
@@ -49,10 +49,17 @@ While there is a lot to cover on the fundamentals of design, I won't go to in-de
 
 ### Types of Email Campaigns
 
-* Automated / Drip
-* Manual
+Email marketing campaigns can be broken into two distinct bins, manual campaigns and automated campaigns. 
 
-### Understanding Triggers
+#### Manual Campaigns
+
+For manual campaigns, these are similar to sending a regular email. You need draft and design content, enter that content into the email platform, select recipients, and send the email. While this process takes longer, it gives you greater control of the content you are distributing. In particular, manual campaigns are used when the content cannot be easily replicated. As so, emails such as nonrecurring event invitations and company announcements are common campaigns that are manually distributed.
+
+Automated Campaigns
+
+On the other hand, 
+
+#### A Deeper Dive into Triggers
 
 ### 
 
