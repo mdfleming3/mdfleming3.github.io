@@ -23,13 +23,62 @@ Email marketing is the act of sending automated or mass distributed email conten
 
 While some executives think email marketing is simply just sending emails to clients, it's a little more complicated than that. I like to segment email marketing/marketing automation into four separate actions that are running at the same time:
 
-* Managing Data
 * Sending Content
 * Driving Action
 * Measuring Results
+* Managing Data
 
 In this guide, we will dissect each of these buckets.
 
+## Sending Content
+
+### Types of Email Campaigns
+
+* Automated / Drip
+* Manual
+
+### Understanding Triggers
+
+### Email Design
+
 ## Managing Data
 
-How to add clients
+CRM Basics
+
+* Tagging, Segmentation, Categories
+
+#### How contacts get added to mailing lists?
+
+* Submission Forms
+* Sync integrations
+* Manually Adding
+* 
+
+### The Importance of Unsubscribing...
+
+* CAN-SPAM Laws
+* Email preferences vs. Unsubscribe
+
+### What data should you collect?
+
+* At a minimum you need email, but you can collect any data that is valuable
+
+## Measuring Results
+
+Basic Email Metrics
+
+* Open Rate
+* Clickthrough Rate (CTR)
+* Unsubscribe Rate
+* Bounce Rate
+* Sales Conversion Rate
+
+A/B Testing
+
+## Driving Action
+
+Soft Touch vs. Hard Touch
+
+How this fits into an integrated marketing plan
+
+How to Avoid seeming like spam
