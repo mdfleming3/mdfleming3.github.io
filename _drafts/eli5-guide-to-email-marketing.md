@@ -10,7 +10,7 @@ category: blog
 tags: email-marketing digital-marketing lead-generation automation
 
 ---
-In this “Explain like I am Five” (ELI5) Guide, I will explain everything you need to know to build the foundations of a good email marketing strategy.
+Alongside social media, website management, SEO, and paid advertising--email marketing is one of the major digital marketing tools for companies. However, many marketers find email marketing to be one of the more complicated marketing practices. Sending to several thousand recipients can feel like your finger is on the nuclear button, which is further escalated if you don't know exactly what you are doing. As so, in this “Explain like I am Five” (ELI5) Guide, I will explain everything you need to know to get started with building an email marketing campaign. 
 
 ## What is Email Marketing?
 
@@ -21,7 +21,7 @@ Email marketing is the act of sending automated or mass distributed email conten
 * **Affordable** - email is one of the cheapest way to send customized messages to thousands of contacts
 * **Data-driven** - email is a behemoth for collecting customer data; many companies are building new business simply through email automation
 
-While some executives think email marketing is simply just sending emails to clients, it's a little more complicated than that. As we take a deep dive into the practice, let's break down email marketing into four types of actions that will compose your email marketing strategy.
+As we take a deep dive into the practice, let's break down email marketing into four types of actions that will compose your email marketing strategy.
 
 * **Content Management**
 * **Data Management**
@@ -32,9 +32,9 @@ In this guide, we will dissect each of these buckets.
 
 ## Content Management
 
-The content management bucket wil;
+This section is focused on the content within the email. If you have a content marketer, this will be the area where you feel most at home. While this includes your typical graphic design, copyrighting, template creation--this bucket also includes the logic behind your campaign.
 
-### Email Design
+### Email Content/Design
 
 With popular email platforms like Mailchimp, Hubspot, and Constant Contact -- there are few limitations to what your email's design can look like. Many of these platforms come with templates that allow you to drag and drop graphics, photos, text, links, etc. Across platforms, reoccurring features within an email include:
 
