@@ -19,18 +19,20 @@ Email marketing is the act of sending automated or mass distributed email conten
 * **Direct** - It is frequently more engaged with than other forms of marketing
 * **Automated** - it can replace the efforts of salespeople
 * **Affordable** - email is one of the cheapest way to send customized messages to thousands of contacts
-* **Data-driving** - email is a behemoth for collecting customer data; many companies are building new business simply through email automation
+* **Data-driven** - email is a behemoth for collecting customer data; many companies are building new business simply through email automation
 
-While some executives think email marketing is simply just sending emails to clients, it's a little more complicated than that. I like to segment email marketing/marketing automation into four separate actions that are running at the same time:
+While some executives think email marketing is simply just sending emails to clients, it's a little more complicated than that. As we take a deep dive into the practice, let's break down email marketing into four types of actions that will compose your email marketing strategy.
 
-* **Sending Content**
-* **Driving Action**
-* **Measuring Results**
-* **Managing Data**
+* **Content Management**
+* **Data Management**
+* **Engagement**
+* **Performance Analysis**
 
 In this guide, we will dissect each of these buckets.
 
-## Sending Content
+## Content Management
+
+The content management bucket wil;
 
 ### Email Design
 
@@ -63,17 +65,17 @@ When a company builds an automated email campaign that uses logic or multiple em
 
 #### A Deeper Dive into Triggers
 
-With automated email campaigns, they are not possible without triggers. 
+With automated email campaigns, they are not possible without triggers.
 
 '
 
 A trigger is a function in email marketing that causes emails to automatically send to clients based on the customer's action. That is, when a piece of data is collected
 
-Triggers are important, because they are the foundation of building drip sequences. 
+Triggers are important, because they are the foundation of building drip sequences.
 
 ### 
 
-## Managing Data
+## Data Management
 
 CRM Basics
 
@@ -95,7 +97,7 @@ CRM Basics
 
 * At a minimum you need email, but you can collect any data that is valuable
 
-## Measuring Results
+## Performance Analysis
 
 Basic Email Metrics
 
@@ -107,7 +109,7 @@ Basic Email Metrics
 
 A/B Testing
 
-## Driving Action
+## Engagement
 
 Soft Touch vs. Hard Touch
 
