@@ -78,9 +78,9 @@ A customer relationship management system (CRM) is a tool that allows companies 
 
 With email marketing, the goal is ultimately to drive sales, but the data collected through email can inform product decisions. Whenever a customer engages with an email, most email software products will automatically collect actions such as opens, clicks, subscribes, unsubscribes, registrations, and many other pieces of data. These all will feed back into the company's CRM to help better shape customer personas.
 
-### How contacts get added to mailing lists?
+### Adding and Removing Contacts
 
-In [my recent article on lead magnets](https://markdfleming.com/8-types-of-lead-magnets-and-why-they-work/), I discussed the ways that a company generation email leads through submission forms. If you haven't had the chance to read this article, check 
+In [my recent article on lead magnets](https://markdfleming.com/8-types-of-lead-magnets-and-why-they-work/), I discussed the ways that a company generation email leads through submission forms. If you haven't had the chance to read this article, check it out. Subm
 
 ### The Importance of Unsubscribing...
 
