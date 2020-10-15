@@ -80,16 +80,39 @@ With email marketing, the goal is ultimately to drive sales, but the data collec
 
 ### Adding and Removing Contacts
 
-In [my recent article on lead magnets](https://markdfleming.com/8-types-of-lead-magnets-and-why-they-work/), I discussed the ways that a company generation email leads through submission forms. If you haven't had the chance to read this article, check it out. Subm
+In [my recent article on lead magnets](https://markdfleming.com/8-types-of-lead-magnets-and-why-they-work/), I discussed the ways that a company generation email leads through submission forms. If you haven't had the chance to read this article, check it out. Submitting some sort of form -- whether a website form, webinar registration, or discount sign up -- should create contacts within a company's CRM. Once this form of engagement occurs, your company has the okay to send this contact an email. It's that easy. As long as your company is not purchasing mailing lists from harvesters, your company is flexible to send emails to prospective customers.
 
-### The Importance of Unsubscribing...
+On the other hand, customers are typically removed from mailing lists when they unsubscribe or change their preferences. An unsubscribe is an opt-out, where they notify your company that they do not want to receive any further messages at all costs. The client's ship has sailed. For preference changes, the individual still wants to receive emails, just certain types of emails (i.e. they want to receive discounts but not the company newsletter).
 
-* CAN-SPAM Laws
-* Email preferences vs. Unsubscribe
+To conclude this section, let's discuss the most important part of adding and removing contacts. This is CAN-SPAM compliance. Simply put, this is a law that standardizes email sending procedures. There are a handful of parts that you can survey in the [official Wikipedia page](https://en.wikipedia.org/wiki/CAN-SPAM_Act_of_2003), but the main takeaways are:
 
-### What data should you collect?
+**Unsubscribe compliance**
 
-* At a minimum you need email, but you can collect any data that is valuable
+* A visible and operable unsubscribe mechanism is present in all emails
+* Consumer opt-out requests are honored within 10 business days
+* Opt-out lists also known as suppression lists are used only for compliance purposes
+
+**Content compliance**
+
+* Accurate "From" lines 
+* Relevant subject lines (relative to offer in body content and not deceptive)
+* A legitimate physical address specified in email
+* A label is present if the content is adult
+
+**Sending behavior compliance**
+
+* A message cannot be sent without an unsubscribe option
+* A message cannot be sent to a harvested email address
+* A message cannot contain a false header
+* A message should contain at least one sentence
+* Unsubscribe option should be below the message
+
+### Categories, Segments and Tags
+
+In each platform, how you can segment your total population varies. Some systems have you create mailing lists. Other call things activities. Depending on the system, this language will vary, but the core concepts are the same. For the sake of this post, I will use Mailchimp's framework.
+
+* **Categories:** Divisions within your population that typically include product, location, active/non-active customer, etc. These are broad categories that create distinct, semi-permanent lines between your audience
+* **Segments:** These are filters or your typical "mailing list."
 
 ## Performance Analysis
 
