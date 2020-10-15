@@ -24,7 +24,7 @@ Email marketing is the act of sending mass distributed emails to customers and/o
 
 As we take a deep dive into the practice, we will look at how email marketing can be broken into three concurrent parts: content management, data management, and performance analysis.
 
-![email-marketing-funnel](assets/email-marketing-1.png "The Three Parts of Email Marketing")
+![email-marketing-funnel]({{ site.baseurl }}/assets/email-marketing-1.png "The Three Parts of Email Marketing")
 
 ## Content Management
 
@@ -39,9 +39,9 @@ With popular email platforms like [Mailchimp](https://mailchimp.com/ "Mailchimp"
 * **From Address**: who is sending the email (i.e. Mark Fleming, mark@markdfleming.com)
 * **Email body**: he bread and butter of the email; where all the content lives
 
-To improve workflow, the aforementioned platforms allow marketers to create email templates that can be reused or use HTML code to fully customize the type of layout. This means that you can create an email that looks like it's a professionally designed print flyer or you can keep the email as simple plain text. Both of these designs can be the better choice, depending on the scenario. 
+To improve workflow, the aforementioned platforms allow marketers to create email templates that can be reused or use HTML code to fully customize the type of layout. This means that you can create an email that looks like it's a professionally designed print flyer or you can keep the email as simple plain text. Both of these designs can be the better choice, depending on the scenario.
 
-While there is a lot to cover on the fundamentals of design, I won't go to in-depth in this guide (keep an eye out for future blog posts though). 
+While there is a lot to cover on the fundamentals of design, I won't go to in-depth in this guide (keep an eye out for future blog posts though).
 
 ### Types of Email Campaigns
 
