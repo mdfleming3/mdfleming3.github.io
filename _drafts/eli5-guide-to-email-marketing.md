@@ -1,20 +1,21 @@
 ---
 layout: post
 title: 'ELI5 Guide: Email Marketing'
-date: 2020-10-08 00:00:00 -0500
+date: 2020-10-15 11:00:00 -0500
 author: Mark Fleming
-description: ''
+description: The ELI5 guide to email marketing is the complete beginner's guide to
+  getting started with email marketing campaigns and strategy.
 image: ''
 image-alt: ''
 category: blog
 tags: email-marketing digital-marketing lead-generation automation
 
 ---
-Alongside social media, website management, SEO, and paid advertising--email marketing is one of the major digital marketing tools for companies. However, many marketers find email marketing to be one of the more complicated marketing practices. Sending to several thousand recipients can feel like your finger is on the nuclear button, which is further escalated if you don't know exactly what you are doing. As so, in this “Explain like I am Five” (ELI5) Guide, I will explain everything you need to know to get started with building an email marketing campaign. 
+Alongside social media, SEM, content marketing, and SEO--email marketing is one of the cornerstones of digital marketing. However, many marketers find email marketing to be one of the more complicated marketing practices. Sending to several thousand recipients can feel like your finger is on the nuclear button, which is further escalated if you don't know what you are doing. As so, in this “Explain like I am Five” (ELI5) Guide, I will explain everything you need to know to get started with building an email marketing campaign.
 
 ## What is Email Marketing?
 
-Email marketing is the act of sending automated or mass distributed email content to customers and/or clients who have chosen to opt-in to receiving content directly from the company. In comparison to other forms of digital marketing, email is useful because it is:
+Email marketing is the act of sending automated or mass distributed email content to customers and/or clients who have opt-in to receiving content directly from the company. In comparison to other forms of digital marketing, email is useful because it is:
 
 * **Direct** - It is frequently more engaged with than other forms of marketing
 * **Automated** - it can replace the efforts of salespeople
@@ -63,30 +64,23 @@ Automated campaigns, on the other hand, are some of the most powerful functions 
 
 When a company builds an automated email campaign that uses logic or multiple emails in a sequence, this is called **drip campaigns**. Based on the actions a consumer takes, a company can send highly targeted emails that can help provide greater value to customers and streamline the sales cycle.
 
-#### A Deeper Dive into Triggers
+#### The Basics of Triggers
 
-With automated email campaigns, they are not possible without triggers.
+With automated email campaigns, they are not possible without triggers. Triggers are some sort of parameter that is used to segment a population. They help power automated emails and nurture sequences because, they allow contacts to meet said parameter in real time. An example of this would be "everyone who has opened an email in the last month." An email could be automated to every contact who fulfills this parameter. This is a basic trigger.
 
-'
-
-A trigger is a function in email marketing that causes emails to automatically send to clients based on the customer's action. That is, when a piece of data is collected
-
-Triggers are important, because they are the foundation of building drip sequences.
-
-### 
+When sending automated emails, these parameters can be combined to create unique and highly engaged segments of an audience. Additionally, they can be used to power common types of automated emails such as purchases, new contact welcome emails, event registrations. All of this data will live inside a CRM system, which will lead to our next topic. 
 
 ## Data Management
 
-CRM Basics
+### Data Collection in Email Marketing
 
-* Tagging, Segmentation, Categories
+A customer relationship management system (CRM) is a tool that allows companies to manage all relationships with customers. They are powerful tools that operate at the heart of many businesses and enable sales teams to be successful. Additionally, these tools are built in with your email provider (i.e. Hubspot) or connected through an integration (i.e. Marketo and Salesforce). This allows email marketing efforts to not only help marketing teams, but rather the entire company. 
 
-#### How contacts get added to mailing lists?
+With email marketing, the goal is ultimately to drive sales, but the data collected through email can inform product decisions. Whenever a customer engages with an email, most email software products will automatically collect actions such as opens, clicks, subscribes, unsubscribes, registrations, and many other pieces of data. These all will feed back into the company's CRM to help better shape customer personas.
 
-* Submission Forms
-* Sync integrations
-* Manually Adding
-* 
+### How contacts get added to mailing lists?
+
+In [my recent article on lead magnets](https://markdfleming.com/8-types-of-lead-magnets-and-why-they-work/), I discussed the ways that a company generation email leads through submission forms. If you haven't had the chance to read this article, check 
 
 ### The Importance of Unsubscribing...
 
