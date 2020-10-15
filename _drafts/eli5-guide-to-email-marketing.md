@@ -22,11 +22,11 @@ Email marketing is the act of sending automated or mass distributed emails to cu
 * **Affordable** - email is one of the cheapest way to send customized messages to thousands of contacts
 * **Data-driven** - email is a behemoth for collecting customer data; many companies are building new business simply through email automation
 
-As we take a deep dive into the practice, let's break down email marketing into three types of actions that will compose your email marketing strategy.
+As we take a deep dive into the practice, we will look at how email email marketing can be broken into three parts: content management, data management, and performance analysis.
 
 ![email-marketing-funnel](assets/email-marketing-1.png "The Three Parts of Email Marketing")
 
-In this guide, we will dissect each of these buckets.
+All of these parts are moving concurrently and necessary for 
 
 ## Content Management
 
