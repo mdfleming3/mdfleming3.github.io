@@ -6,7 +6,7 @@ author: Mark Fleming
 description: The ELI5 guide to email marketing is the complete beginner's guide to
   getting started with email marketing campaigns and strategy.
 image: ''
-image-alt: ''
+image-alt: eli5-guide-to-email-marketing
 category: blog
 tags: email-marketing digital-marketing lead-generation automation
 
@@ -124,15 +124,15 @@ After an email campaign is sent, you will never know how truly successful it is 
 
 If I were to suggest five metrics to understand in email marketing, these would be the five most basic that everyone should understand. They are the foundation of email marketing:
 
-* Open Rate - The % of your audience that opens your email
+* **Open Rate** - The % of your audience that opens your email
   * Higher rates mean your campaign is getting received by your audience, which indicates the list is healthy
-* Clickthrough Rate (CTR) - The % of your audience that clicks your email
+* **Clickthrough Rate (CTR)** - The % of your audience that clicks your email
   * Higher rates mean that more recipients are acting on the email by clicking; you should always measure what recipients are clicking
-* Unsubscribe Rate - The % of your audience that unsubscribes from your campaign
+* **Unsubscribe Rate** - The % of your audience that unsubscribes from your campaign
   * High rates mean that more recipients do not want to your communications; if this is increasing the rate you are sending may be two high or the content may not be appropriate
-* Bounce Rate - The % of your audience that fails to receive your email
+* **Bounce Rate** - The % of your audience that fails to receive your email
   * Higher rates mean that your list contains inaccurate email information. These recipients should be removed
-* Sales Conversion Rate - The % of your audience that is converting on a sale
+* **Sales Conversion Rate** - The % of your audience that is converting on a sale
   * Higher rates mean that your emails are converting to more sales
 
 ### Hard Hits vs. Soft Hits
