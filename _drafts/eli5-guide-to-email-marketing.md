@@ -15,18 +15,16 @@ Alongside social media, SEM, content marketing, and SEO--email marketing is one 
 
 ## What is Email Marketing?
 
-Email marketing is the act of sending automated or mass distributed email content to customers and/or clients who have opt-in to receiving content directly from the company. In comparison to other forms of digital marketing, email is useful because it is:
+Email marketing is the act of sending automated or mass distributed emails to customers and/or clients who have opt-in to receive content directly from the company. This practice is useful because it is:
 
-* **Direct** - It is frequently more engaged with than other forms of marketing
+* **Direct** - It is one of the most engaging forms of marketing
 * **Automated** - it can replace the efforts of salespeople
 * **Affordable** - email is one of the cheapest way to send customized messages to thousands of contacts
 * **Data-driven** - email is a behemoth for collecting customer data; many companies are building new business simply through email automation
 
 As we take a deep dive into the practice, let's break down email marketing into three types of actions that will compose your email marketing strategy.
 
-* **Content Management**
-* **Data Management**
-* **Performance Analysis**
+![email-marketing-funnel](assets/email-marketing-1.png "The Three Parts of Email Marketing")
 
 In this guide, we will dissect each of these buckets.
 
@@ -67,13 +65,13 @@ When a company builds an automated email campaign that uses logic or multiple em
 
 With automated email campaigns, they are not possible without triggers. Triggers are some sort of parameter that is used to segment a population. They help power automated emails and nurture sequences because, they allow contacts to meet said parameter in real time. An example of this would be "everyone who has opened an email in the last month." An email could be automated to every contact who fulfills this parameter. This is a basic trigger.
 
-When sending automated emails, these parameters can be combined to create unique and highly engaged segments of an audience. Additionally, they can be used to power common types of automated emails such as purchases, new contact welcome emails, event registrations. All of this data will live inside a CRM system, which will lead to our next topic. 
+When sending automated emails, these parameters can be combined to create unique and highly engaged segments of an audience. Additionally, they can be used to power common types of automated emails such as purchases, new contact welcome emails, event registrations. All of this data will live inside a CRM system, which will lead to our next topic.
 
 ## Data Management
 
 ### Data Collection in Email Marketing
 
-A customer relationship management system (CRM) is a tool that allows companies to manage all relationships with customers. They are powerful tools that operate at the heart of many businesses and enable sales teams to be successful. Additionally, these tools are built in with your email provider (i.e. Hubspot) or connected through an integration (i.e. Marketo and Salesforce). This allows email marketing efforts to not only help marketing teams, but rather the entire company. 
+A customer relationship management system (CRM) is a tool that allows companies to manage all relationships with customers. They are powerful tools that operate at the heart of many businesses and enable sales teams to be successful. Additionally, these tools are built in with your email provider (i.e. Hubspot) or connected through an integration (i.e. Marketo and Salesforce). This allows email marketing efforts to not only help marketing teams, but rather the entire company.
 
 With email marketing, the goal is ultimately to drive sales, but the data collected through email can inform product decisions. Whenever a customer engages with an email, most email software products will automatically collect actions such as opens, clicks, subscribes, unsubscribes, registrations, and many other pieces of data. These all will feed back into the company's CRM to help better shape customer personas.
 
@@ -93,7 +91,7 @@ To conclude this section, let's discuss the most important part of adding and re
 
 **Content compliance**
 
-* Accurate "From" lines 
+* Accurate "From" lines
 * Relevant subject lines (relative to offer in body content and not deceptive)
 * A legitimate physical address specified in email
 * A label is present if the content is adult
@@ -118,7 +116,7 @@ There are a thousand ways your company can target and segment an audience, but u
 
 ## Performance Analysis
 
-After an email campaign is sent, you will never know how truly successful it is until you measure engagement through performance analysis. This is simply understanding the metrics that tell whether your campaign was successful or not. 
+After an email campaign is sent, you will never know how truly successful it is until you measure engagement through performance analysis. This is simply understanding the metrics that tell whether your campaign was successful or not.
 
 ### Basic Metrics
 
