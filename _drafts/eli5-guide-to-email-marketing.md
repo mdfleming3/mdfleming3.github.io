@@ -22,11 +22,10 @@ Email marketing is the act of sending automated or mass distributed email conten
 * **Affordable** - email is one of the cheapest way to send customized messages to thousands of contacts
 * **Data-driven** - email is a behemoth for collecting customer data; many companies are building new business simply through email automation
 
-As we take a deep dive into the practice, let's break down email marketing into four types of actions that will compose your email marketing strategy.
+As we take a deep dive into the practice, let's break down email marketing into three types of actions that will compose your email marketing strategy.
 
 * **Content Management**
 * **Data Management**
-* **Engagement**
 * **Performance Analysis**
 
 In this guide, we will dissect each of these buckets.
@@ -112,24 +111,42 @@ To conclude this section, let's discuss the most important part of adding and re
 In each platform, how you can segment your total population varies. Some systems have you create mailing lists. Other call things activities. Depending on the system, this language will vary, but the core concepts are the same. For the sake of this post, I will use Mailchimp's framework.
 
 * **Categories:** Divisions within your population that typically include product, location, active/non-active customer, etc. These are broad categories that create distinct, semi-permanent lines between your audience
-* **Segments:** These are filters or your typical "mailing list."
+* **Segments:** These are filters or your typical "mailing list." These are typically used to segment mailing lists for newsletters, alerts, events, and other regular emails
+* **Tags:** These are typically yes/no fields that are sometimes referred to as activities. In Mailchimp, these are commonly referred to as flexible temporary fields. These could include event registration, search parameters, and other customer attributes.
+
+There are a thousand ways your company can target and segment an audience, but understanding the ways your platform can segment and your business goals is the ultimate priority.
 
 ## Performance Analysis
 
-Basic Email Metrics
+After an email campaign is sent, you will never know how truly successful it is until you measure engagement through performance analysis. This is simply understanding the metrics that tell whether your campaign was successful or not. 
 
-* Open Rate
-* Clickthrough Rate (CTR)
-* Unsubscribe Rate
-* Bounce Rate
-* Sales Conversion Rate
+### Basic Metrics
 
-A/B Testing
+If I were to suggest five metrics to understand in email marketing, these would be the five most basic that everyone should understand. They are the foundation of email marketing:
 
-## Engagement
+* Open Rate - The % of your audience that opens your email
+  * Higher rates mean your campaign is getting received by your audience, which indicates the list is healthy
+* Clickthrough Rate (CTR) - The % of your audience that clicks your email
+  * Higher rates mean that more recipients are acting on the email by clicking; you should always measure what recipients are clicking
+* Unsubscribe Rate - The % of your audience that unsubscribes from your campaign
+  * High rates mean that more recipients do not want to your communications; if this is increasing the rate you are sending may be two high or the content may not be appropriate
+* Bounce Rate - The % of your audience that fails to receive your email
+  * Higher rates mean that your list contains inaccurate email information. These recipients should be removed
+* Sales Conversion Rate - The % of your audience that is converting on a sale
+  * Higher rates mean that your emails are converting to more sales
 
-Soft Touch vs. Hard Touch
+### Hard Hits vs. Soft Hits
 
-How this fits into an integrated marketing plan
+While maximizing sales conversion rates needs to be a priority for companies, too heavy of a focus on this can jeopardize brand and user experience. As so, a strong email campaign needs to find the right balance of prioritizing hard hits (i.e. sales-focused metrics) with soft hits (i.e. engagement metrics such as CTR). By keeping both of these high, you will be able to ensure favorable content is appearing for your whole audience and that they are receiving valuable content as well as making purchases.
 
-How to Avoid seeming like spam
+### A/B Testing
+
+In email marketing, the ultimate way to measure performance testing is through A/B testing. A/B testing is simply conducting a science experiment with a control group and experimental group. Just like you learned in science class. For email marketing, this means that the control group is sent to a random selection of recipients while the experimental group is sent to the other random selection. This can be used to test the color of buttons, subject line, or even wording within a paragraph.
+
+With these tests, you are simply trying to determine which group generates higher conversion rates, CTRs, etc. Some of the best email campaigns in the world have refined their campaigns to near perfection by conducting these tests hundreds of times.
+
+## Conclusions
+
+Phew - that's a lot to think about. Any of these single areas can easily become a rabbit hole for your company. As you build your email marketing platform, remember to consider      the big picture of your email marketing strategy. How does this fit into your sales goals, branding, and larger integrated marketing plan? Nailing down the basics and having a defined goal will be key to greating a great jump start.
+
+If you have any questions, feel free to visit my About page or subscribe to my email list.
