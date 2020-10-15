@@ -11,41 +11,37 @@ category: blog
 tags: email-marketing digital-marketing lead-generation automation
 
 ---
-Alongside social media, SEM, content marketing, and SEO--email marketing is one of the cornerstones of digital marketing. However, many marketers find email marketing to be one of the more complicated marketing practices. Sending to several thousand recipients can feel like your finger is on the nuclear button, which is further escalated if you don't know what you are doing. As so, in this “Explain like I am Five” (ELI5) Guide, I will explain everything you need to know to get started with building an email marketing campaign.
+Alongside social media, SEM, content creation, and SEO—email marketing is one of the cornerstones of digital marketing. However, many marketers find email marketing to be one of the more complicated marketing practices. Sending email to several thousand recipients can feel like your finger is on the nuclear button, which is further escalated if you don't know what you are doing. As so, in this “Explain like I am Five” (ELI5) Guide, I will explain everything you need to know to get started with building an email marketing campaign.
 
 ## What is Email Marketing?
 
-Email marketing is the act of sending automated or mass distributed emails to customers and/or clients who have opt-in to receive content directly from the company. This practice is useful because it is:
+Email marketing is the act of sending mass distributed emails to customers and/or clients who have opt-in to receive content directly from the company. This practice is useful because it is:
 
-* **Direct** - It is one of the most engaging forms of marketing
-* **Automated** - it can replace the efforts of salespeople
-* **Affordable** - email is one of the cheapest way to send customized messages to thousands of contacts
-* **Data-driven** - email is a behemoth for collecting customer data; many companies are building new business simply through email automation
+* **Direct**: It is one of the most engaging forms of marketing
+* **Automated**: it can replace the efforts of salespeople
+* **Affordable**: email is one of the cheapest way to send customized messages to thousands of contacts
+* **Data-driven**: email is a behemoth for collecting customer data; many companies are building new business simply through email automation
 
-As we take a deep dive into the practice, we will look at how email email marketing can be broken into three parts: content management, data management, and performance analysis.
+As we take a deep dive into the practice, we will look at how email marketing can be broken into three concurrent parts: content management, data management, and performance analysis.
 
 ![email-marketing-funnel](assets/email-marketing-1.png "The Three Parts of Email Marketing")
 
-All of these parts are moving concurrently and necessary for 
-
 ## Content Management
 
-This section is focused on the content within the email. If you have a content marketer, this will be the area where you feel most at home. While this includes your typical graphic design, copyrighting, template creation--this bucket also includes the logic behind your campaign.
+This section is focused on the content within the email. If you are a content marketer, this will be the area where you feel most at home. While this includes your typical graphic design, copyrighting, template creation—this bucket also includes the logic behind your campaign.
 
 ### Email Content/Design
 
-With popular email platforms like Mailchimp, Hubspot, and Constant Contact -- there are few limitations to what your email's design can look like. Many of these platforms come with templates that allow you to drag and drop graphics, photos, text, links, etc. Across platforms, reoccurring features within an email include:
+With popular email platforms like [Mailchimp](https://mailchimp.com/ "Mailchimp"), [Hubspot](https://www.hubspot.com/ "Hubspot"), and [Constant Contact](https://www.constantcontact.com/ "Constant Contact")—there are few limitations to what your email's design can look like. Many of these platforms come with templates that allow you to drag and drop graphics, photos, text, links, etc. Across platforms, reoccurring features within an email include:
 
-* **Subject Line** - the title of your email
-* **Preview** - the pre-header that shows in your email inbox
-* **From Address** - the name and email the email is coming fox (i.e. Mark Fleming mark@markdfleming.com)
-* **Email body** - this is the bread and butter of the email; where all the content lives
+* **Subject Line**: the title of your email
+* **Preview**: the pre-header that shows in your email inbox
+* **From Address**: who is sending the email (i.e. Mark Fleming, mark@markdfleming.com)
+* **Email body**: he bread and butter of the email; where all the content lives
 
-To improve workflow, the aforementioned platforms allow marketers to create email templates that can be reused or use HTML code to fully customize the type of layout. This means that you can create an email that looks like it's a professionally designed print flyer or you can keep the email as simple plain text. Both of these designs can be the better choice, depending on the scenario. In the A/B Testing section, we'll dig deeper into this.
+To improve workflow, the aforementioned platforms allow marketers to create email templates that can be reused or use HTML code to fully customize the type of layout. This means that you can create an email that looks like it's a professionally designed print flyer or you can keep the email as simple plain text. Both of these designs can be the better choice, depending on the scenario. 
 
-While there is a lot to cover on the fundamentals of design, I won't go to in-depth in this guide (keep an eye out for future blog posts). However, here are some great articles on the matter:
-
-* [Mailchimp's Types of Email Templates](https://mailchimp.com/help/types-of-templates/)
+While there is a lot to cover on the fundamentals of design, I won't go to in-depth in this guide (keep an eye out for future blog posts though). 
 
 ### Types of Email Campaigns
 
@@ -53,13 +49,13 @@ Email marketing campaigns are broken into two distinct bins: manual and automate
 
 #### Manual Campaigns
 
-For manual campaigns, these are similar to sending a regular email. You need draft and design content, enter that content into the email platform, select recipients, and send the email. While this process takes longer, it gives you greater control of the content you are distributing. In particular, manual campaigns are used when the content cannot be easily replicated. As so, emails such as nonrecurring event invitations and company announcements are common campaigns that are manually distributed.
+These are similar to sending a regular email. You to need draft and design content, enter that content into the email platform, select recipients, and send the email. While this process takes longer, it gives you greater control of the content you are distributing. In particular, manual campaigns are used when the content cannot be easily replicated. As so, emails such as nonrecurring event invitations and company announcements are common campaigns that are manually distributed.
 
-#### Automated Campaigns and Drip Campaigns
+#### Automated Campaigns and Drip Sequences
 
-Automated campaigns, on the other hand, are some of the most powerful functions performed by marketing departments. These are emails that are automatically sent to certain customers or prospects. They are typically the result of a trigger (which I discuss in more detail below). Automated campaigns are typically used when content is similar for all recipients, except for a few customized fields that a determined by merged fields (i.e. first name, order amount, location, etc.).
+Automated campaigns, on the other hand, are some of the most powerful functions performed by marketing departments. These are emails that are automatically sent to certain customers or prospects. They are typically the result of a trigger (which I discuss in more detail below). Automated campaigns are typically used when content is similar for all recipients, except for a few customized merged fields (i.e. first name, order amount, location, etc.).
 
-When a company builds an automated email campaign that uses logic or multiple emails in a sequence, this is called **drip campaigns**. Based on the actions a consumer takes, a company can send highly targeted emails that can help provide greater value to customers and streamline the sales cycle.
+When a company builds an automated email campaign that uses logic or multiple emails in a sequence, this is called a **drip campaign**. Based on the actions a consumer takes, a company can send highly targeted emails that can help provide greater value to customers and streamline the sales cycle.
 
 #### The Basics of Triggers
 
@@ -139,7 +135,7 @@ While maximizing sales conversion rates needs to be a priority for companies, to
 
 ### A/B Testing
 
-In email marketing, the ultimate way to measure performance testing is through A/B testing. A/B testing is simply conducting a science experiment with a control group and experimental group. Just like you learned in science class. For email marketing, this means that the control group is sent to a random selection of recipients while the experimental group is sent to the other random selection. This can be used to test the color of buttons, subject line, or even wording within a paragraph.
+In email marketing, the ultimate way to measure performance testing is through A/B testing. A/B testing is simply conducting a science experiment with a control group and experimental group. Just like you learned in science class. For email marketing, this means that the control group is sent to a random selection of recipients while the experimental group is sent to the other random selection. This can be used to test the color of buttons, subject line, plain text vs. HTML, or even wording within a paragraph.
 
 With these tests, you are simply trying to determine which group generates higher conversion rates, CTRs, etc. Some of the best email campaigns in the world have refined their campaigns to near perfection by conducting these tests hundreds of times.
 
