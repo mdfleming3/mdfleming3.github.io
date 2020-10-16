@@ -55,7 +55,9 @@ These are similar to sending a regular email. You to need draft and design conte
 
 Automated campaigns, on the other hand, are some of the most powerful functions performed by marketing departments. These are emails that are automatically sent to certain customers or prospects. They are typically the result of a trigger (which I discuss in more detail below). Automated campaigns are typically used when content is similar for all recipients, except for a few customized merged fields (i.e. first name, order amount, location, etc.).
 
-When a company builds an automated email campaign that uses logic or multiple emails in a sequence, this is called a **drip campaign**. Based on the actions a consumer takes, a company can send highly targeted emails that can help provide greater value to customers and streamline the sales cycle.
+When a company builds an automated email campaign that uses logic or multiple emails in a sequence, this is called a drip sequence. Based on the actions a consumer takes, a company can send highly targeted emails that can help provide greater value to customers and streamline the sales cycle.
+
+![](assets/screenshot-at-oct-15-19-22-19.png)
 
 #### The Basics of Triggers
 
