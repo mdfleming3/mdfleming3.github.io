@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELI5 Guide: Email Marketing'
-date: 2020-10-15 11:00:00 -0500
+date: 2020-10-15 19:54:14 -0500
 author: Mark Fleming
 description: The ELI5 guide to email marketing is the complete beginner's guide to
   getting started with email marketing campaigns and strategy.
