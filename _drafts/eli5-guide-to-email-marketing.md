@@ -5,7 +5,7 @@ date: 2020-10-15 11:00:00 -0500
 author: Mark Fleming
 description: The ELI5 guide to email marketing is the complete beginner's guide to
   getting started with email marketing campaigns and strategy.
-image: ''
+image: assets/4459586.png
 image-alt: eli5-guide-to-email-marketing
 category: blog
 tags: email-marketing digital-marketing lead-generation automation
@@ -99,6 +99,8 @@ To conclude this section, let's discuss the most important part of adding and re
 * A message cannot contain a false header
 * A message should contain at least one sentence
 * Unsubscribe option should be below the message
+
+{% include inline-contact.html %}
 
 ### Categories, Segments and Tags
 
