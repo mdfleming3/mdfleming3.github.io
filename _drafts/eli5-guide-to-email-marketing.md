@@ -55,31 +55,31 @@ These are similar to sending regular emails. You need to draft and design conten
 
 Automated campaigns, on the other hand, are some of the most powerful functions performed by marketing departments. These are emails that are automatically sent to certain customers or prospects. They are typically the result of a trigger (which I discuss in more detail below). Automated campaigns are typically used when content is similar for all recipients, except for a few customized merged fields (i.e. first name, order amount, location, etc.).
 
-When a company builds an automated email campaign that uses logic or multiple emails, this is called a drip sequence. Based on the actions a consumer takes, a company can send highly targeted emails that can help provide greater value to customers and streamline the sales cycle. 
+When a company builds an automated email campaign that uses logic or multiple emails, this is called a drip sequence. Based on the actions a consumer takes, a company can send highly targeted emails that can help provide greater value to customers and streamline the sales cycle.
 
 #### The Basics of Triggers
 
-With automated email campaigns, they are not possible without triggers. Triggers are some sort of parameter that is used to segment a population. They help power automated emails and nurture sequences because, they allow contacts to meet said parameter in real time. An example of this would be "everyone who has opened an email in the last month." An email could be automated to every contact who fulfills this parameter. This is a basic trigger.
+With automated email campaigns, they are not possible without triggers. Triggers are some sort of parameter that is used to segment a population. They help power automated emails and nurture sequences because, they allow contacts to meet said parameters in real time. An example of this would be "everyone who has opened an email in the last month." An email could be automated to every contact who fulfills this parameter. 
 
-When sending automated emails, these parameters can be combined to create unique and highly engaged segments of an audience. Additionally, they can be used to power common types of automated emails such as purchases, new contact welcome emails, event registrations. 
+When sending automated emails, these parameters can be combined to create unique and highly engaged segments of an audience. Additionally, they can be used to power common types of automated emails such as purchases, new contact welcome emails, and event registrations.
 
 In the example below, I demonstrate an example of a drip sequence.
 
 ![drip-sequence-example]({{ site.baseurl }}/assets/screenshot-at-oct-15-19-22-19.png)
 
-The top blue circle represents an email that is sent to a company's full audience. If a customers answers yes on a button within the email, this will trigger a second email (represented in green). Based on whether the customer answers yes or no and engages or does not engage with the email, data will be collected on the customer. This will determine who receives the next email campaign (highlighted as the second blue email). This is a very basic example. Many established company's have such sequences that look like big spiderwebs.
+The top blue circle represents an email that is sent to a company's full audience. If a customer answers yes on a button within the email, this will trigger a second email (represented in green). Based on whether the customer answers yes or no and engages or does not engage with the email, data will be appropriately collected on the customer. This will determine who receives the next email campaign (highlighted as the second blue email). 
 
 ## Data Management
 
 ### Data Collection in Email Marketing
 
-A customer relationship management system (CRM) is a tool that allows companies to manage all relationships with customers. They are powerful tools that operate at the heart of many businesses and enable sales teams to be successful. Additionally, these tools are built in with your email provider (i.e. Hubspot) or connected through an integration (i.e. Marketo and Salesforce). This allows email marketing efforts to not only help marketing teams, but rather the entire company.
+A customer relationship management system (CRM) is a tool that allows companies to manage all relationships with customers. They are powerful tools that operate at the heart of many businesses and enable sales teams to be successful. Additionally, these tools are built in with your email provider (i.e. Hubspot) or connected through an integration (i.e. Marketo and Salesforce). This allows email marketing efforts to not only help marketing teams, but rather the whole company.
 
-With email marketing, the goal is ultimately to drive sales, but the data collected through email can inform product decisions. Whenever a customer engages with an email, most email software products will automatically collect actions such as opens, clicks, subscribes, unsubscribes, registrations, and many other pieces of data. These all will feed back into the company's CRM to help better shape customer personas.
+With email marketing, the goal is ultimately to drive sales, but the data collected through email can inform product decisions. Whenever a customer engages with an email, most email software products will automatically collect action data such as opens, clicks, subscribes, unsubscribes, registrations, etc. These all will feed back into the company's CRM to help business leaders better understand their customers.
 
 ### Adding and Removing Contacts
 
-In [my recent article on lead magnets](https://markdfleming.com/8-types-of-lead-magnets-and-why-they-work/), I discussed the ways that a company generation email leads through submission forms. If you haven't had the chance to read this article, check it out. Submitting some sort of form -- whether a website form, webinar registration, or discount sign up -- should create contacts within a company's CRM. Once this form of engagement occurs, your company has the okay to send this contact an email. It's that easy. As long as your company is not purchasing mailing lists from harvesters, your company is flexible to send emails to prospective customers.
+In [my recent article on lead magnets](https://markdfleming.com/8-types-of-lead-magnets-and-why-they-work/), I discussed the ways that a company generates email leads through submission forms. If you haven't had the chance to read this article, check it out. Submitting some sort of form—whether a website form, webinar registration, or discount sign up—should create contacts within a company's CRM. Once this form of engagement occurs, your company has the okay to send this contact an email. It's that easy. As long as your company is not purchasing mailing lists from harvesters, your company is flexible to send emails to prospective customers.
 
 On the other hand, customers are typically removed from mailing lists when they unsubscribe or change their preferences. An unsubscribe is an opt-out, where they notify your company that they do not want to receive any further messages at all costs. The client's ship has sailed. For preference changes, the individual still wants to receive emails, just certain types of emails (i.e. they want to receive discounts but not the company newsletter).
 
@@ -110,7 +110,7 @@ To conclude this section, let's discuss the most important part of adding and re
 
 ### Categories, Segments and Tags
 
-In each platform, how you can segment your total population varies. Some systems have you create mailing lists. Other call things activities. Depending on the system, this language will vary, but the core concepts are the same. For the sake of this post, I will use Mailchimp's framework.
+In each platform, how you can segment your total population varies. Some systems have you create mailing lists. Others call these activities. Depending on the system, this language will vary, but the core concepts are the same, and they all can be used to power your automation in unique ways. For the sake of this post, I will use Mailchimp's framework.
 
 * **Categories:** Divisions within your population that typically include product, location, active/non-active customer, etc. These are broad categories that create distinct, semi-permanent lines between your audience
 * **Segments:** These are filters or your typical "mailing list." These are typically used to segment mailing lists for newsletters, alerts, events, and other regular emails
@@ -124,18 +124,18 @@ After an email campaign is sent, you will never know how truly successful it is 
 
 ### Basic Metrics
 
-If I were to suggest five metrics to understand in email marketing, these would be the five most basic that everyone should understand. They are the foundation of email marketing:
+If I were to suggest five metrics to understand in email marketing, these would be the five most basic that everyone should understand. They are the foundations of email marketing:
 
 * **Open Rate** - The % of your audience that opens your email
   * Higher rates mean your campaign is getting received by your audience, which indicates the list is healthy
 * **Clickthrough Rate (CTR)** - The % of your audience that clicks your email
-  * Higher rates mean that more recipients are acting on the email by clicking; you should always measure what recipients are clicking
+  * Higher rates mean more recipients are acting on the email by clicking; you should always measure what recipients are clicking
 * **Unsubscribe Rate** - The % of your audience that unsubscribes from your campaign
-  * High rates mean that more recipients do not want to your communications; if this is increasing the rate you are sending may be two high or the content may not be appropriate
+  * Higher rates mean more recipients do not want to receive your communications; if this is increasing, you may be sending too many or not applicable emails to your audience
 * **Bounce Rate** - The % of your audience that fails to receive your email
-  * Higher rates mean that your list contains inaccurate email information. These recipients should be removed
+  * Higher rates mean your list contains inaccurate email information. Contacts who frequently bounce should be removed or verified for accuracy
 * **Sales Conversion Rate** - The % of your audience that is converting on a sale
-  * Higher rates mean that your emails are converting to more sales
+  * Higher rates mean your emails are converting to more sales
 
 ### Hard Hits vs. Soft Hits
 
@@ -151,4 +151,4 @@ With these tests, you are simply trying to determine which group generates highe
 
 Phew - that's a lot to think about. Any of these single areas can easily become a rabbit hole for your company. As you build your email marketing platform, remember to consider      the big picture of your email marketing strategy. How does this fit into your sales goals, branding, and larger integrated marketing plan? Nailing down the basics and having a defined goal will be key to greating a great jump start.
 
-If you have any questions, feel free to visit my About page or subscribe to my email list.
+If you have any questions, feel free to visit my [About page](https://markdfleming.com/about/) or subscribe to my email list.
