@@ -28,7 +28,7 @@ As we take a deep dive into the practice, we will look at how email marketing ca
 
 ## Content Management
 
-This section is focused on the content within the email. If you are a content marketer, this will be the area where you feel most at home. While this includes your typical graphic design, copyrighting, template creation—this bucket also includes the logic behind your campaign.
+This section is focused on the content within the email. If you are a content marketer, this will be the area where you feel most at home. While this includes your typical graphic design, copywriting, and template creation—this bucket also includes the logic behind your campaign.
 
 ### Email Content/Design
 
@@ -37,33 +37,37 @@ With popular email platforms like [Mailchimp](https://mailchimp.com/ "Mailchimp"
 * **Subject Line**: the title of your email
 * **Preview**: the pre-header that shows in your email inbox
 * **From Address**: who is sending the email (i.e. Mark Fleming, mark@markdfleming.com)
-* **Email body**: he bread and butter of the email; where all the content lives
+* **Email body**: the bread and butter of the email; where all the content lives
 
-To improve workflow, the aforementioned platforms allow marketers to create email templates that can be reused or use HTML code to fully customize the type of layout. This means that you can create an email that looks like it's a professionally designed print flyer or you can keep the email as simple plain text. Both of these designs can be the better choice, depending on the scenario.
+To improve workflow, the aforementioned platforms allow marketers to create email templates that can be reused or customize the type of layout. This means that you can create an HTML email that looks like it's a professionally designed print flyer or you can keep the email as simple plain text. Both of these designs can be the better choice, depending on the scenario.
 
 While there is a lot to cover on the fundamentals of design, I won't go to in-depth in this guide (keep an eye out for future blog posts though).
 
 ### Types of Email Campaigns
 
-Email marketing campaigns are broken into two distinct bins: manual and automated.
+Email marketing campaigns are broken into two distinct buckets: manual and automated.
 
 #### Manual Campaigns
 
-These are similar to sending a regular email. You to need draft and design content, enter that content into the email platform, select recipients, and send the email. While this process takes longer, it gives you greater control of the content you are distributing. In particular, manual campaigns are used when the content cannot be easily replicated. As so, emails such as nonrecurring event invitations and company announcements are common campaigns that are manually distributed.
+These are similar to sending regular emails. You need to draft and design content, enter that content into the email platform, select recipients, and send the email. While this process takes longer,  you will have greater control over your content. In particular, manual campaigns are used when content cannot be easily replicated. Emails such as nonrecurring event invitations and company announcements are common examples.
 
 #### Automated Campaigns and Drip Sequences
 
 Automated campaigns, on the other hand, are some of the most powerful functions performed by marketing departments. These are emails that are automatically sent to certain customers or prospects. They are typically the result of a trigger (which I discuss in more detail below). Automated campaigns are typically used when content is similar for all recipients, except for a few customized merged fields (i.e. first name, order amount, location, etc.).
 
-When a company builds an automated email campaign that uses logic or multiple emails in a sequence, this is called a drip sequence. Based on the actions a consumer takes, a company can send highly targeted emails that can help provide greater value to customers and streamline the sales cycle.
-
-![](assets/screenshot-at-oct-15-19-22-19.png)
+When a company builds an automated email campaign that uses logic or multiple emails, this is called a drip sequence. Based on the actions a consumer takes, a company can send highly targeted emails that can help provide greater value to customers and streamline the sales cycle. 
 
 #### The Basics of Triggers
 
 With automated email campaigns, they are not possible without triggers. Triggers are some sort of parameter that is used to segment a population. They help power automated emails and nurture sequences because, they allow contacts to meet said parameter in real time. An example of this would be "everyone who has opened an email in the last month." An email could be automated to every contact who fulfills this parameter. This is a basic trigger.
 
-When sending automated emails, these parameters can be combined to create unique and highly engaged segments of an audience. Additionally, they can be used to power common types of automated emails such as purchases, new contact welcome emails, event registrations. All of this data will live inside a CRM system, which will lead to our next topic.
+When sending automated emails, these parameters can be combined to create unique and highly engaged segments of an audience. Additionally, they can be used to power common types of automated emails such as purchases, new contact welcome emails, event registrations. 
+
+In the example below, I demonstrate an example of a drip sequence.
+
+![drip-sequence-example]({{ site.baseurl }}/assets/screenshot-at-oct-15-19-22-19.png)
+
+The top blue circle represents an email that is sent to a company's full audience. If a customers answers yes on a button within the email, this will trigger a second email (represented in green). Based on whether the customer answers yes or no and engages or does not engage with the email, data will be collected on the customer. This will determine who receives the next email campaign (highlighted as the second blue email). This is a very basic example. Many established company's have such sequences that look like big spiderwebs.
 
 ## Data Management
 
