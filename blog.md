@@ -9,4 +9,8 @@ description: Mark Fleming's practical marketing solutions and strategies for con
 
 {% include cta.html %}
 
-{% include blogger.html %}
+{% include cta2.html %}
+
+{% include cta3.html %}
+
+{% include about.html %}
