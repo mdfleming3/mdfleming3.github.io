@@ -8,3 +8,5 @@ description: Mark Fleming's practical marketing solutions and strategies for con
 ---
 
 {% include cta.html %}
+
+{% include blogger.html %}
