@@ -1,23 +1,23 @@
 <div class="constrain">
-  {% for post in site.posts offset:1 %}
-    <div class="card">
-       <img src="{{ post.thumbnail_image.small }}" />
-          <div class="card-details">
-             <h2>{{ post.title | escape }}</h2>
-
-                {% if post.image %}
-                   <a href="{{ post.url | relative_url }}">
-                     <img width="100%" src="{{ site.baseurl }}/{{ post.image }}" alt=post."{{ post.image-alt }}">
-                   </a>
-                {% endif %}
-
-                 <p>
-                   {%- if site.show_excerpts -%}
-                     {{ post.excerpt }}
-                   {%- endif -%}
-                 </p>
-
-               <a href="{{ post.url }}" class="btn">Read More</a>
-          </div>
-       </div>
+   <h1>The best of the rest</h1> 
+   <section class="card-list">
+           {% for post in site.posts offset:1 %}
+           <div class="card">
+             <h2>{{ post.title }}</h2>      
+             <img src="{{ site.baseurl }}/{{ post.image }}" />
+                   <div class="card-details">
+                   
+                     
+                             <p>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+        </p>
+                     
+               <a href="{{ post.url | relative_url }}" class="btn">Read More</a>
+                   </div>
+               </div>
+           {% endfor %}
+          
+   </section>
 </div>
