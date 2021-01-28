@@ -1,8 +1,8 @@
 ---
 published: true
-layout: page
+layout: home
 title: Blog
-permalink: /blog/
+permalink: /blog1/
 description: Mark Fleming's practical marketing solutions and strategies for content, digital, analytics, and marketing automation.
 
 ---
