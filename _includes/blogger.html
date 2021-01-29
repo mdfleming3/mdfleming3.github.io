@@ -1,3 +1,9 @@
+{% if site.paginate %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
 <div class="constrain">
    <h1>The best of the rest</h1>
    <section class="card-list">
