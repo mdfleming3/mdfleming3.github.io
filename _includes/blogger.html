@@ -1,23 +1,40 @@
 <div class="constrain">
-   <h1>The best of the rest</h1> 
+   <h1>The best of the rest</h1>
    <section class="card-list">
            {% for post in site.posts offset:1 %}
            <div class="card">
-             <h2>{{ post.title }}</h2>      
-             <img src="{{ site.baseurl }}/{{ post.image }}" />
+             <h2>{{ post.title }}</h2>
+             <a href="{{ post.url | relative_url }}">
+               <img width="100%" src="{{ site.baseurl }}/{{ post.image }}" alt=post."{{ post.image-alt }}">
+             </a>
                    <div class="card-details">
-                   
-                     
-                             <p>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-        </p>
-                     
-               <a href="{{ post.url | relative_url }}" class="btn">Read More</a>
+        <p>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+            {%- endif -%}
+        </p>         
                    </div>
                </div>
            {% endfor %}
-          
+
+           {% if site.paginate %}
+             <div class="pager">
+               <ul class="pagination">
+               {%- if paginator.previous_page %}
+                 <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
+               {%- else %}
+                 <li><div class="pager-edge">•</div></li>
+               {%- endif %}
+                 <li><div class="current-page">{{ paginator.page }}</div></li>
+               {%- if paginator.next_page %}
+                 <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+               {%- else %}
+                 <li><div class="pager-edge">•</div></li>
+               {%- endif %}
+               </ul>
+             </div>
+           {%- endif %}
+
+
    </section>
 </div>
