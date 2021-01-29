@@ -9,11 +9,9 @@
                </a>
              </h2>
 
-             {% if post.image %}
-               <a href="{{ post.url | relative_url }}">
-                 <img src="{{ site.baseurl }}/{{ post.image }}" alt=post."{{ post.image-alt }}">
-               </a>
-             {% endif %}
+             {% if page.image %}
+           <img src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.image-alt }}">
+         {% endif %}
 
                    <div class="card-details">
         <p>
