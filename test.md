@@ -10,10 +10,14 @@ description: I am a Chicago-based professional marketer with experience partneri
 
 {% include search-button.html %}
 
-{% include full-subscribe.html %}
+<hr>
 
 {% include short-subscribe.html %}
 
+<hr>
+
 {% include about.html %}
+
+<hr>
 
 {% include cta.html %}
