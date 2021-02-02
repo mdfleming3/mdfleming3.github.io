@@ -4,10 +4,9 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: directory
+- type: document
   path: _sass/minima/_layout.scss
   label: CSS
-  create: all
   match: "**/*"
 - type: document
   path: _layouts/home.html
