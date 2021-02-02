@@ -8,7 +8,7 @@ description: I am a Chicago-based professional marketer with experience partneri
 
 ---
 
-{% include search-button.html %}
+{% include cta.html %}
 
 <hr>
 
@@ -16,8 +16,8 @@ description: I am a Chicago-based professional marketer with experience partneri
 
 <hr>
 
-{% include about.html %}
+{% include search-button.html %}
 
 <hr>
 
-{% include cta.html %}
+{% include about.html %}
