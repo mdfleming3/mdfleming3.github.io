@@ -5,7 +5,7 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: directory
-  path: _sass/minima
+  path: _sass/minima/_layout.scss
   label: CSS
   create: all
   match: "**/*"
