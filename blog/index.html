@@ -5,12 +5,16 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-published: false
+published: true
 layout: default
 title: Blog
 description: Mark Fleming's practical marketing solutions and strategies for content, digital, analytics, and marketing automation.
 image: assets/web-image.jpg
 ---
+
+{% include search-button.html %}
+
+
 
 {% if site.paginate %}
   {% assign posts = paginator.posts %}
