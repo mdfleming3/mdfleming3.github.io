@@ -3,6 +3,11 @@
   <input type="submit" value="Search Now">
 </form>
 
+<form action="{{ site.baseurl }}/search-results/" method="get">
+    <p><input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search" /></p>
+    <button type="submit" value="Submit">Submit</button>
+</form>
+
 <style>
 
   /* Style the search field */
