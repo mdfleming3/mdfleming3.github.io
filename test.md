@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: test
 title: Test
 permalink: "/test/"
 description: I am a Chicago-based professional marketer with experience partnering
