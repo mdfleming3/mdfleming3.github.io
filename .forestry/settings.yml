@@ -6,6 +6,10 @@ webhook_url:
 sections:
 - type: document
   path: _sass/minima/_layout.scss
+  label: test
+  match: "**/*"
+- type: document
+  path: _sass/minima/_layout.scss
   label: CSS
   match: "**/*"
 - type: document
