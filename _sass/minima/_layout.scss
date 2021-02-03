@@ -3,13 +3,12 @@
   text-align: center;
 }
 
-input {
+input [type="submit"] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
-  box-sizing: border-box;
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #CC0000;
+  color: #ffffff;
 }
 
 /**
