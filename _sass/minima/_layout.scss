@@ -3,24 +3,39 @@
     margin: auto;
     padding: 50px;
     text-align: left;
+    min-width: $on-large;
 }
 
 input[type=submit] {
-  width: 50%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  background-color: #CC0000;
-  color: #ffffff;
+clear:both;
+background-color: #CC0000;
+border: 0 none;
+border-radius:4px;
+transition: all 0.23s ease-in-out 0s;
+color: #FFFFFF;
+cursor: pointer;
+display: inline-block;
+font-size:15px;
+font-weight: normal;
+height: 32px;
+line-height: 32px;
+margin: 0 5px 10px 0;
+padding: 0 22px;
+text-align: center;
+text-decoration: none;
+vertical-align: top;
+white-space: nowrap;
+width: auto;
 }
 
 .row-full{
 width: 100vw;
-height: 100%;
+height: 500px;
 position: relative;
 margin-left: -50vw;
-height: 600px;
 left: 50%;
 background: $border-color-01;
+z-index: 10000;
 }
 
 /**
@@ -425,7 +440,7 @@ In-line Text
 #mc_embed_signup input[type=checkbox]{-webkit-appearance:checkbox;}
 #mc_embed_signup input[type=radio]{-webkit-appearance:radio;}
 #mc_embed_signup input:focus {border-color:#333;}
-#mc_embed_signup .button {clear:both; background-color: #aaa; border: 0 none; border-radius:4px; transition: all 0.23s ease-in-out 0s; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: normal; height: 32px; line-height: 32px; margin: 0 5px 10px 0; padding: 0 22px; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;}
+#mc_embed_signup .button {clear:both; background-color: #CC0000; border: 0 none; border-radius:4px; transition: all 0.23s ease-in-out 0s; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: normal; height: 32px; line-height: 32px; margin: 0 5px 10px 0; padding: 0 22px; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;}
 #mc_embed_signup .button:hover {background-color:#777;}
 #mc_embed_signup .small-meta {font-size: 11px;}
 #mc_embed_signup .nowrap {white-space:nowrap;}
@@ -460,7 +475,3 @@ In-line Text
 
 #mc-embedded-subscribe {clear:both; width:auto; display:block; margin:1em 0 1em 5%;}
 #mc_embed_signup #num-subscribers {font-size:1.1em;}
-#mc_embed_signup #num-subscribers span {padding:.5em; border:1px solid #ccc; margin-right:.5em; font-weight:bold;}
-
-#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {display:inline-block; margin:2px 0 1em 0; padding:5px 10px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; font-size:14px; font-weight:normal; z-index:1; color:#e85c41;}
-#mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {border:2px solid #e85c41;}
