@@ -29,13 +29,14 @@ width: auto;
 }
 
 .row-full{
+margin-top: -25px;
 width: 100vw;
 height: 500px;
 position: relative;
 margin-left: -50vw;
 left: 50%;
 background: $border-color-01;
-z-index: 10000;
+z-index: -1;
 }
 
 /**
