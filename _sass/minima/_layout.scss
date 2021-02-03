@@ -26,6 +26,7 @@ text-decoration: none;
 vertical-align: top;
 white-space: nowrap;
 width: auto;
+z-index: 5;
 }
 
 .row-full{
@@ -36,7 +37,7 @@ position: relative;
 margin-left: -50vw;
 left: 50%;
 background: $border-color-01;
-z-index: 1;
+z-index: 0;
 }
 
 /**
