@@ -24,7 +24,7 @@ sections:
   match: "**/*"
 - type: directory
   path: _sass
-  label: CSS
+  label: Stylesheets
   create: all
   match: "**/*"
 upload_dir: assets
