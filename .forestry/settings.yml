@@ -6,9 +6,6 @@ webhook_url:
 sections:
 - type: document
   path: _sass/minima/_layout.scss
-  label: test
-- type: document
-  path: _sass/minima/_layout.scss
   label: CSS
 - type: document
   path: _layouts/home.html
