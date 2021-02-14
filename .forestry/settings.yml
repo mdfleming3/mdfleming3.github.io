@@ -22,9 +22,11 @@ sections:
   label: Includes
   create: all
   match: "**/*"
-- type: document
+- type: directory
   path: _sass/minima
   label: CSS
+  create: all
+  match: "**/*"
 upload_dir: assets
 public_path: assets
 front_matter_path: ''
