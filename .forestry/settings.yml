@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: document
-  path: _sass/minima/custom-styles.scss
-  label: Custom CSS
-  match: "**/*"
 - type: heading
   label: Content
 - type: jekyll-posts
@@ -24,11 +20,6 @@ sections:
 - type: directory
   path: _includes
   label: Includes
-  create: all
-  match: "**/*"
-- type: directory
-  path: _sass/minima
-  label: Stylesheets
   create: all
   match: "**/*"
 upload_dir: assets
