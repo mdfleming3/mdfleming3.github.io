@@ -4,18 +4,27 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: document
-  path: _sass/minima/_layout.scss
-  label: CSS
-- type: document
-  path: _layouts/home.html
-  label: Home
-- type: jekyll-pages
-  label: Pages
-  create: all
+- type: heading
+  label: Content
 - type: jekyll-posts
   label: Posts
   create: all
+- type: jekyll-pages
+  label: Pages
+  create: all
+- type: document
+  path: _layouts/home.html
+  label: Home
+- type: heading
+  label: Items
+- type: directory
+  path: _includes
+  label: Includes
+  create: all
+  match: "**/*"
+- type: document
+  path: _sass/minima/_layout.scss
+  label: CSS
 upload_dir: assets
 public_path: assets
 front_matter_path: ''
