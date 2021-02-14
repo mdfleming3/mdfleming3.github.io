@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: document
+  path: _sass/minima/custom-styles.scss
+  label: Custom CSS
+  match: "**/*"
 - type: heading
   label: Content
 - type: jekyll-posts
