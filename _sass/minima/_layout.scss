@@ -30,14 +30,10 @@ z-index: 5;
 }
 
 .row-full{
-padding: 20px 20%;
-margin-top: -30px;
-width: 100vw;
-height: 500px;
-position: relative;
-margin-left: -50vw;
-left: 50%;
-z-index: 0;
+position: absolute;
+width: 100%;
+left: 0;
+padding: 20px;
 }
 
 /**
