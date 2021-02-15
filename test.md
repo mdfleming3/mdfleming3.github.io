@@ -7,9 +7,9 @@ description: I am a Chicago-based professional marketer with experience partneri
   to achieve growth and engagement goals and boost client value.
 
 ---
-{% include cta.html %}
-
 {% include about.html %}
+
+{% include cta.html %}
 
 {% include search-button.html %}
 
