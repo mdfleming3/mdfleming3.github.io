@@ -1,7 +1,7 @@
 <div class="row-full">
 
   <div class="cta-body">
-  <h1 class="homepage-heading1">Latest from the Blog</h1>ma
+  <h1 class="homepage-heading1">Latest from the Blog</h1>
     <div class="rect1">
   {% for post in site.posts limit:3 %}
 
@@ -14,7 +14,7 @@
       {% endfor %}
     </div>
 
-  <form action="{{ site.baseurl }}/blog/">
+  <form class="cta-button" action="{{ site.baseurl }}/blog/">
     <input type="submit" value="View Full Blog" />
   </form>
   </div>
