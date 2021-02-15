@@ -3,10 +3,10 @@
   <div class="cta-body">
   <h1 class="homepage-heading1">Latest from the Blog</h1>ma
     <div class="rect1">
-  {% for post in site.posts limit:6 %}
+  {% for post in site.posts limit:3 %}
 
               <a href="{{ site.baseurl }}{{ post.url }}">
-                  <div class="rel1">
+                  <div class="rel">
                       <img src="{{ site.baseurl }}/{{ post.image }}" alt="post.image-alt">
                       <h5 class="relh1">{{ post.title }}</h5>
                   </div>
