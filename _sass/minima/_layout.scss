@@ -23,9 +23,12 @@
 }
 
 .row-full1{
-  position: absolute;
-  width: 100%;
-  left: 0;
+  width: 100vw;
+  position: relative;
+  margin-left: -50vw;
+  height: 500px;
+  left: 50%;
+ }
 }
 
 .cta-button {
