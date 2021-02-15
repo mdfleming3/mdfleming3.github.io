@@ -12,9 +12,12 @@
 }
 
 .row-full{
-  width: auto;
-  height: auto;
-  clear: both;
+  width: 100vw;
+  height: 500px;
+  position: relative;
+  margin-left: -50vw;
+  left: 50%;
+  z-index: 0;
 }
 
 input[type=submit] {
