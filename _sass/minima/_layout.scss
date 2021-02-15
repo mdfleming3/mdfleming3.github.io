@@ -7,11 +7,25 @@
     border-bottom: 1px solid $border-color-01;
 }
 
+.cta-body1 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px 0 10px 0;
+    text-align: left;
+    background-color: $red;
+}
+
 .row-full{
   width: auto;
   margin: auto;
   height: auto;
   position: relative;
+}
+
+.row-full1{
+  position: absolute;
+  width: 100%;
+  left: 0;
 }
 
 .cta-button {
