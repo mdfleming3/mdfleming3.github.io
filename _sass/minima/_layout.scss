@@ -10,7 +10,9 @@
 .cta-body1 {
     max-width: 800px;
     margin: 0 auto;
+    height: 250px;
     padding: 10px 0 10px 0;
+    background-color: blue;
     text-align: left;
 }
 
@@ -19,17 +21,7 @@
   margin: auto;
   height: auto;
   position: relative;
-  background-color: blue;
 }
-
-.row-full1{
-  width: 100vw;
-  position: relative;
-  margin-left: -50%;
-  height: 200px;
-  left: 50%;
-  background-color: blue;
- }
 
 .cta-button {
   margin-top: 10px;
