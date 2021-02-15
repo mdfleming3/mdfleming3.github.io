@@ -1,17 +1,11 @@
 .cta-body {
     position: absolute;
-    width: 800px;
-    margin: auto;
+    width: 60%;
+    margin: 0 auto;
+    top: 50%;
+    bottom: 50%;
     text-align: left;
-    min-width: $on-medium;
     background-color: $background-color;
-}
-
-.first-row-full{
-  width: auto;
-  margin: auto;
-  height: 400px;
-  position: relative;
 }
 
 .row-full{
