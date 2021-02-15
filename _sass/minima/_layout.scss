@@ -1,9 +1,23 @@
 .cta-body {
+    position: absolute;
     margin: auto;
-    width: 60%;
-    padding: 20px;
+    width: 800px;
     text-align: left;
     min-width: $on-large;
+    background-color: $background-color;
+    margin-top: 20px;
+    z-index: 1;
+}
+
+.first-row-full{
+  margin: auto;
+  width: 100%;
+}
+
+.row-full{
+  position: relative;
+  margin: auto;
+  width: 100%;
 }
 
 input[type=submit] {
@@ -27,13 +41,6 @@ vertical-align: top;
 white-space: nowrap;
 width: auto;
 z-index: 5;
-}
-
-.row-full{
-position: absolute;
-width: 100%;
-left: 0;
-padding: 20px;
 }
 
 /**
