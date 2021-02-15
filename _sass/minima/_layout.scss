@@ -8,16 +8,16 @@
 
 .first-row-full{
   width: auto;
-  height: auto;
+  margin: auto;
+  height: 500px;
+  position: relative;
 }
 
 .row-full{
-  width: 100vw;
+  width: auto;
+  margin: auto;
   height: 500px;
   position: relative;
-  margin-left: -50vw;
-  left: 50%;
-  z-index: 0;
 }
 
 input[type=submit] {
