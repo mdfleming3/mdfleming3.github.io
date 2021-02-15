@@ -8,15 +8,3 @@ description: I am a Chicago-based professional marketer with experience partneri
 
 ---
 {% include cta.html %}
-
-<br>
-
-{% include about.html %}
-
-<br>
-
-{% include short-subscribe.html %}
-
-<br>
-
-{% include search-button.html %}
